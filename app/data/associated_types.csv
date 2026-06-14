@@ -1,0 +1,4190 @@
+﻿DisNo.,type_name
+1999-9388-SDN,Food shortage
+1999-9388-SDN,Water shortage
+1999-9388-SOM,Food shortage
+2000-0009-IRN,Fire
+2000-0019-BRA,"Slide (land, mud, snow, rock)"
+2000-0038-PHL,"Slide (land, mud, snow, rock)"
+2000-0050-MNG,Cold wave
+2000-0080-USA,"Slide (land, mud, snow, rock)"
+2000-0097-AUS,Flood
+2000-0103-ZMB,Broken Dam/Burst bank
+2000-0107-MDG,Flood
+2000-0129-PER,"Slide (land, mud, snow, rock)"
+2000-0178-MDG,Rain
+2000-0230-IDN,Tsunami/Tidal wave
+2000-0257-PHL,Flood
+2000-0265-COL,"Slide (land, mud, snow, rock)"
+2000-0265-COL,Transport accident
+2000-0270-CHN,Flood
+2000-0274-JPN,Hail
+2000-0283-BGD,Flood
+2000-0293-IDN,"Slide (land, mud, snow, rock)"
+2000-0311-AUT,Hail
+2000-0332-IND,Broken Dam/Burst bank
+2000-0333-MEX,"Slide (land, mud, snow, rock)"
+2000-0372-CHN,Rain
+2000-0372-CHN,"Slide (land, mud, snow, rock)"
+2000-0373-BGD,"Slide (land, mud, snow, rock)"
+2000-0375-CHL,Rain
+2000-0381-TUR,Drought
+2000-0472-CHN,"Slide (land, mud, snow, rock)"
+2000-0480-RUS,"Slide (land, mud, snow, rock)"
+2000-0484-BTN,"Slide (land, mud, snow, rock)"
+2000-0500-USA,"Slide (land, mud, snow, rock)"
+2000-0557-CHN,Flood
+2000-0572-PRK,Surge
+2000-0597-PHL,Flood
+2000-0606-JPN,"Slide (land, mud, snow, rock)"
+2000-0609-GTM,"Slide (land, mud, snow, rock)"
+2000-0656-JPN,"Slide (land, mud, snow, rock)"
+2000-0677-CHN,"Slide (land, mud, snow, rock)"
+2000-0706-TWN,Flood
+2000-0706-TWN,"Slide (land, mud, snow, rock)"
+2000-0714-GBR,Flood
+2000-0749-PNG,Tsunami/Tidal wave
+2000-0791-IDN,"Slide (land, mud, snow, rock)"
+2000-0809-BRA,"Slide (land, mud, snow, rock)"
+2000-0831-LKA,Rain
+2000-0831-LKA,Surge
+2000-0838-USA,Transport accident
+2000-0905-BOL,"Slide (land, mud, snow, rock)"
+2000-0917-ZAF,Rain
+2000-0919-USA,Cold wave
+2000-9186-AFG,Famine
+2000-9186-AFG,Water shortage
+2000-9222-IND,Food shortage
+2000-9222-IND,Heat wave
+2000-9495-ARM,Heat wave
+2000-9537-BIH,Heat wave
+2000-9604-MNG,Wildfire
+2000-9712-USA,Wildfire
+2000-9860-HND,Famine
+2000-9860-NIC,Famine
+2001-0013-SLV,"Slide (land, mud, snow, rock)"
+2001-0040-PRT,"Slide (land, mud, snow, rock)"
+2001-0042-SLV,"Slide (land, mud, snow, rock)"
+2001-0051-IDN,"Slide (land, mud, snow, rock)"
+2001-0106-USA,Transport accident
+2001-0145-USA,Hail
+2001-0151-CHN,"Slide (land, mud, snow, rock)"
+2001-0176-THA,"Slide (land, mud, snow, rock)"
+2001-0242-USA,Flood
+2001-0266-USA,Flood
+2001-0266-USA,Snow/ice
+2001-0294-PER,Tsunami/Tidal wave
+2001-0299-CMR,"Slide (land, mud, snow, rock)"
+2001-0345-PNG,"Slide (land, mud, snow, rock)"
+2001-0376-PAK,"Slide (land, mud, snow, rock)"
+2001-0407-IDN,"Slide (land, mud, snow, rock)"
+2001-0421-CHN,Collapse
+2001-0460-USA,"Slide (land, mud, snow, rock)"
+2001-0477-USA,Hail
+2001-0494-NGA,Broken Dam/Burst bank
+2001-0522-TWN,Flood
+2001-0522-TWN,"Slide (land, mud, snow, rock)"
+2001-0534-CHN,"Slide (land, mud, snow, rock)"
+2001-0571-PRK,Rain
+2001-0614-PHL,Flood
+2001-0614-PHL,"Slide (land, mud, snow, rock)"
+2001-0620-DZA,"Slide (land, mud, snow, rock)"
+2001-0642-GRC,"Slide (land, mud, snow, rock)"
+2001-0664-ZAF,Broken Dam/Burst bank
+2001-0696-BRA,"Slide (land, mud, snow, rock)"
+2001-0719-IDN,"Slide (land, mud, snow, rock)"
+2001-0723-BRA,"Slide (land, mud, snow, rock)"
+2001-0758-PHL,Flood
+2001-0758-PHL,"Slide (land, mud, snow, rock)"
+2001-0779-NZL,Drought
+2001-9044-MLI,Famine
+2001-9044-NER,Famine
+2001-9044-TCD,Food shortage
+2001-9152-AGO,Famine
+2001-9383-GTM,Famine
+2001-9383-HND,Food shortage
+2001-9383-NIC,Food shortage
+2001-9409-MRT,Food shortage
+2002-0002-VUT,"Slide (land, mud, snow, rock)"
+2002-0005-PHL,"Slide (land, mud, snow, rock)"
+2002-0010-ALB,Cold wave
+2002-0017-USA,Transport accident
+2002-0018-IDN,"Slide (land, mud, snow, rock)"
+2002-0026-SEN,Cold wave
+2002-0033-COD,Earthquake
+2002-0033-COD,Explosion
+2002-0055-DEU,Flood
+2002-0069-THA,Hail
+2002-0077-PER,"Slide (land, mud, snow, rock)"
+2002-0080-COD,"Slide (land, mud, snow, rock)"
+2002-0082-BRA,"Slide (land, mud, snow, rock)"
+2002-0110-BOL,Rain
+2002-0122-AFG,"Slide (land, mud, snow, rock)"
+2002-0125-ECU,Rain
+2002-0125-ECU,"Slide (land, mud, snow, rock)"
+2002-0126-FSM,Surge
+2002-0128-USA,Transport accident
+2002-0129-PHL,Tsunami/Tidal wave
+2002-0157-AUS,Rain
+2002-0165-USA,Flood
+2002-0165-USA,"Slide (land, mud, snow, rock)"
+2002-0171-SPI,"Slide (land, mud, snow, rock)"
+2002-0172-TWN,"Slide (land, mud, snow, rock)"
+2002-0172-TWN,Tsunami/Tidal wave
+2002-0175-AFG,"Slide (land, mud, snow, rock)"
+2002-0208-AFG,"Slide (land, mud, snow, rock)"
+2002-0247-GEO,"Slide (land, mud, snow, rock)"
+2002-0265-KEN,"Slide (land, mud, snow, rock)"
+2002-0273-RWA,"Slide (land, mud, snow, rock)"
+2002-0296-PRY,Broken Dam/Burst bank
+2002-0321-HTI,"Slide (land, mud, snow, rock)"
+2002-0322-CHL,Cold wave
+2002-0325-JAM,"Slide (land, mud, snow, rock)"
+2002-0339-COL,"Slide (land, mud, snow, rock)"
+2002-0343-ITA,"Slide (land, mud, snow, rock)"
+2002-0350-CHN,"Slide (land, mud, snow, rock)"
+2002-0368-ARG,"Slide (land, mud, snow, rock)"
+2002-0375-TJK,"Slide (land, mud, snow, rock)"
+2002-0376-RUS,"Slide (land, mud, snow, rock)"
+2002-0403-BRA,Broken Dam/Burst bank
+2002-0428-NPL,Flood
+2002-0467-DEU,Rain
+2002-0474-KOR,"Slide (land, mud, snow, rock)"
+2002-0475-TJK,"Slide (land, mud, snow, rock)"
+2002-0498-CHN,"Slide (land, mud, snow, rock)"
+2002-0557-KOR,"Slide (land, mud, snow, rock)"
+2002-0577-PNG,Tsunami/Tidal wave
+2002-0584-IND,Tsunami/Tidal wave
+2002-0627-JAM,Flood
+2002-0636-GRD,"Slide (land, mud, snow, rock)"
+2002-0643-IDN,"Slide (land, mud, snow, rock)"
+2002-0643-IDN,Tsunami/Tidal wave
+2002-0657-HTI,Flood
+2002-0690-ITA,"Slide (land, mud, snow, rock)"
+2002-0692-PAK,"Slide (land, mud, snow, rock)"
+2002-0721-PAK,"Slide (land, mud, snow, rock)"
+2002-0724-USA,Flood
+2002-0740-ITA,"Slide (land, mud, snow, rock)"
+2002-0743-CHE,"Slide (land, mud, snow, rock)"
+2002-0770-VUT,"Slide (land, mud, snow, rock)"
+2002-0811-SLB,Surge
+2002-0824-BRA,Flood
+2002-0839-COL,Broken Dam/Burst bank
+2002-0879-ESP,"Slide (land, mud, snow, rock)"
+2002-9124-MWI,Famine
+2002-9333-LSO,Famine
+2002-9333-LSO,Food shortage
+2002-9398-CPV,Food shortage
+2002-9535-GMB,Food shortage
+2002-9611-AUS,Wildfire
+2002-9707-MDG,Famine
+2002-9852-UGA,Food shortage
+2003-0001-PRT,"Slide (land, mud, snow, rock)"
+2003-0016-IDN,"Slide (land, mud, snow, rock)"
+2003-0024-FJI,"Slide (land, mud, snow, rock)"
+2003-0024-FJI,Surge
+2003-0028-BRA,"Slide (land, mud, snow, rock)"
+2003-0033-MKD,"Slide (land, mud, snow, rock)"
+2003-0039-MEX,"Slide (land, mud, snow, rock)"
+2003-0043-ITA,"Slide (land, mud, snow, rock)"
+2003-0047-BOL,"Slide (land, mud, snow, rock)"
+2003-0051-PER,"Slide (land, mud, snow, rock)"
+2003-0097-GRC,"Slide (land, mud, snow, rock)"
+2003-0099-IND,Hail
+2003-0114-MOZ,Rain
+2003-0114-ZWE,Rain
+2003-0139-USA,Flood
+2003-0139-USA,Hail
+2003-0147-USA,Transport accident
+2003-0155-IDN,Flood
+2003-0182-IND,Rain
+2003-0184-ITA,"Slide (land, mud, snow, rock)"
+2003-0185-CHN,Hail
+2003-0185-CHN,Rain
+2003-0204-KEN,Broken Dam/Burst bank
+2003-0204-KEN,"Slide (land, mud, snow, rock)"
+2003-0211-BGD,Hail
+2003-0211-BGD,"Slide (land, mud, snow, rock)"
+2003-0212-AZE,"Slide (land, mud, snow, rock)"
+2003-0218-MDG,Rain
+2003-0227-CHN,"Slide (land, mud, snow, rock)"
+2003-0229-LKA,"Slide (land, mud, snow, rock)"
+2003-0236-AFG,"Slide (land, mud, snow, rock)"
+2003-0238-PRI,"Slide (land, mud, snow, rock)"
+2003-0245-DZA,Tsunami/Tidal wave
+2003-0249-JPN,Fire
+2003-0249-JPN,"Slide (land, mud, snow, rock)"
+2003-0250-IND,Drought
+2003-0256-AFG,"Slide (land, mud, snow, rock)"
+2003-0258-PHL,Flood
+2003-0258-PHL,"Slide (land, mud, snow, rock)"
+2003-0273-TJK,"Slide (land, mud, snow, rock)"
+2003-0274-CHN,"Slide (land, mud, snow, rock)"
+2003-0284-COL,"Slide (land, mud, snow, rock)"
+2003-0287-ASM,"Slide (land, mud, snow, rock)"
+2003-0289-PHL,"Slide (land, mud, snow, rock)"
+2003-0290-PHL,Flood
+2003-0290-PHL,"Slide (land, mud, snow, rock)"
+2003-0293-TLS,"Slide (land, mud, snow, rock)"
+2003-0302-AFG,"Slide (land, mud, snow, rock)"
+2003-0303-BGD,"Slide (land, mud, snow, rock)"
+2003-0314-SLB,"Slide (land, mud, snow, rock)"
+2003-0315-CHN,"Slide (land, mud, snow, rock)"
+2003-0326-ECU,Pollution
+2003-0331-CHN,Broken Dam/Burst bank
+2003-0334-USA,Rain
+2003-0339-PER,Snow/ice
+2003-0341-NPL,"Slide (land, mud, snow, rock)"
+2003-0343-JPN,"Slide (land, mud, snow, rock)"
+2003-0346-PHL,Flood
+2003-0348-CHN,"Slide (land, mud, snow, rock)"
+2003-0354-JPN,"Slide (land, mud, snow, rock)"
+2003-0358-CMR,Flood
+2003-0359-PAK,Pollution
+2003-0368-SDN,Broken Dam/Burst bank
+2003-0388-JPN,Flood
+2003-0388-JPN,"Slide (land, mud, snow, rock)"
+2003-0388-RUS,Rain
+2003-0391-AUT,Drought
+2003-0391-AUT,Wildfire
+2003-0391-BEL,Drought
+2003-0391-CHE,Drought
+2003-0391-DEU,Drought
+2003-0391-ESP,Drought
+2003-0391-FRA,Drought
+2003-0391-HRV,Drought
+2003-0391-ITA,Drought
+2003-0391-SVK,Drought
+2003-0391-SVN,Drought
+2003-0391-SVN,Wildfire
+2003-0392-AFG,Broken Dam/Burst bank
+2003-0392-AFG,"Slide (land, mud, snow, rock)"
+2003-0394-CHN,Rain
+2003-0395-FRA,Hail
+2003-0395-FRA,Rain
+2003-0408-ZAF,Rain
+2003-0422-GMB,Flood
+2003-0422-GMB,Rain
+2003-0423-SAU,"Slide (land, mud, snow, rock)"
+2003-0433-ITA,Flood
+2003-0433-ITA,"Slide (land, mud, snow, rock)"
+2003-0437-VNM,Rain
+2003-0440-CHN,"Slide (land, mud, snow, rock)"
+2003-0441-CHN,Flood
+2003-0443-HKG,Rain
+2003-0443-TWN,Rain
+2003-0448-BMU,Rain
+2003-0452-BGD,"Slide (land, mud, snow, rock)"
+2003-0459-JPN,Rain
+2003-0459-KOR,Flood
+2003-0459-KOR,"Slide (land, mud, snow, rock)"
+2003-0468-USA,Flood
+2003-0474-MEX,Flood
+2003-0474-MEX,Rain
+2003-0476-JPN,Fire
+2003-0476-JPN,Tsunami/Tidal wave
+2003-0477-DOM,"Slide (land, mud, snow, rock)"
+2003-0487-CAN,Flood
+2003-0490-NZL,Flood
+2003-0490-NZL,"Slide (land, mud, snow, rock)"
+2003-0495-HTI,"Slide (land, mud, snow, rock)"
+2003-0497-RUS,"Slide (land, mud, snow, rock)"
+2003-0503-DZA,"Slide (land, mud, snow, rock)"
+2003-0531-IDN,"Slide (land, mud, snow, rock)"
+2003-0539-ARG,Flood
+2003-0539-ARG,Hail
+2003-0556-MAR,"Slide (land, mud, snow, rock)"
+2003-0557-VNM,"Slide (land, mud, snow, rock)"
+2003-0560-AUS,Flood
+2003-0571-DOM,Broken Dam/Burst bank
+2003-0571-DOM,"Slide (land, mud, snow, rock)"
+2003-0578-COL,Rain
+2003-0578-COL,"Slide (land, mud, snow, rock)"
+2003-0579-BRA,"Slide (land, mud, snow, rock)"
+2003-0585-MKD,Broken Dam/Burst bank
+2003-0586-FRA,"Slide (land, mud, snow, rock)"
+2003-0593-IDN,"Slide (land, mud, snow, rock)"
+2003-0595-USA,Flood
+2003-0595-USA,"Slide (land, mud, snow, rock)"
+2003-0599-DOM,Flood
+2003-0599-PRI,Flood
+2003-0605-IND,Cold wave
+2003-0605-IND,Rain
+2003-0610-PHL,Flood
+2003-0615-AUS,Flood
+2003-0618-USA,Transport accident
+2003-0621-BOL,Broken Dam/Burst bank
+2003-0621-BOL,"Slide (land, mud, snow, rock)"
+2003-0624-HTI,"Slide (land, mud, snow, rock)"
+2003-0644-PER,Rain
+2003-0644-PER,"Slide (land, mud, snow, rock)"
+2003-0673-BRA,"Slide (land, mud, snow, rock)"
+2003-0688-MEX,Rain
+2003-0706-UGA,"Slide (land, mud, snow, rock)"
+2003-0712-MEX,Explosion
+2003-0712-MEX,"Slide (land, mud, snow, rock)"
+2003-0713-VEN,"Slide (land, mud, snow, rock)"
+2003-0720-IND,"Slide (land, mud, snow, rock)"
+2003-0728-MWI,"Slide (land, mud, snow, rock)"
+2003-0730-BRA,"Slide (land, mud, snow, rock)"
+2003-0741-USA,Flood
+2003-0752-COM,Rain
+2003-0768-PAN,Rain
+2003-0768-PAN,"Slide (land, mud, snow, rock)"
+2003-0769-URY,Rain
+2003-0774-THA,"Slide (land, mud, snow, rock)"
+2003-0776-IDN,"Slide (land, mud, snow, rock)"
+2003-0782-USA,Flood
+2003-0788-COL,"Slide (land, mud, snow, rock)"
+2003-0829-USA,Hail
+2003-0829-USA,Snow/ice
+2003-0830-USA,Transport accident
+2003-9360-CHN,Fire
+2003-9758-HTI,Food shortage
+2003-9777-RUS,Water shortage
+2003-9784-HRV,Heat wave
+2004-0004-WSM,Flood
+2004-0004-WSM,Surge
+2004-0010-TUR,Snow/ice
+2004-0019-AGO,Broken Dam/Burst bank
+2004-0026-CYP,Rain
+2004-0026-EGY,Rain
+2004-0026-GRC,Rain
+2004-0029-MDG,Flood
+2004-0031-CAN,Cold wave
+2004-0031-USA,Cold wave
+2004-0031-USA,Transport accident
+2004-0033-IDN,"Slide (land, mud, snow, rock)"
+2004-0040-IDN,Fire
+2004-0054-PAK,"Slide (land, mud, snow, rock)"
+2004-0061-IDN,Flood
+2004-0062-IDN,Rain
+2004-0062-IDN,"Slide (land, mud, snow, rock)"
+2004-0072-SYR,Cold wave
+2004-0072-SYR,Rain
+2004-0080-VUT,Rain
+2004-0080-VUT,"Slide (land, mud, snow, rock)"
+2004-0087-PHL,"Slide (land, mud, snow, rock)"
+2004-0102-GEO,"Slide (land, mud, snow, rock)"
+2004-0102-TUR,"Slide (land, mud, snow, rock)"
+2004-0103-MDG,Flood
+2004-0103-MDG,Transport accident
+2004-0104-PNG,"Slide (land, mud, snow, rock)"
+2004-0121-USA,Flood
+2004-0121-USA,Transport accident
+2004-0131-BRA,Surge
+2004-0132-TUR,"Slide (land, mud, snow, rock)"
+2004-0141-MEX,Broken Dam/Burst bank
+2004-0147-TJK,"Slide (land, mud, snow, rock)"
+2004-0150-FSM,Surge
+2004-0153-FJI,Flood
+2004-0153-FJI,"Slide (land, mud, snow, rock)"
+2004-0156-PER,Flood
+2004-0158-DJI,Rain
+2004-0158-DJI,"Slide (land, mud, snow, rock)"
+2004-0163-BIH,"Slide (land, mud, snow, rock)"
+2004-0177-IDN,Transport accident
+2004-0182-CHN,Hail
+2004-0194-KEN,"Slide (land, mud, snow, rock)"
+2004-0196-USA,Heat wave
+2004-0200-PER,"Slide (land, mud, snow, rock)"
+2004-0202-COL,"Slide (land, mud, snow, rock)"
+2004-0214-CRI,Broken Dam/Burst bank
+2004-0214-CRI,"Slide (land, mud, snow, rock)"
+2004-0218-PHL,Rain
+2004-0218-PHL,"Slide (land, mud, snow, rock)"
+2004-0231-DOM,"Slide (land, mud, snow, rock)"
+2004-0234-IRN,"Slide (land, mud, snow, rock)"
+2004-0235-MMR,Flood
+2004-0235-MMR,Surge
+2004-0236-BRA,"Slide (land, mud, snow, rock)"
+2004-0244-THA,Flood
+2004-0244-THA,"Slide (land, mud, snow, rock)"
+2004-0245-USA,Flood
+2004-0245-USA,Hail
+2004-0247-CHN,Broken Dam/Burst bank
+2004-0249-USA,Flood
+2004-0249-USA,Hail
+2004-0257-ROU,Rain
+2004-0257-ROU,"Slide (land, mud, snow, rock)"
+2004-0258-THA,Flood
+2004-0258-THA,Rain
+2004-0266-RUS,Hail
+2004-0276-JPN,Rain
+2004-0276-JPN,"Slide (land, mud, snow, rock)"
+2004-0276-KOR,Rain
+2004-0284-CHN,"Slide (land, mud, snow, rock)"
+2004-0286-BGD,Surge
+2004-0289-NIC,Flood
+2004-0292-CHN,Fire
+2004-0294-FJI,"Slide (land, mud, snow, rock)"
+2004-0298-BGD,Broken Dam/Burst bank
+2004-0298-BGD,"Slide (land, mud, snow, rock)"
+2004-0298-NPL,"Slide (land, mud, snow, rock)"
+2004-0300-GMB,Rain
+2004-0301-CHN,Hail
+2004-0302-CHN,Rain
+2004-0306-CHN,Rain
+2004-0306-CHN,"Slide (land, mud, snow, rock)"
+2004-0307-ARG,Rain
+2004-0307-ARG,"Slide (land, mud, snow, rock)"
+2004-0309-PHL,Flood
+2004-0309-TWN,Flood
+2004-0309-TWN,"Slide (land, mud, snow, rock)"
+2004-0312-GUM,Flood
+2004-0312-GUM,"Slide (land, mud, snow, rock)"
+2004-0321-IND,"Slide (land, mud, snow, rock)"
+2004-0325-CHN,"Slide (land, mud, snow, rock)"
+2004-0331-ARG,Snow/ice
+2004-0331-PER,Rain
+2004-0331-PER,Snow/ice
+2004-0336-ROU,"Slide (land, mud, snow, rock)"
+2004-0338-USA,Flood
+2004-0339-JPN,"Slide (land, mud, snow, rock)"
+2004-0342-TJK,Pollution
+2004-0342-TJK,"Slide (land, mud, snow, rock)"
+2004-0346-CAN,Rain
+2004-0348-USA,Heat wave
+2004-0348-USA,Storm
+2004-0349-AFG,"Slide (land, mud, snow, rock)"
+2004-0354-VNM,"Slide (land, mud, snow, rock)"
+2004-0365-ROU,"Slide (land, mud, snow, rock)"
+2004-0369-SVK,"Slide (land, mud, snow, rock)"
+2004-0372-CHN,Rain
+2004-0381-KOR,"Slide (land, mud, snow, rock)"
+2004-0383-PRT,Heat wave
+2004-0394-ERI,Rain
+2004-0401-GEO,"Slide (land, mud, snow, rock)"
+2004-0404-NZL,"Slide (land, mud, snow, rock)"
+2004-0415-CYM,Flood
+2004-0415-JAM,Flood
+2004-0415-USA,Transport accident
+2004-0427-FRA,Rain
+2004-0428-KOR,Flood
+2004-0428-KOR,"Slide (land, mud, snow, rock)"
+2004-0435-CHN,Flood
+2004-0435-PHL,Flood
+2004-0435-PHL,"Slide (land, mud, snow, rock)"
+2004-0435-TWN,Flood
+2004-0435-TWN,"Slide (land, mud, snow, rock)"
+2004-0444-ROU,Rain
+2004-0445-JPN,Flood
+2004-0448-USA,Flood
+2004-0454-RUS,Broken Dam/Burst bank
+2004-0455-USA,Rain
+2004-0457-CHN,"Slide (land, mud, snow, rock)"
+2004-0459-JPN,Transport accident
+2004-0459-RUS,Transport accident
+2004-0462-BRB,Surge
+2004-0462-CUB,"Slide (land, mud, snow, rock)"
+2004-0462-CUB,Surge
+2004-0462-HTI,Rain
+2004-0462-JAM,"Slide (land, mud, snow, rock)"
+2004-0462-JAM,Surge
+2004-0462-USA,Flood
+2004-0462-USA,"Slide (land, mud, snow, rock)"
+2004-0468-TWN,Rain
+2004-0468-TWN,"Slide (land, mud, snow, rock)"
+2004-0470-BGD,Broken Dam/Burst bank
+2004-0473-BHS,Flood
+2004-0473-BHS,Surge
+2004-0473-DOM,Flood
+2004-0473-DOM,Surge
+2004-0473-HTI,Flood
+2004-0473-HTI,"Slide (land, mud, snow, rock)"
+2004-0473-PRI,Rain
+2004-0476-PAN,"Slide (land, mud, snow, rock)"
+2004-0492-JPN,Rain
+2004-0492-JPN,"Slide (land, mud, snow, rock)"
+2004-0509-BGD,Rain
+2004-0509-IND,Rain
+2004-0509-IND,"Slide (land, mud, snow, rock)"
+2004-0511-JPN,Flood
+2004-0520-COL,"Slide (land, mud, snow, rock)"
+2004-0524-JPN,Flood
+2004-0524-JPN,"Slide (land, mud, snow, rock)"
+2004-0532-JPN,Fire
+2004-0532-JPN,"Slide (land, mud, snow, rock)"
+2004-0535-TWN,Flood
+2004-0556-CRI,"Slide (land, mud, snow, rock)"
+2004-0562-IDN,"Slide (land, mud, snow, rock)"
+2004-0568-ITA,Flood
+2004-0568-ITA,"Slide (land, mud, snow, rock)"
+2004-0580-PHL,"Slide (land, mud, snow, rock)"
+2004-0580-VNM,Flood
+2004-0580-VNM,"Slide (land, mud, snow, rock)"
+2004-0589-AUS,Flood
+2004-0589-AUS,Hail
+2004-0590-MYS,Flood
+2004-0590-MYS,"Slide (land, mud, snow, rock)"
+2004-0596-IRL,Flood
+2004-0599-CRI,"Slide (land, mud, snow, rock)"
+2004-0600-TUR,Flood
+2004-0602-PHL,Flood
+2004-0602-PHL,"Slide (land, mud, snow, rock)"
+2004-0607-IDN,Fire
+2004-0609-PHL,Flood
+2004-0609-PHL,"Slide (land, mud, snow, rock)"
+2004-0633-ALB,Broken Dam/Burst bank
+2004-0659-IDN,Tsunami/Tidal wave
+2004-0659-KEN,Tsunami/Tidal wave
+2004-0659-MDV,Tsunami/Tidal wave
+2004-0659-MYS,Tsunami/Tidal wave
+2004-0659-THA,Tsunami/Tidal wave
+2004-0670-SVN,"Slide (land, mud, snow, rock)"
+2004-0674-AUS,Hail
+2004-0674-AUS,Rain
+2004-0676-VEN,"Slide (land, mud, snow, rock)"
+2004-0731-USA,Hail
+2004-0735-VNM,Rain
+2004-9063-PER,Cold wave
+2004-9085-SOM,Food shortage
+2004-9288-KEN,Crop failure
+2004-9288-KEN,Food shortage
+2004-9363-HND,Food shortage
+2004-9480-AGO,Food shortage
+2004-9577-TZA,Food shortage
+2005-0011-DNK,Transport accident
+2005-0011-EST,Rain
+2005-0011-GBR,Transport accident
+2005-0011-RUS,Rain
+2005-0015-USA,"Slide (land, mud, snow, rock)"
+2005-0021-CRI,"Slide (land, mud, snow, rock)"
+2005-0021-PAN,"Slide (land, mud, snow, rock)"
+2005-0028-SAU,Broken Dam/Burst bank
+2005-0028-SAU,Rain
+2005-0029-USA,Cold wave
+2005-0044-AFG,Cold wave
+2005-0044-PAK,Cold wave
+2005-0045-ALB,"Avalanche (Snow, Debris)"
+2005-0045-ALB,Cold wave
+2005-0045-BGR,Cold wave
+2005-0045-BIH,Cold wave
+2005-0045-CZE,Cold wave
+2005-0045-HRV,Cold wave
+2005-0045-HUN,Cold wave
+2005-0045-MKD,Cold wave
+2005-0045-POL,Cold wave
+2005-0045-ROU,Cold wave
+2005-0045-RUS,Cold wave
+2005-0045-SCG,Cold wave
+2005-0045-TUR,Transport accident
+2005-0054-BRA,"Slide (land, mud, snow, rock)"
+2005-0073-VEN,"Slide (land, mud, snow, rock)"
+2005-0079-PAK,Broken Dam/Burst bank
+2005-0079-PAK,"Slide (land, mud, snow, rock)"
+2005-0083-COL,Collapse
+2005-0083-COL,"Slide (land, mud, snow, rock)"
+2005-0103-USA,Rain
+2005-0103-USA,"Slide (land, mud, snow, rock)"
+2005-0113-IRN,"Slide (land, mud, snow, rock)"
+2005-0123-CHN,Cold wave
+2005-0129-JPN,"Slide (land, mud, snow, rock)"
+2005-0130-BGD,Rain
+2005-0131-ROU,"Slide (land, mud, snow, rock)"
+2005-0143-COD,Flood
+2005-0156-SWZ,Rain
+2005-0160-IDN,Tsunami/Tidal wave
+2005-0170-PAK,Broken Dam/Burst bank
+2005-0188-CHN,Hail
+2005-0188-CHN,Rain
+2005-0191-IND,Hail
+2005-0191-IND,Rain
+2005-0196-COL,"Slide (land, mud, snow, rock)"
+2005-0205-COM,Pollution
+2005-0211-JPN,"Slide (land, mud, snow, rock)"
+2005-0214-ROU,Broken Dam/Burst bank
+2005-0214-ROU,"Slide (land, mud, snow, rock)"
+2005-0214-SCG,Broken Dam/Burst bank
+2005-0215-ETH,Broken Dam/Burst bank
+2005-0219-USA,Flood
+2005-0223-IDN,"Slide (land, mud, snow, rock)"
+2005-0225-GEO,"Slide (land, mud, snow, rock)"
+2005-0228-SAU,Rain
+2005-0229-RUS,Broken Dam/Burst bank
+2005-0240-SLV,"Slide (land, mud, snow, rock)"
+2005-0261-BGD,Broken Dam/Burst bank
+2005-0265-BGR,Rain
+2005-0275-DOM,Rain
+2005-0275-DOM,"Slide (land, mud, snow, rock)"
+2005-0276-RUS,Broken Dam/Burst bank
+2005-0276-RUS,"Slide (land, mud, snow, rock)"
+2005-0283-MEX,Rain
+2005-0285-RUS,Broken Dam/Burst bank
+2005-0286-USA,Rain
+2005-0296-BRA,"Slide (land, mud, snow, rock)"
+2005-0302-NZL,"Slide (land, mud, snow, rock)"
+2005-0303-THA,Hail
+2005-0304-TJK,"Slide (land, mud, snow, rock)"
+2005-0311-CHN,Hail
+2005-0312-CHN,Hail
+2005-0314-IND,"Slide (land, mud, snow, rock)"
+2005-0315-VNM,Rain
+2005-0321-CHL,"Slide (land, mud, snow, rock)"
+2005-0334-CHN,"Slide (land, mud, snow, rock)"
+2005-0337-ROU,Broken Dam/Burst bank
+2005-0337-ROU,Rain
+2005-0338-BGR,Broken Dam/Burst bank
+2005-0338-BGR,"Slide (land, mud, snow, rock)"
+2005-0344-CHN,"Slide (land, mud, snow, rock)"
+2005-0348-HND,"Slide (land, mud, snow, rock)"
+2005-0348-SLV,"Slide (land, mud, snow, rock)"
+2005-0351-CUB,Flood
+2005-0351-CUB,"Slide (land, mud, snow, rock)"
+2005-0351-HTI,Flood
+2005-0351-HTI,Rain
+2005-0351-JAM,Rain
+2005-0351-JAM,"Slide (land, mud, snow, rock)"
+2005-0354-IND,Broken Dam/Burst bank
+2005-0359-KGZ,"Slide (land, mud, snow, rock)"
+2005-0361-IND,Broken Dam/Burst bank
+2005-0370-TJK,"Slide (land, mud, snow, rock)"
+2005-0371-PRK,"Slide (land, mud, snow, rock)"
+2005-0375-IND,"Slide (land, mud, snow, rock)"
+2005-0381-CHN,Flood
+2005-0381-TWN,Flood
+2005-0382-HTI,Flood
+2005-0382-TTO,"Slide (land, mud, snow, rock)"
+2005-0392-KOR,"Slide (land, mud, snow, rock)"
+2005-0393-CHL,"Slide (land, mud, snow, rock)"
+2005-0395-CHN,Hail
+2005-0396-TWN,"Slide (land, mud, snow, rock)"
+2005-0409-IND,Broken Dam/Burst bank
+2005-0409-IND,"Slide (land, mud, snow, rock)"
+2005-0415-TUR,"Slide (land, mud, snow, rock)"
+2005-0419-CHN,Rain
+2005-0419-CHN,"Slide (land, mud, snow, rock)"
+2005-0419-TWN,Flood
+2005-0430-MYS,Pollution
+2005-0430-THA,Pollution
+2005-0464-JPN,Flood
+2005-0464-JPN,"Slide (land, mud, snow, rock)"
+2005-0467-USA,Broken Dam/Burst bank
+2005-0467-USA,Flood
+2005-0470-MEX,"Slide (land, mud, snow, rock)"
+2005-0471-IND,"Slide (land, mud, snow, rock)"
+2005-0474-CHN,"Slide (land, mud, snow, rock)"
+2005-0476-VNM,Flood
+2005-0485-ETH,Rain
+2005-0492-CHN,Flood
+2005-0492-CHN,"Slide (land, mud, snow, rock)"
+2005-0497-JPN,Rain
+2005-0497-JPN,"Slide (land, mud, snow, rock)"
+2005-0504-IND,Broken Dam/Burst bank
+2005-0505-CHN,Broken Dam/Burst bank
+2005-0506-MYS,"Slide (land, mud, snow, rock)"
+2005-0510-CHN,Flood
+2005-0510-CHN,"Slide (land, mud, snow, rock)"
+2005-0512-BEL,"Slide (land, mud, snow, rock)"
+2005-0516-FRA,"Slide (land, mud, snow, rock)"
+2005-0523-AUS,Rain
+2005-0524-MEX,Flood
+2005-0533-MMR,Flood
+2005-0536-VNM,Rain
+2005-0539-IND,"Slide (land, mud, snow, rock)"
+2005-0540-CHN,Rain
+2005-0540-PHL,Flood
+2005-0540-PHL,"Slide (land, mud, snow, rock)"
+2005-0540-THA,Broken Dam/Burst bank
+2005-0540-VNM,Flood
+2005-0540-VNM,"Slide (land, mud, snow, rock)"
+2005-0541-IND,Broken Dam/Burst bank
+2005-0547-USA,Flood
+2005-0550-CRI,"Slide (land, mud, snow, rock)"
+2005-0556-NPL,Broken Dam/Burst bank
+2005-0556-NPL,"Slide (land, mud, snow, rock)"
+2005-0559-MRT,Broken Dam/Burst bank
+2005-0565-CHN,Flood
+2005-0565-CHN,"Slide (land, mud, snow, rock)"
+2005-0567-GTM,Flood
+2005-0567-GTM,"Slide (land, mud, snow, rock)"
+2005-0567-HND,"Slide (land, mud, snow, rock)"
+2005-0567-HTI,Flood
+2005-0567-MEX,Rain
+2005-0567-NIC,Flood
+2005-0567-SLV,"Slide (land, mud, snow, rock)"
+2005-0575-IND,Fire
+2005-0576-SDN,Rain
+2005-0583-USA,Rain
+2005-0585-CUB,Flood
+2005-0585-CUB,"Slide (land, mud, snow, rock)"
+2005-0585-HTI,Flood
+2005-0585-JAM,Flood
+2005-0585-JAM,"Slide (land, mud, snow, rock)"
+2005-0585-MEX,Rain
+2005-0585-USA,Flood
+2005-0585-USA,Rain
+2005-0586-HTI,"Slide (land, mud, snow, rock)"
+2005-0589-IDN,"Slide (land, mud, snow, rock)"
+2005-0593-SLV,"Slide (land, mud, snow, rock)"
+2005-0597-DOM,Flood
+2005-0597-DOM,"Slide (land, mud, snow, rock)"
+2005-0597-HTI,Flood
+2005-0597-HTI,"Slide (land, mud, snow, rock)"
+2005-0603-IND,Broken Dam/Burst bank
+2005-0625-HND,Rain
+2005-0625-NIC,Rain
+2005-0640-HND,Flood
+2005-0640-HND,"Slide (land, mud, snow, rock)"
+2005-0646-LKA,"Slide (land, mud, snow, rock)"
+2005-0655-BEL,Snow/ice
+2005-0655-DEU,Snow/ice
+2005-0655-FRA,Snow/ice
+2005-0657-COM,Pollution
+2005-0669-PHL,Broken Dam/Burst bank
+2005-0669-PHL,"Slide (land, mud, snow, rock)"
+2005-0690-THA,"Slide (land, mud, snow, rock)"
+2005-0694-VNM,"Slide (land, mud, snow, rock)"
+2005-0695-BIH,Rain
+2005-0711-COG,"Slide (land, mud, snow, rock)"
+2005-0713-AUT,Snow/ice
+2005-0713-BEL,Snow/ice
+2005-0713-BLR,Snow/ice
+2005-0713-ESP,Snow/ice
+2005-0713-FRA,Snow/ice
+2005-0713-GBR,Snow/ice
+2005-0713-HRV,Snow/ice
+2005-0713-HUN,Snow/ice
+2005-0713-ITA,Snow/ice
+2005-0713-MDA,Snow/ice
+2005-0713-NLD,Snow/ice
+2005-0713-POL,Snow/ice
+2005-0713-RUS,Snow/ice
+2005-0713-TUR,Snow/ice
+2005-0713-UKR,Snow/ice
+2005-0715-MOZ,Rain
+2005-0716-USA,Rain
+2005-0716-USA,"Slide (land, mud, snow, rock)"
+2005-0718-IDN,"Slide (land, mud, snow, rock)"
+2005-0723-JPN,"Avalanche (Snow, Debris)"
+2005-0723-JPN,Cold wave
+2005-0727-BGR,"Slide (land, mud, snow, rock)"
+2005-0730-CHN,"Slide (land, mud, snow, rock)"
+2005-0733-HTI,"Slide (land, mud, snow, rock)"
+2005-0746-PAK,Broken Dam/Burst bank
+2005-0757-AFG,Snow/ice
+2005-9067-BDI,Crop failure
+2005-9067-BDI,Famine
+2005-9142-MLI,Food shortage
+2005-9206-KHM,Food shortage
+2005-9206-KHM,Heat wave
+2005-9213-DJI,Famine
+2005-9262-MOZ,Crop failure
+2005-9262-MOZ,Food shortage
+2005-9362-NER,Famine
+2005-9362-NER,Food shortage
+2005-9403-ZMB,Food shortage
+2005-9578-MWI,Famine
+2005-9578-MWI,Food shortage
+2005-9637-MDG,Famine
+2005-9637-MDG,Food shortage
+2005-9719-KEN,Famine
+2005-9722-SOM,Food shortage
+2005-9745-CHN,Fire
+2005-9747-ETH,Food shortage
+2006-0008-CHN,Cold wave
+2006-0015-BOL,Explosion
+2006-0015-BOL,"Slide (land, mud, snow, rock)"
+2006-0029-AFG,Cold wave
+2006-0029-AFG,Rain
+2006-0039-BOL,"Slide (land, mud, snow, rock)"
+2006-0043-AUS,Flood
+2006-0071-FJI,"Slide (land, mud, snow, rock)"
+2006-0073-FJI,Flood
+2006-0074-IDN,"Slide (land, mud, snow, rock)"
+2006-0093-ECU,"Slide (land, mud, snow, rock)"
+2006-0099-IDN,"Slide (land, mud, snow, rock)"
+2006-0108-NAM,Broken Dam/Burst bank
+2006-0109-SCG,Broken Dam/Burst bank
+2006-0124-FRA,Cold wave
+2006-0126-TLS,Flood
+2006-0128-USA,Flood
+2006-0139-AUS,Flood
+2006-0140-COL,Rain
+2006-0140-COL,"Slide (land, mud, snow, rock)"
+2006-0141-COD,Flood
+2006-0142-KGZ,"Avalanche (Snow, Debris)"
+2006-0147-PER,Rain
+2006-0155-AUS,Rain
+2006-0156-AUT,Broken Dam/Burst bank
+2006-0156-CZE,Broken Dam/Burst bank
+2006-0156-DEU,Broken Dam/Burst bank
+2006-0156-ROU,Rain
+2006-0156-SCG,"Slide (land, mud, snow, rock)"
+2006-0161-USA,Hail
+2006-0165-YEM,Rain
+2006-0171-USA,Hail
+2006-0172-COD,"Slide (land, mud, snow, rock)"
+2006-0180-USA,Broken Dam/Burst bank
+2006-0180-USA,"Slide (land, mud, snow, rock)"
+2006-0182-USA,Broken Dam/Burst bank
+2006-0182-USA,"Slide (land, mud, snow, rock)"
+2006-0192-IDN,"Slide (land, mud, snow, rock)"
+2006-0199-CHN,Rain
+2006-0205-PNG,"Slide (land, mud, snow, rock)"
+2006-0208-GEO,Broken Dam/Burst bank
+2006-0209-ROU,Broken Dam/Burst bank
+2006-0209-UKR,Broken Dam/Burst bank
+2006-0211-VNM,Hail
+2006-0222-PNG,"Slide (land, mud, snow, rock)"
+2006-0224-CAN,Broken Dam/Burst bank
+2006-0230-BDI,Rain
+2006-0231-IDN,Tsunami/Tidal wave
+2006-0241-MMR,Flood
+2006-0242-ARG,"Slide (land, mud, snow, rock)"
+2006-0251-CHN,Flood
+2006-0251-CHN,"Slide (land, mud, snow, rock)"
+2006-0251-PHL,Flood
+2006-0251-PHL,"Slide (land, mud, snow, rock)"
+2006-0256-TJK,"Slide (land, mud, snow, rock)"
+2006-0257-USA,Hail
+2006-0260-USA,Rain
+2006-0264-CHN,Broken Dam/Burst bank
+2006-0270-THA,"Slide (land, mud, snow, rock)"
+2006-0272-CUB,Flood
+2006-0298-CHN,Rain
+2006-0300-CHN,"Slide (land, mud, snow, rock)"
+2006-0306-RUS,Broken Dam/Burst bank
+2006-0311-IDN,"Slide (land, mud, snow, rock)"
+2006-0312-ROU,"Slide (land, mud, snow, rock)"
+2006-0320-ROU,Rain
+2006-0328-IDN,"Slide (land, mud, snow, rock)"
+2006-0332-IDN,"Slide (land, mud, snow, rock)"
+2006-0333-UKR,Broken Dam/Burst bank
+2006-0336-CHN,Broken Dam/Burst bank
+2006-0336-CHN,"Slide (land, mud, snow, rock)"
+2006-0337-CHN,Rain
+2006-0337-CHN,"Slide (land, mud, snow, rock)"
+2006-0340-CHN,"Slide (land, mud, snow, rock)"
+2006-0341-USA,"Slide (land, mud, snow, rock)"
+2006-0352-DEU,Hail
+2006-0356-DEU,Flood
+2006-0361-KOR,"Slide (land, mud, snow, rock)"
+2006-0361-PRK,"Slide (land, mud, snow, rock)"
+2006-0362-CHN,Flood
+2006-0362-CHN,"Slide (land, mud, snow, rock)"
+2006-0362-PHL,Flood
+2006-0362-PHL,"Slide (land, mud, snow, rock)"
+2006-0362-VNM,Flood
+2006-0362-VNM,"Slide (land, mud, snow, rock)"
+2006-0363-CHL,Rain
+2006-0363-CHL,"Slide (land, mud, snow, rock)"
+2006-0370-IND,"Slide (land, mud, snow, rock)"
+2006-0371-CHN,"Slide (land, mud, snow, rock)"
+2006-0378-JPN,"Slide (land, mud, snow, rock)"
+2006-0388-CHN,Flood
+2006-0388-CHN,"Slide (land, mud, snow, rock)"
+2006-0388-PHL,Rain
+2006-0389-PAK,"Slide (land, mud, snow, rock)"
+2006-0390-JPN,"Slide (land, mud, snow, rock)"
+2006-0410-CHN,"Slide (land, mud, snow, rock)"
+2006-0415-PHL,Rain
+2006-0417-IND,"Slide (land, mud, snow, rock)"
+2006-0429-VNM,"Slide (land, mud, snow, rock)"
+2006-0437-CHN,Flood
+2006-0445-BFA,Broken Dam/Burst bank
+2006-0446-VNM,"Slide (land, mud, snow, rock)"
+2006-0447-SDN,Broken Dam/Burst bank
+2006-0448-PHL,"Slide (land, mud, snow, rock)"
+2006-0451-KHM,Rain
+2006-0454-HUN,Rain
+2006-0460-MKD,"Slide (land, mud, snow, rock)"
+2006-0466-HTI,Flood
+2006-0466-USA,Flood
+2006-0473-NPL,Flood
+2006-0475-CHN,"Slide (land, mud, snow, rock)"
+2006-0483-MEX,Flood
+2006-0483-MEX,"Slide (land, mud, snow, rock)"
+2006-0504-JPN,Flood
+2006-0504-JPN,"Slide (land, mud, snow, rock)"
+2006-0505-MEX,Flood
+2006-0505-MEX,"Slide (land, mud, snow, rock)"
+2006-0510-BGD,Flood
+2006-0510-IND,Flood
+2006-0517-PHL,Flood
+2006-0517-PHL,"Slide (land, mud, snow, rock)"
+2006-0530-THA,"Slide (land, mud, snow, rock)"
+2006-0541-GRC,Rain
+2006-0541-GRC,"Slide (land, mud, snow, rock)"
+2006-0546-USA,Rain
+2006-0548-IND,"Slide (land, mud, snow, rock)"
+2006-0556-NGA,Broken Dam/Burst bank
+2006-0560-GRC,"Slide (land, mud, snow, rock)"
+2006-0567-CHN,"Slide (land, mud, snow, rock)"
+2006-0568-GRC,"Slide (land, mud, snow, rock)"
+2006-0573-FRA,Flood
+2006-0595-USA,Flood
+2006-0597-COG,"Slide (land, mud, snow, rock)"
+2006-0600-PHL,Flood
+2006-0600-PHL,"Slide (land, mud, snow, rock)"
+2006-0602-LKA,"Slide (land, mud, snow, rock)"
+2006-0604-MEX,Flood
+2006-0605-PHL,Broken Dam/Burst bank
+2006-0610-PHL,"Slide (land, mud, snow, rock)"
+2006-0617-PRT,"Slide (land, mud, snow, rock)"
+2006-0623-PRK,Tsunami/Tidal wave
+2006-0640-PAN,"Slide (land, mud, snow, rock)"
+2006-0642-USA,Flood
+2006-0647-PAN,Rain
+2006-0647-PAN,"Slide (land, mud, snow, rock)"
+2006-0648-PHL,Flood
+2006-0648-PHL,"Slide (land, mud, snow, rock)"
+2006-0648-VNM,Flood
+2006-0656-JAM,"Slide (land, mud, snow, rock)"
+2006-0659-VNM,Hail
+2006-0663-PAK,Cold wave
+2006-0663-PAK,"Slide (land, mud, snow, rock)"
+2006-0678-IDN,"Slide (land, mud, snow, rock)"
+2006-0680-IDN,Broken Dam/Burst bank
+2006-0680-IDN,"Slide (land, mud, snow, rock)"
+2006-0680-MYS,"Slide (land, mud, snow, rock)"
+2006-0687-MDG,Rain
+2006-0702-PHL,"Slide (land, mud, snow, rock)"
+2006-0704-USA,"Slide (land, mud, snow, rock)"
+2006-0704-USA,Tsunami/Tidal wave
+2006-0732-CHN,"Slide (land, mud, snow, rock)"
+2006-0733-PAK,"Slide (land, mud, snow, rock)"
+2006-0738-BGD,Flood
+2006-0739-BGD,Hail
+2006-0740-IND,Rain
+2006-0742-JPN,Cold wave
+2006-0743-USA,Rain
+2006-0745-CHN,Hail
+2006-9233-GNB,Famine
+2006-9411-LTU,Heat wave
+2006-9425-MLI,Famine
+2006-9741-CHN,Heat wave
+2006-9756-TZA,Food shortage
+2007-0003-BRA,"Slide (land, mud, snow, rock)"
+2007-0012-LKA,"Slide (land, mud, snow, rock)"
+2007-0016-IDN,Flood
+2007-0020-MOZ,Rain
+2007-0022-PHL,"Slide (land, mud, snow, rock)"
+2007-0024-YEM,"Slide (land, mud, snow, rock)"
+2007-0026-USA,Cold wave
+2007-0026-USA,Rain
+2007-0032-MDG,Flood
+2007-0039-PER,"Slide (land, mud, snow, rock)"
+2007-0042-BOL,"Slide (land, mud, snow, rock)"
+2007-0060-ARG,Rain
+2007-0066-CAN,Cold wave
+2007-0066-USA,Cold wave
+2007-0068-ROU,"Slide (land, mud, snow, rock)"
+2007-0085-REU,"Slide (land, mud, snow, rock)"
+2007-0086-IDN,"Slide (land, mud, snow, rock)"
+2007-0095-MDG,Flood
+2007-0095-MDG,"Slide (land, mud, snow, rock)"
+2007-0101-JPN,"Slide (land, mud, snow, rock)"
+2007-0101-JPN,Tsunami/Tidal wave
+2007-0105-AFG,"Slide (land, mud, snow, rock)"
+2007-0116-DZA,Rain
+2007-0127-SLB,"Slide (land, mud, snow, rock)"
+2007-0127-SLB,Tsunami/Tidal wave
+2007-0133-NZL,Flood
+2007-0133-NZL,"Slide (land, mud, snow, rock)"
+2007-0134-DOM,"Slide (land, mud, snow, rock)"
+2007-0134-HTI,Rain
+2007-0134-HTI,"Slide (land, mud, snow, rock)"
+2007-0137-CHN,Hail
+2007-0142-THA,"Slide (land, mud, snow, rock)"
+2007-0150-COL,"Slide (land, mud, snow, rock)"
+2007-0151-FJI,"Slide (land, mud, snow, rock)"
+2007-0156-USA,Flood
+2007-0158-CHL,Tsunami/Tidal wave
+2007-0160-AUS,Rain
+2007-0160-AUS,"Slide (land, mud, snow, rock)"
+2007-0161-BGD,"Slide (land, mud, snow, rock)"
+2007-0161-MMR,"Slide (land, mud, snow, rock)"
+2007-0162-COL,"Slide (land, mud, snow, rock)"
+2007-0164-IRN,Flood
+2007-0164-OMN,Flood
+2007-0164-OMN,"Slide (land, mud, snow, rock)"
+2007-0167-HTI,"Slide (land, mud, snow, rock)"
+2007-0170-FRA,Flood
+2007-0170-FRA,Hail
+2007-0172-CHN,Rain
+2007-0172-CHN,"Slide (land, mud, snow, rock)"
+2007-0176-COL,"Slide (land, mud, snow, rock)"
+2007-0187-LKA,"Slide (land, mud, snow, rock)"
+2007-0191-COL,"Slide (land, mud, snow, rock)"
+2007-0195-KGZ,"Slide (land, mud, snow, rock)"
+2007-0196-TJK,"Slide (land, mud, snow, rock)"
+2007-0201-GBR,Broken Dam/Burst bank
+2007-0213-ZAF,Snow/ice
+2007-0235-BGR,Drought
+2007-0235-BGR,Wildfire
+2007-0235-GRC,Wildfire
+2007-0235-ITA,Wildfire
+2007-0235-MKD,Wildfire
+2007-0235-ROU,Drought
+2007-0235-SRB,Wildfire
+2007-0235-TUR,Wildfire
+2007-0244-USA,Rain
+2007-0245-PAK,Broken Dam/Burst bank
+2007-0245-PAK,Flood
+2007-0249-PAK,Rain
+2007-0250-IND,"Slide (land, mud, snow, rock)"
+2007-0251-USA,Rain
+2007-0258-JPN,Fire
+2007-0258-JPN,Tsunami/Tidal wave
+2007-0262-JPN,Rain
+2007-0262-JPN,"Slide (land, mud, snow, rock)"
+2007-0263-ARG,Snow/ice
+2007-0263-BOL,Snow/ice
+2007-0268-CHN,"Slide (land, mud, snow, rock)"
+2007-0278-GBR,Rain
+2007-0283-IDN,"Slide (land, mud, snow, rock)"
+2007-0287-TJK,Flood
+2007-0287-TJK,"Slide (land, mud, snow, rock)"
+2007-0293-MLI,Rain
+2007-0297-CHN,Rain
+2007-0307-NPL,"Slide (land, mud, snow, rock)"
+2007-0311-BGD,"Slide (land, mud, snow, rock)"
+2007-0312-IDN,"Slide (land, mud, snow, rock)"
+2007-0313-CHN,"Slide (land, mud, snow, rock)"
+2007-0314-CHN,Flood
+2007-0314-CHN,"Slide (land, mud, snow, rock)"
+2007-0315-CHN,"Slide (land, mud, snow, rock)"
+2007-0319-JPN,"Slide (land, mud, snow, rock)"
+2007-0333-CHN,"Slide (land, mud, snow, rock)"
+2007-0334-RUS,"Slide (land, mud, snow, rock)"
+2007-0334-RUS,Tsunami/Tidal wave
+2007-0337-SWZ,Storm
+2007-0340-ROU,Rain
+2007-0346-PHL,Flood
+2007-0346-PHL,"Slide (land, mud, snow, rock)"
+2007-0352-PRK,Rain
+2007-0352-PRK,"Slide (land, mud, snow, rock)"
+2007-0359-USA,Flood
+2007-0360-CUB,Flood
+2007-0360-CUB,Surge
+2007-0360-DMA,Flood
+2007-0360-DOM,Flood
+2007-0360-GLP,Flood
+2007-0360-GLP,"Slide (land, mud, snow, rock)"
+2007-0360-HTI,Flood
+2007-0360-JAM,Flood
+2007-0360-JAM,Surge
+2007-0360-LCA,Flood
+2007-0360-MEX,Flood
+2007-0360-MTQ,Flood
+2007-0360-MTQ,"Slide (land, mud, snow, rock)"
+2007-0362-PER,"Slide (land, mud, snow, rock)"
+2007-0362-PER,Tsunami/Tidal wave
+2007-0364-IND,"Slide (land, mud, snow, rock)"
+2007-0380-CHN,Flood
+2007-0380-PHL,Flood
+2007-0383-USA,Rain
+2007-0383-USA,"Slide (land, mud, snow, rock)"
+2007-0393-ROU,Rain
+2007-0396-UKR,Rain
+2007-0398-TLS,"Slide (land, mud, snow, rock)"
+2007-0405-CHN,"Slide (land, mud, snow, rock)"
+2007-0408-KEN,Broken Dam/Burst bank
+2007-0408-UGA,"Slide (land, mud, snow, rock)"
+2007-0409-MMR,Broken Dam/Burst bank
+2007-0412-PAK,"Slide (land, mud, snow, rock)"
+2007-0425-SOM,Broken Dam/Burst bank
+2007-0439-GTM,Flood
+2007-0439-GTM,"Slide (land, mud, snow, rock)"
+2007-0439-HND,Flood
+2007-0439-HND,"Slide (land, mud, snow, rock)"
+2007-0439-MEX,Flood
+2007-0439-NIC,Flood
+2007-0439-NIC,"Slide (land, mud, snow, rock)"
+2007-0439-SLV,Flood
+2007-0440-IDN,Tsunami/Tidal wave
+2007-0442-RWA,"Slide (land, mud, snow, rock)"
+2007-0447-IDN,"Slide (land, mud, snow, rock)"
+2007-0449-DZA,Rain
+2007-0457-CHN,Flood
+2007-0457-CHN,"Slide (land, mud, snow, rock)"
+2007-0457-JPN,Flood
+2007-0457-PHL,Flood
+2007-0457-PRK,Flood
+2007-0458-SVN,Flood
+2007-0458-SVN,"Slide (land, mud, snow, rock)"
+2007-0463-PHL,Flood
+2007-0463-PHL,"Slide (land, mud, snow, rock)"
+2007-0463-VNM,Flood
+2007-0464-MEX,Flood
+2007-0464-MEX,"Slide (land, mud, snow, rock)"
+2007-0468-GTM,"Slide (land, mud, snow, rock)"
+2007-0470-KOR,Flood
+2007-0479-JPN,Flood
+2007-0503-CRI,"Slide (land, mud, snow, rock)"
+2007-0503-NIC,"Slide (land, mud, snow, rock)"
+2007-0519-USA,Storm
+2007-0521-MEX,Broken Dam/Burst bank
+2007-0521-MEX,"Slide (land, mud, snow, rock)"
+2007-0523-BHS,Flood
+2007-0523-CUB,Broken Dam/Burst bank
+2007-0523-CUB,Flood
+2007-0523-DOM,Flood
+2007-0523-DOM,"Slide (land, mud, snow, rock)"
+2007-0523-HTI,Flood
+2007-0525-PHL,"Slide (land, mud, snow, rock)"
+2007-0527-COD,"Slide (land, mud, snow, rock)"
+2007-0528-BRA,"Slide (land, mud, snow, rock)"
+2007-0537-MEX,Tsunami/Tidal wave
+2007-0539-BDI,Flood
+2007-0552-CHN,Flood
+2007-0552-TWN,Flood
+2007-0552-TWN,"Slide (land, mud, snow, rock)"
+2007-0553-PHL,"Slide (land, mud, snow, rock)"
+2007-0556-BGD,Flood
+2007-0557-PNG,Flood
+2007-0562-MNE,Broken Dam/Burst bank
+2007-0572-BRB,"Slide (land, mud, snow, rock)"
+2007-0576-PHL,Flood
+2007-0576-PHL,"Slide (land, mud, snow, rock)"
+2007-0578-PHL,Flood
+2007-0578-PHL,"Slide (land, mud, snow, rock)"
+2007-0580-CHN,Transport accident
+2007-0581-USA,Flood
+2007-0581-USA,"Slide (land, mud, snow, rock)"
+2007-0585-MWI,Rain
+2007-0590-COG,"Slide (land, mud, snow, rock)"
+2007-0591-AUS,Flood
+2007-0604-ZWE,Rain
+2007-0610-IDN,"Slide (land, mud, snow, rock)"
+2007-0611-THA,Broken Dam/Burst bank
+2007-0612-DOM,Flood
+2007-0612-DOM,"Slide (land, mud, snow, rock)"
+2007-0612-HTI,Flood
+2007-0612-PRI,Flood
+2007-0613-KEN,"Slide (land, mud, snow, rock)"
+2007-0621-USA,Transport accident
+2007-0641-USA,Transport accident
+2007-0652-BOL,Broken Dam/Burst bank
+2007-0662-USA,Flood
+2007-0662-USA,Hail
+2007-0663-USA,Flood
+2007-0663-USA,Hail
+2007-0668-PHL,Flood
+2007-0683-IND,Rain
+2007-0687-IND,Rain
+2007-0687-IND,Snow/ice
+2007-0689-USA,Cold wave
+2007-0690-USA,Hail
+2007-9288-SWZ,Famine
+2007-9343-MOZ,Food shortage
+2007-9494-LSO,Food shortage
+2007-9675-ZWE,Food shortage
+2007-9677-MDA,Food shortage
+2008-0006-AFG,"Avalanche (Snow, Debris)"
+2008-0006-AFG,Cold wave
+2008-0007-BGR,Rain
+2008-0007-BGR,Snow/ice
+2008-0008-IRN,Cold wave
+2008-0008-IRN,Transport accident
+2008-0010-USA,Broken Dam/Burst bank
+2008-0010-USA,Rain
+2008-0016-BRA,"Slide (land, mud, snow, rock)"
+2008-0020-CHN,Cold wave
+2008-0037-LSO,Hail
+2008-0037-LSO,Rain
+2008-0039-USA,Flood
+2008-0039-USA,Hail
+2008-0041-BRA,"Slide (land, mud, snow, rock)"
+2008-0043-MDG,Flood
+2008-0048-ECU,"Slide (land, mud, snow, rock)"
+2008-0050-TJK,Snow/ice
+2008-0051-FJI,Flood
+2008-0064-PER,"Slide (land, mud, snow, rock)"
+2008-0070-MDG,Flood
+2008-0073-CHN,Snow/ice
+2008-0074-PRT,"Slide (land, mud, snow, rock)"
+2008-0077-PHL,"Slide (land, mud, snow, rock)"
+2008-0082-AUT,Flood
+2008-0082-DEU,Flood
+2008-0082-ROU,Flood
+2008-0092-IDN,"Slide (land, mud, snow, rock)"
+2008-0104-SWZ,Rain
+2008-0108-IDN,Broken Dam/Burst bank
+2008-0115-USA,Flood
+2008-0115-USA,Hail
+2008-0121-COL,"Slide (land, mud, snow, rock)"
+2008-0125-BRA,"Slide (land, mud, snow, rock)"
+2008-0131-USA,Broken Dam/Burst bank
+2008-0132-LKA,"Slide (land, mud, snow, rock)"
+2008-0139-COD,Rain
+2008-0142-BDI,"Slide (land, mud, snow, rock)"
+2008-0155-CHN,Flood
+2008-0155-CHN,"Slide (land, mud, snow, rock)"
+2008-0184-LKA,Flood
+2008-0184-LKA,"Slide (land, mud, snow, rock)"
+2008-0184-MMR,Flood
+2008-0184-THA,Flood
+2008-0192-CHN,"Slide (land, mud, snow, rock)"
+2008-0194-USA,Flood
+2008-0194-USA,Hail
+2008-0197-PHL,Flood
+2008-0197-PHL,"Slide (land, mud, snow, rock)"
+2008-0210-USA,Broken Dam/Burst bank
+2008-0210-USA,Flood
+2008-0212-CHN,"Slide (land, mud, snow, rock)"
+2008-0216-ITA,"Slide (land, mud, snow, rock)"
+2008-0224-LKA,"Slide (land, mud, snow, rock)"
+2008-0226-GRC,"Slide (land, mud, snow, rock)"
+2008-0229-CHL,Broken Dam/Burst bank
+2008-0229-CHL,"Slide (land, mud, snow, rock)"
+2008-0233-BLZ,Flood
+2008-0234-CRI,Flood
+2008-0234-CRI,"Slide (land, mud, snow, rock)"
+2008-0237-FRA,Flood
+2008-0237-FRA,"Slide (land, mud, snow, rock)"
+2008-0242-JPN,"Slide (land, mud, snow, rock)"
+2008-0243-CHN,"Slide (land, mud, snow, rock)"
+2008-0246-IND,"Slide (land, mud, snow, rock)"
+2008-0249-CHN,Flood
+2008-0249-PHL,Flood
+2008-0249-PHL,"Slide (land, mud, snow, rock)"
+2008-0264-CAN,Snow/ice
+2008-0268-GTM,Broken Dam/Burst bank
+2008-0268-GTM,"Slide (land, mud, snow, rock)"
+2008-0271-NPL,Broken Dam/Burst bank
+2008-0271-NPL,"Slide (land, mud, snow, rock)"
+2008-0275-JPN,"Slide (land, mud, snow, rock)"
+2008-0282-SLV,Transport accident
+2008-0285-BGD,"Slide (land, mud, snow, rock)"
+2008-0292-CHN,Flood
+2008-0292-PHL,Flood
+2008-0292-TWN,Flood
+2008-0295-TWN,Flood
+2008-0295-TWN,"Slide (land, mud, snow, rock)"
+2008-0304-GTM,Flood
+2008-0304-GTM,"Slide (land, mud, snow, rock)"
+2008-0304-MEX,Flood
+2008-0304-MEX,"Slide (land, mud, snow, rock)"
+2008-0304-USA,Flood
+2008-0304-USA,Transport accident
+2008-0306-MDA,Rain
+2008-0306-UKR,Rain
+2008-0329-CHN,Flood
+2008-0329-PHL,Flood
+2008-0329-THA,Flood
+2008-0329-VNM,Flood
+2008-0329-VNM,"Slide (land, mud, snow, rock)"
+2008-0338-DOM,Flood
+2008-0338-DOM,"Slide (land, mud, snow, rock)"
+2008-0338-HTI,Transport accident
+2008-0338-USA,Flood
+2008-0352-BHS,Flood
+2008-0352-CUB,Flood
+2008-0352-DOM,"Slide (land, mud, snow, rock)"
+2008-0352-HTI,Flood
+2008-0352-JAM,Flood
+2008-0352-JAM,Surge
+2008-0352-TCA,Flood
+2008-0363-CMR,"Slide (land, mud, snow, rock)"
+2008-0369-CHN,Rain
+2008-0373-VNM,"Slide (land, mud, snow, rock)"
+2008-0378-DOM,Rain
+2008-0378-HTI,Flood
+2008-0378-TCA,Flood
+2008-0381-GBR,Rain
+2008-0384-CUB,Flood
+2008-0384-CUB,Surge
+2008-0384-HTI,Flood
+2008-0384-USA,Flood
+2008-0389-CHL,"Slide (land, mud, snow, rock)"
+2008-0420-ITA,"Slide (land, mud, snow, rock)"
+2008-0423-IND,"Slide (land, mud, snow, rock)"
+2008-0426-HKG,Flood
+2008-0426-PHL,"Slide (land, mud, snow, rock)"
+2008-0426-VNM,Flood
+2008-0426-VNM,"Slide (land, mud, snow, rock)"
+2008-0427-CRI,"Slide (land, mud, snow, rock)"
+2008-0431-NPL,"Slide (land, mud, snow, rock)"
+2008-0437-VNM,Flood
+2008-0441-TWN,Flood
+2008-0442-TWN,Flood
+2008-0442-TWN,"Slide (land, mud, snow, rock)"
+2008-0444-DZA,"Slide (land, mud, snow, rock)"
+2008-0452-LAO,"Slide (land, mud, snow, rock)"
+2008-0457-NIC,"Slide (land, mud, snow, rock)"
+2008-0481-VNM,"Slide (land, mud, snow, rock)"
+2008-0484-CRI,"Slide (land, mud, snow, rock)"
+2008-0484-GTM,"Slide (land, mud, snow, rock)"
+2008-0484-HND,"Slide (land, mud, snow, rock)"
+2008-0485-RWA,Rain
+2008-0486-IND,Broken Dam/Burst bank
+2008-0499-YEM,Lightening
+2008-0500-PAK,"Slide (land, mud, snow, rock)"
+2008-0501-VNM,"Slide (land, mud, snow, rock)"
+2008-0503-PRY,Hail
+2008-0507-CHN,"Slide (land, mud, snow, rock)"
+2008-0514-CUB,Surge
+2008-0514-CYM,Flood
+2008-0514-CYM,Surge
+2008-0518-KEN,"Slide (land, mud, snow, rock)"
+2008-0525-AUS,Flood
+2008-0525-AUS,Hail
+2008-0526-IDN,"Slide (land, mud, snow, rock)"
+2008-0533-BOL,Hail
+2008-0540-PHL,Flood
+2008-0540-VNM,Flood
+2008-0546-COL,"Slide (land, mud, snow, rock)"
+2008-0549-BRA,"Slide (land, mud, snow, rock)"
+2008-0551-CRI,"Slide (land, mud, snow, rock)"
+2008-0551-PAN,"Slide (land, mud, snow, rock)"
+2008-0552-VNM,Flood
+2008-0570-MYS,"Slide (land, mud, snow, rock)"
+2008-0579-ITA,Rain
+2008-0580-VEN,"Slide (land, mud, snow, rock)"
+2008-0581-AUS,Broken Dam/Burst bank
+2008-0604-ATG,Flood
+2008-0609-PHL,Flood
+2008-0621-PHL,Flood
+2008-0625-PNG,Industrial accidents
+2008-0627-USA,Broken Dam/Burst bank
+2008-0646-IND,Flood
+2008-0648-BGD,Flood
+2008-0649-COL,"Slide (land, mud, snow, rock)"
+2008-0651-CHN,Cold wave
+2008-0653-DEU,Hail
+2008-9200-ETH,Famine
+2008-9200-ETH,Food shortage
+2008-9303-DJI,Food shortage
+2008-9307-UGA,Food shortage
+2008-9456-TJK,Food shortage
+2008-9468-SOM,Food shortage
+2008-9475-AFG,Food shortage
+2008-9590-MOZ,Food shortage
+2008-9640-BDI,Food shortage
+2008-9644-MDG,Food shortage
+2009-0002-CRI,"Slide (land, mud, snow, rock)"
+2009-0013-FJI,Tsunami/Tidal wave
+2009-0014-FRA,Flood
+2009-0014-FRA,"Slide (land, mud, snow, rock)"
+2009-0014-ITA,"Slide (land, mud, snow, rock)"
+2009-0017-BRA,"Slide (land, mud, snow, rock)"
+2009-0023-PHL,"Slide (land, mud, snow, rock)"
+2009-0035-COL,"Slide (land, mud, snow, rock)"
+2009-0039-SLB,"Slide (land, mud, snow, rock)"
+2009-0043-MAR,Rain
+2009-0047-MDG,Flood
+2009-0048-AUS,Flood
+2009-0063-IDN,"Slide (land, mud, snow, rock)"
+2009-0064-CAF,Flood
+2009-0067-AUS,Heat wave
+2009-0121-IDN,Broken Dam/Burst bank
+2009-0123-MDG,Flood
+2009-0123-MOZ,Flood
+2009-0130-IND,Hail
+2009-0136-ITA,"Slide (land, mud, snow, rock)"
+2009-0139-AFG,"Slide (land, mud, snow, rock)"
+2009-0140-USA,Fire
+2009-0163-BRA,Broken Dam/Burst bank
+2009-0163-BRA,"Slide (land, mud, snow, rock)"
+2009-0165-PHL,Flood
+2009-0165-PHL,"Slide (land, mud, snow, rock)"
+2009-0168-AFG,"Slide (land, mud, snow, rock)"
+2009-0170-GAB,Flood
+2009-0171-VUT,"Slide (land, mud, snow, rock)"
+2009-0174-PHL,Flood
+2009-0174-PHL,"Slide (land, mud, snow, rock)"
+2009-0176-TJK,"Slide (land, mud, snow, rock)"
+2009-0184-USA,"Slide (land, mud, snow, rock)"
+2009-0204-BGD,Broken Dam/Burst bank
+2009-0204-BGD,Tsunami/Tidal wave
+2009-0204-IND,Flood
+2009-0204-IND,"Slide (land, mud, snow, rock)"
+2009-0205-HND,"Slide (land, mud, snow, rock)"
+2009-0207-BRA,Broken Dam/Burst bank
+2009-0222-CHN,Flood
+2009-0222-CHN,Hail
+2009-0224-CHN,Flood
+2009-0224-CHN,Hail
+2009-0228-AUT,"Slide (land, mud, snow, rock)"
+2009-0228-ROU,Lightening
+2009-0230-AUS,Flood
+2009-0234-NIC,"Slide (land, mud, snow, rock)"
+2009-0236-GHA,Rain
+2009-0239-PHL,"Slide (land, mud, snow, rock)"
+2009-0239-PHL,Surge
+2009-0244-USA,Flood
+2009-0244-USA,Hail
+2009-0262-TUR,"Slide (land, mud, snow, rock)"
+2009-0269-MNG,"Slide (land, mud, snow, rock)"
+2009-0271-ESP,Heat wave
+2009-0271-ESP,Storm
+2009-0273-AUT,Flood
+2009-0273-AUT,Hail
+2009-0273-CHE,Hail
+2009-0287-USA,Rain
+2009-0289-PHL,"Slide (land, mud, snow, rock)"
+2009-0292-CHN,"Slide (land, mud, snow, rock)"
+2009-0294-BGD,"Slide (land, mud, snow, rock)"
+2009-0316-JPN,Flood
+2009-0320-JPN,Fire
+2009-0320-JPN,Tsunami/Tidal wave
+2009-0321-CHN,Flood
+2009-0321-CHN,"Slide (land, mud, snow, rock)"
+2009-0321-PHL,Flood
+2009-0321-PHL,"Slide (land, mud, snow, rock)"
+2009-0321-TWN,Flood
+2009-0321-TWN,"Slide (land, mud, snow, rock)"
+2009-0332-SLE,"Slide (land, mud, snow, rock)"
+2009-0342-USA,Surge
+2009-0354-IDN,"Slide (land, mud, snow, rock)"
+2009-0356-BRA,"Slide (land, mud, snow, rock)"
+2009-0360-PHL,"Slide (land, mud, snow, rock)"
+2009-0373-PHL,Flood
+2009-0373-PHL,"Slide (land, mud, snow, rock)"
+2009-0374-PHL,Flood
+2009-0374-PHL,"Slide (land, mud, snow, rock)"
+2009-0377-MEX,"Slide (land, mud, snow, rock)"
+2009-0378-CHN,"Slide (land, mud, snow, rock)"
+2009-0384-MEX,Flood
+2009-0384-MEX,"Slide (land, mud, snow, rock)"
+2009-0386-NER,Broken Dam/Burst bank
+2009-0399-CHN,Flood
+2009-0414-LAO,Flood
+2009-0414-PHL,Flood
+2009-0414-VNM,Flood
+2009-0418-HTI,"Slide (land, mud, snow, rock)"
+2009-0420-ASM,Tsunami/Tidal wave
+2009-0420-TON,Tsunami/Tidal wave
+2009-0420-WSM,Tsunami/Tidal wave
+2009-0421-IDN,"Slide (land, mud, snow, rock)"
+2009-0421-IDN,Tsunami/Tidal wave
+2009-0422-PHL,Flood
+2009-0422-PHL,"Slide (land, mud, snow, rock)"
+2009-0423-JPN,Surge
+2009-0428-ITA,"Slide (land, mud, snow, rock)"
+2009-0434-NPL,"Slide (land, mud, snow, rock)"
+2009-0443-IND,Broken Dam/Burst bank
+2009-0469-HTI,"Slide (land, mud, snow, rock)"
+2009-0477-NIC,Flood
+2009-0477-SLV,Flood
+2009-0477-SLV,"Slide (land, mud, snow, rock)"
+2009-0477-USA,Flood
+2009-0478-PHL,"Slide (land, mud, snow, rock)"
+2009-0478-VNM,Flood
+2009-0483-IND,"Slide (land, mud, snow, rock)"
+2009-0484-TZA,"Slide (land, mud, snow, rock)"
+2009-0489-IRQ,"Slide (land, mud, snow, rock)"
+2009-0494-KEN,"Slide (land, mud, snow, rock)"
+2009-0498-TCD,Broken Dam/Burst bank
+2009-0506-GBR,Flood
+2009-0512-BRA,"Slide (land, mud, snow, rock)"
+2009-0521-PHL,"Slide (land, mud, snow, rock)"
+2009-0530-SRB,"Slide (land, mud, snow, rock)"
+2009-0554-FJI,Flood
+2009-0555-PAN,"Slide (land, mud, snow, rock)"
+2009-0574-PHL,Earthquake
+2009-0597-KEN,"Slide (land, mud, snow, rock)"
+2009-0600-BRA,Flood
+2009-0600-BRA,Rain
+2009-0601-USA,Flood
+2009-0601-USA,Hail
+2009-0603-USA,Hail
+2009-0606-PHL,Flood
+2009-0608-NPL,"Slide (land, mud, snow, rock)"
+2009-0613-CHN,"Slide (land, mud, snow, rock)"
+2009-0621-CHN,Flood
+2009-0628-CPV,"Slide (land, mud, snow, rock)"
+2009-0633-BWA,Rain
+2009-0640-IND,Hail
+2009-0641-IND,Flood
+2009-0642-CHN,Flood
+2009-0642-CHN,"Slide (land, mud, snow, rock)"
+2009-0644-USA,Hail
+2009-0660-PER,"Slide (land, mud, snow, rock)"
+2009-9055-ARG,Wildfire
+2009-9415-GTM,Food shortage
+2009-9559-HND,Food shortage
+2009-9615-ETH,Food shortage
+2009-9633-SSD,Food shortage
+2009-9634-BDI,Food shortage
+2009-9651-NER,Food shortage
+2009-9654-TCD,Food shortage
+2009-9655-CHN,Water shortage
+2009-9660-NPL,Food shortage
+2009-9661-KGZ,Food shortage
+2010-0003-SLB,"Slide (land, mud, snow, rock)"
+2010-0003-SLB,Tsunami/Tidal wave
+2010-0020-PHL,"Slide (land, mud, snow, rock)"
+2010-0021-ISR,Lightening
+2010-0036-CHN,"Avalanche (Snow, Debris)"
+2010-0036-CHN,Cold wave
+2010-0044-PYF,Flood
+2010-0044-PYF,Surge
+2010-0053-PAK,"Slide (land, mud, snow, rock)"
+2010-0056-ECU,"Slide (land, mud, snow, rock)"
+2010-0058-MEX,Cold wave
+2010-0058-MEX,"Slide (land, mud, snow, rock)"
+2010-0067-HTI,"Slide (land, mud, snow, rock)"
+2010-0068-PRT,Rain
+2010-0068-PRT,"Slide (land, mud, snow, rock)"
+2010-0075-IDN,"Slide (land, mud, snow, rock)"
+2010-0088-FRA,Flood
+2010-0091-CHL,Tsunami/Tidal wave
+2010-0092-HTI,"Slide (land, mud, snow, rock)"
+2010-0094-KEN,Lightening
+2010-0094-KEN,"Slide (land, mud, snow, rock)"
+2010-0102-AUS,Flood
+2010-0102-AUS,Hail
+2010-0104-MDG,Flood
+2010-0104-MDG,"Slide (land, mud, snow, rock)"
+2010-0106-FJI,Flood
+2010-0109-KAZ,Broken Dam/Burst bank
+2010-0112-MAR,"Slide (land, mud, snow, rock)"
+2010-0120-SLB,Flood
+2010-0120-SLB,Surge
+2010-0125-AUS,Hail
+2010-0147-BRA,"Slide (land, mud, snow, rock)"
+2010-0170-ISL,Flood
+2010-0175-TJK,"Slide (land, mud, snow, rock)"
+2010-0177-IND,Flood
+2010-0179-CHN,Hail
+2010-0179-CHN,"Slide (land, mud, snow, rock)"
+2010-0187-USA,Flood
+2010-0193-CZE,"Slide (land, mud, snow, rock)"
+2010-0193-POL,Broken Dam/Burst bank
+2010-0196-USA,Hail
+2010-0198-IND,Rain
+2010-0204-AZE,"Slide (land, mud, snow, rock)"
+2010-0210-PAK,Flood
+2010-0211-GTM,"Slide (land, mud, snow, rock)"
+2010-0211-SLV,Flood
+2010-0211-SLV,"Slide (land, mud, snow, rock)"
+2010-0231-MMR,"Slide (land, mud, snow, rock)"
+2010-0233-FRA,"Slide (land, mud, snow, rock)"
+2010-0238-IDN,"Slide (land, mud, snow, rock)"
+2010-0239-CHN,"Slide (land, mud, snow, rock)"
+2010-0248-BRA,"Slide (land, mud, snow, rock)"
+2010-0255-CIV,"Slide (land, mud, snow, rock)"
+2010-0260-MEX,Flood
+2010-0260-SLV,Rain
+2010-0267-PAN,"Slide (land, mud, snow, rock)"
+2010-0300-BFA,Broken Dam/Burst bank
+2010-0301-IDN,"Slide (land, mud, snow, rock)"
+2010-0308-PHL,Flood
+2010-0320-YEM,Broken Dam/Burst bank
+2010-0320-YEM,"Slide (land, mud, snow, rock)"
+2010-0332-VNM,"Slide (land, mud, snow, rock)"
+2010-0333-NPL,"Slide (land, mud, snow, rock)"
+2010-0351-CMR,Rain
+2010-0352-RUS,Heat wave
+2010-0367-AFG,"Slide (land, mud, snow, rock)"
+2010-0373-IND,"Slide (land, mud, snow, rock)"
+2010-0380-CZE,Flood
+2010-0380-DEU,Flood
+2010-0380-LTU,Lightening
+2010-0380-POL,Broken Dam/Burst bank
+2010-0383-PHL,Transport accident
+2010-0426-MEX,Flood
+2010-0426-MEX,"Slide (land, mud, snow, rock)"
+2010-0442-GTM,"Slide (land, mud, snow, rock)"
+2010-0443-HND,"Slide (land, mud, snow, rock)"
+2010-0452-NPL,Broken Dam/Burst bank
+2010-0452-NPL,"Slide (land, mud, snow, rock)"
+2010-0465-AUS,"Slide (land, mud, snow, rock)"
+2010-0467-MEX,"Slide (land, mud, snow, rock)"
+2010-0468-ATG,Flood
+2010-0468-USA,Rain
+2010-0470-CRI,"Slide (land, mud, snow, rock)"
+2010-0479-PRK,Flood
+2010-0479-PRK,"Slide (land, mud, snow, rock)"
+2010-0484-CHN,Flood
+2010-0484-CHN,"Slide (land, mud, snow, rock)"
+2010-0484-TWN,Flood
+2010-0488-PHL,"Slide (land, mud, snow, rock)"
+2010-0492-IND,"Slide (land, mud, snow, rock)"
+2010-0494-MEX,Flood
+2010-0501-JAM,Flood
+2010-0501-JAM,"Slide (land, mud, snow, rock)"
+2010-0503-GTM,Flood
+2010-0503-GTM,"Slide (land, mud, snow, rock)"
+2010-0503-HND,Flood
+2010-0503-MEX,Flood
+2010-0503-MEX,"Slide (land, mud, snow, rock)"
+2010-0503-VEN,Flood
+2010-0503-VEN,"Slide (land, mud, snow, rock)"
+2010-0508-HTI,Flood
+2010-0509-NGA,Broken Dam/Burst bank
+2010-0512-IDN,"Slide (land, mud, snow, rock)"
+2010-0522-USA,Flood
+2010-0543-TWN,"Slide (land, mud, snow, rock)"
+2010-0554-MMR,Flood
+2010-0554-MMR,Tsunami/Tidal wave
+2010-0562-IDN,Fire
+2010-0563-IDN,Tsunami/Tidal wave
+2010-0571-DOM,"Slide (land, mud, snow, rock)"
+2010-0571-HTI,Flood
+2010-0571-LCA,Flood
+2010-0571-LCA,"Slide (land, mud, snow, rock)"
+2010-0575-CRI,"Slide (land, mud, snow, rock)"
+2010-0585-PHL,"Slide (land, mud, snow, rock)"
+2010-0592-PAN,"Slide (land, mud, snow, rock)"
+2010-0601-BEL,"Slide (land, mud, snow, rock)"
+2010-0612-USA,Flood
+2010-0613-MAR,Transport accident
+2010-0616-VEN,"Slide (land, mud, snow, rock)"
+2010-0619-BIH,"Slide (land, mud, snow, rock)"
+2010-0639-EGY,Transport accident
+2010-0647-ESP,Rain
+2010-0659-PHL,"Slide (land, mud, snow, rock)"
+2010-0660-EGY,Transport accident
+2010-0666-PAN,"Slide (land, mud, snow, rock)"
+2010-0669-AFG,"Slide (land, mud, snow, rock)"
+2010-0674-BRA,Broken Dam/Burst bank
+2010-0678-ZAF,Flood
+2010-0686-BGD,Hail
+2010-0688-IND,Hail
+2010-0689-USA,Flood
+2010-0690-USA,Flood
+2010-0690-USA,Hail
+2010-0692-ITA,Flood
+2010-0692-ITA,"Slide (land, mud, snow, rock)"
+2010-0693-IND,Flood
+2010-0698-GAB,Flood
+2010-9077-GRD,Wildfire
+2010-9077-LCA,Water shortage
+2010-9077-TTO,Water shortage
+2010-9082-KEN,Famine
+2010-9082-SOM,Famine
+2010-9181-ZWE,Food shortage
+2010-9290-MOZ,Food shortage
+2010-9292-MRT,Food shortage
+2010-9318-RUS,Heat wave
+2010-9318-RUS,Wildfire
+2010-9701-CHN,Water shortage
+2011-0014-BRA,"Slide (land, mud, snow, rock)"
+2011-0021-PHL,"Slide (land, mud, snow, rock)"
+2011-0024-LKA,"Slide (land, mud, snow, rock)"
+2011-0029-USA,Cold wave
+2011-0040-BOL,"Slide (land, mud, snow, rock)"
+2011-0057-MDG,Flood
+2011-0064-PER,"Slide (land, mud, snow, rock)"
+2011-0070-AUS,Flood
+2011-0070-SLB,Flood
+2011-0070-VUT,Flood
+2011-0070-VUT,Surge
+2011-0082-IDN,Tsunami/Tidal wave
+2011-0082-JPN,Fire
+2011-0082-JPN,Industrial accidents
+2011-0083-THA,"Slide (land, mud, snow, rock)"
+2011-0086-BRA,"Slide (land, mud, snow, rock)"
+2011-0087-PHL,Rain
+2011-0087-PHL,"Slide (land, mud, snow, rock)"
+2011-0095-ECU,"Slide (land, mud, snow, rock)"
+2011-0102-MWI,Broken Dam/Burst bank
+2011-0132-COL,"Slide (land, mud, snow, rock)"
+2011-0142-BRA,"Slide (land, mud, snow, rock)"
+2011-0145-USA,Flood
+2011-0157-PHL,Flood
+2011-0157-PHL,"Slide (land, mud, snow, rock)"
+2011-0161-MEX,Heat wave
+2011-0179-VCT,"Slide (land, mud, snow, rock)"
+2011-0183-RWA,Rain
+2011-0183-RWA,"Slide (land, mud, snow, rock)"
+2011-0187-BRA,"Slide (land, mud, snow, rock)"
+2011-0195-USA,Flood
+2011-0195-USA,Hail
+2011-0199-HTI,"Slide (land, mud, snow, rock)"
+2011-0203-PHL,Flood
+2011-0203-PHL,"Slide (land, mud, snow, rock)"
+2011-0204-PHL,"Slide (land, mud, snow, rock)"
+2011-0212-CHN,"Slide (land, mud, snow, rock)"
+2011-0213-BRA,"Slide (land, mud, snow, rock)"
+2011-0227-CHN,"Slide (land, mud, snow, rock)"
+2011-0228-MEX,Flood
+2011-0228-MEX,"Slide (land, mud, snow, rock)"
+2011-0231-PHL,Flood
+2011-0231-PHL,"Slide (land, mud, snow, rock)"
+2011-0232-VNM,Flood
+2011-0241-MEX,Flood
+2011-0241-MEX,"Slide (land, mud, snow, rock)"
+2011-0250-KOR,"Slide (land, mud, snow, rock)"
+2011-0267-MEX,Flood
+2011-0272-PHL,Flood
+2011-0272-PHL,"Slide (land, mud, snow, rock)"
+2011-0272-THA,Flood
+2011-0274-KOR,Broken Dam/Burst bank
+2011-0279-CHN,Flood
+2011-0279-PHL,Flood
+2011-0279-PHL,"Slide (land, mud, snow, rock)"
+2011-0279-PRK,Flood
+2011-0284-PRK,"Slide (land, mud, snow, rock)"
+2011-0293-CAF,Flood
+2011-0295-GEO,"Slide (land, mud, snow, rock)"
+2011-0317-NPL,"Slide (land, mud, snow, rock)"
+2011-0324-LAO,"Slide (land, mud, snow, rock)"
+2011-0326-THA,"Slide (land, mud, snow, rock)"
+2011-0328-CAN,Flood
+2011-0328-DOM,Flood
+2011-0328-HTI,"Slide (land, mud, snow, rock)"
+2011-0328-PRI,Flood
+2011-0328-USA,Flood
+2011-0340-RUS,Broken Dam/Burst bank
+2011-0351-IND,"Slide (land, mud, snow, rock)"
+2011-0352-JPN,Flood
+2011-0370-CHN,"Slide (land, mud, snow, rock)"
+2011-0376-UGA,"Slide (land, mud, snow, rock)"
+2011-0378-PHL,"Slide (land, mud, snow, rock)"
+2011-0379-CHN,Flood
+2011-0385-MEX,Flood
+2011-0385-MEX,"Slide (land, mud, snow, rock)"
+2011-0386-COL,"Slide (land, mud, snow, rock)"
+2011-0386-CRI,"Slide (land, mud, snow, rock)"
+2011-0386-GTM,"Slide (land, mud, snow, rock)"
+2011-0386-HND,"Slide (land, mud, snow, rock)"
+2011-0386-NIC,"Slide (land, mud, snow, rock)"
+2011-0386-PAN,"Slide (land, mud, snow, rock)"
+2011-0386-SLV,"Slide (land, mud, snow, rock)"
+2011-0387-CHN,"Slide (land, mud, snow, rock)"
+2011-0388-NZL,"Slide (land, mud, snow, rock)"
+2011-0400-MMR,"Slide (land, mud, snow, rock)"
+2011-0416-ITA,"Slide (land, mud, snow, rock)"
+2011-0426-KOR,"Slide (land, mud, snow, rock)"
+2011-0432-DMA,Flood
+2011-0454-JPN,Flood
+2011-0454-JPN,"Slide (land, mud, snow, rock)"
+2011-0456-USA,Flood
+2011-0460-MEX,Transport accident
+2011-0468-PHL,"Slide (land, mud, snow, rock)"
+2011-0484-LKA,Flood
+2011-0484-LKA,"Slide (land, mud, snow, rock)"
+2011-0518-CHE,Transport accident
+2011-0518-FRA,Transport accident
+2011-0519-PHL,Flood
+2011-0519-PHL,"Slide (land, mud, snow, rock)"
+2011-0555-PHL,Flood
+2011-0568-IDN,Flood
+2011-0570-PAN,"Slide (land, mud, snow, rock)"
+2011-0574-JPN,Flood
+2011-0591-BGD,Hail
+2011-0592-PHL,"Slide (land, mud, snow, rock)"
+2011-0600-SLE,Transport accident
+2011-0610-USA,Rain
+2011-0626-BRA,"Slide (land, mud, snow, rock)"
+2011-0634-TZA,"Slide (land, mud, snow, rock)"
+2011-0638-ZAF,Flood
+2011-0642-AFG,"Avalanche (Snow, Debris)"
+2011-0660-PER,"Slide (land, mud, snow, rock)"
+2011-0663-JPN,Broken Dam/Burst bank
+2011-0663-JPN,"Slide (land, mud, snow, rock)"
+2011-9312-AFG,Food shortage
+2011-9415-TZA,Food shortage
+2011-9524-BFA,Food shortage
+2011-9529-NER,Food shortage
+2011-9560-SEN,Food shortage
+2011-9629-LSO,Food shortage
+2011-9661-MLI,Food shortage
+2011-9662-MRT,Food shortage
+2011-9663-ETH,Food shortage
+2011-9663-KEN,Food shortage
+2011-9663-SDN,Food shortage
+2011-9663-SOM,Food shortage
+2012-0005-MDG,Flood
+2012-0005-MOZ,Flood
+2012-0005-MWI,Flood
+2012-0006-MOZ,Flood
+2012-0006-ZAF,Flood
+2012-0024-FJI,"Slide (land, mud, snow, rock)"
+2012-0027-JPN,"Avalanche (Snow, Debris)"
+2012-0031-PHL,"Slide (land, mud, snow, rock)"
+2012-0033-BGR,Broken Dam/Burst bank
+2012-0034-DZA,"Slide (land, mud, snow, rock)"
+2012-0034-DZA,Transport accident
+2012-0043-MDG,Flood
+2012-0056-MDG,Flood
+2012-0056-MDG,"Slide (land, mud, snow, rock)"
+2012-0056-MOZ,Rain
+2012-0058-CAF,Rain
+2012-0060-USA,Flood
+2012-0060-USA,Hail
+2012-0066-PSE,Cold wave
+2012-0071-ECU,"Slide (land, mud, snow, rock)"
+2012-0082-BGD,Hail
+2012-0089-PRY,"Slide (land, mud, snow, rock)"
+2012-0102-AFG,"Slide (land, mud, snow, rock)"
+2012-0112-TJK,"Slide (land, mud, snow, rock)"
+2012-0113-COM,"Slide (land, mud, snow, rock)"
+2012-0114-HTI,"Slide (land, mud, snow, rock)"
+2012-0164-AFG,"Slide (land, mud, snow, rock)"
+2012-0165-GEO,"Slide (land, mud, snow, rock)"
+2012-0173-CHN,"Slide (land, mud, snow, rock)"
+2012-0175-BGD,"Slide (land, mud, snow, rock)"
+2012-0179-IND,"Slide (land, mud, snow, rock)"
+2012-0195-JPN,"Slide (land, mud, snow, rock)"
+2012-0197-CHN,"Slide (land, mud, snow, rock)"
+2012-0199-CHN,"Slide (land, mud, snow, rock)"
+2012-0226-AFG,"Slide (land, mud, snow, rock)"
+2012-0242-SLB,"Slide (land, mud, snow, rock)"
+2012-0258-PRK,"Slide (land, mud, snow, rock)"
+2012-0259-CHN,Flood
+2012-0259-VNM,Flood
+2012-0259-VNM,"Slide (land, mud, snow, rock)"
+2012-0260-CHN,Flood
+2012-0260-CHN,"Slide (land, mud, snow, rock)"
+2012-0260-PHL,Flood
+2012-0260-TWN,"Slide (land, mud, snow, rock)"
+2012-0266-IDN,"Slide (land, mud, snow, rock)"
+2012-0281-CRI,"Slide (land, mud, snow, rock)"
+2012-0283-CHN,Flood
+2012-0294-VNM,"Slide (land, mud, snow, rock)"
+2012-0296-PHL,Flood
+2012-0313-USA,Flood
+2012-0334-IND,"Slide (land, mud, snow, rock)"
+2012-0349-PNG,"Slide (land, mud, snow, rock)"
+2012-0354-IND,"Slide (land, mud, snow, rock)"
+2012-0374-PHL,Flood
+2012-0382-IND,"Slide (land, mud, snow, rock)"
+2012-0402-PER,Broken Dam/Burst bank
+2012-0402-PER,"Slide (land, mud, snow, rock)"
+2012-0406-PHL,Flood
+2012-0406-PHL,"Slide (land, mud, snow, rock)"
+2012-0406-VNM,Flood
+2012-0410-CUB,Flood
+2012-0410-HTI,Flood
+2012-0410-HTI,"Slide (land, mud, snow, rock)"
+2012-0410-USA,Fire
+2012-0410-USA,Flood
+2012-0414-PRK,Flood
+2012-0416-KGZ,"Slide (land, mud, snow, rock)"
+2012-0417-MMR,"Slide (land, mud, snow, rock)"
+2012-0420-ARG,Flood
+2012-0425-IND,Flood
+2012-0425-IND,Surge
+2012-0436-CMR,Broken Dam/Burst bank
+2012-0441-DZA,Lightening
+2012-0441-DZA,Rain
+2012-0462-PRY,Flood
+2012-0462-PRY,Hail
+2012-0479-COG,"Slide (land, mud, snow, rock)"
+2012-0480-PAN,"Slide (land, mud, snow, rock)"
+2012-0498-WSM,Flood
+2012-0499-PAN,Rain
+2012-0537-LKA,"Slide (land, mud, snow, rock)"
+2012-0539-IDN,"Slide (land, mud, snow, rock)"
+2012-0540-PHL,Flood
+2012-0540-PHL,Surge
+2012-0550-GEO,Flood
+2012-0550-GEO,Hail
+2012-0553-NGA,Flood
+2012-0558-IDN,"Slide (land, mud, snow, rock)"
+2012-0558-IDN,Surge
+2012-0582-IDN,"Slide (land, mud, snow, rock)"
+2012-0584-IND,"Slide (land, mud, snow, rock)"
+2012-0585-KOR,Flood
+2012-0585-KOR,"Slide (land, mud, snow, rock)"
+2012-0598-MWI,Rain
+2012-9021-PRY,Food shortage
+2012-9065-AGO,Food shortage
+2012-9160-TCD,Food shortage
+2012-9222-PRK,Food shortage
+2012-9235-USA,Heat wave
+2012-9245-GMB,Crop failure
+2012-9245-GMB,Food shortage
+2012-9290-ITA,Heat wave
+2012-9304-MWI,Food shortage
+2012-9355-GTM,Heat wave
+2012-9489-USA,Heat wave
+2013-0003-BRA,"Slide (land, mud, snow, rock)"
+2013-0008-AUS,Flood
+2013-0019-PHL,"Slide (land, mud, snow, rock)"
+2013-0025-ZWE,Rain
+2013-0026-SYC,Flood
+2013-0028-PNG,"Slide (land, mud, snow, rock)"
+2013-0029-SLB,Tsunami/Tidal wave
+2013-0032-MDG,Flood
+2013-0036-PHL,Flood
+2013-0054-USA,Flood
+2013-0057-BOL,Lightening
+2013-0063-IDN,"Slide (land, mud, snow, rock)"
+2013-0077-BRA,"Slide (land, mud, snow, rock)"
+2013-0078-CAF,Flood
+2013-0084-CHN,Hail
+2013-0084-CHN,Rain
+2013-0089-CHN,Hail
+2013-0118-USA,Flood
+2013-0122-GHA,"Slide (land, mud, snow, rock)"
+2013-0123-KEN,"Slide (land, mud, snow, rock)"
+2013-0142-USA,Hail
+2013-0148-AFG,"Slide (land, mud, snow, rock)"
+2013-0155-PRT,"Slide (land, mud, snow, rock)"
+2013-0159-SAU,Broken Dam/Burst bank
+2013-0183-USA,Hail
+2013-0187-BHS,Lightening
+2013-0192-IND,"Slide (land, mud, snow, rock)"
+2013-0194-ARM,Hail
+2013-0200-CHN,Lightening
+2013-0200-CHN,"Slide (land, mud, snow, rock)"
+2013-0202-CHN,Lightening
+2013-0205-AUT,"Slide (land, mud, snow, rock)"
+2013-0205-CZE,"Slide (land, mud, snow, rock)"
+2013-0216-CHE,Hail
+2013-0217-ZAF,Flood
+2013-0217-ZAF,Hail
+2013-0219-CHN,Lightening
+2013-0221-CHN,Lightening
+2013-0221-CHN,"Slide (land, mud, snow, rock)"
+2013-0222-CHN,Hail
+2013-0222-CHN,Rain
+2013-0235-IDN,"Slide (land, mud, snow, rock)"
+2013-0242-CHN,"Slide (land, mud, snow, rock)"
+2013-0243-PRK,"Slide (land, mud, snow, rock)"
+2013-0257-CHN,"Slide (land, mud, snow, rock)"
+2013-0265-JPN,"Slide (land, mud, snow, rock)"
+2013-0267-IDN,"Slide (land, mud, snow, rock)"
+2013-0272-CHN,Flood
+2013-0274-PHL,"Slide (land, mud, snow, rock)"
+2013-0306-CHN,Flood
+2013-0309-GEO,Broken Dam/Burst bank
+2013-0314-CHN,"Slide (land, mud, snow, rock)"
+2013-0317-CHN,"Slide (land, mud, snow, rock)"
+2013-0319-YEM,Lightening
+2013-0333-VNM,"Slide (land, mud, snow, rock)"
+2013-0334-USA,Flood
+2013-0334-USA,Hail
+2013-0335-MEX,Flood
+2013-0335-MEX,"Slide (land, mud, snow, rock)"
+2013-0340-PHL,"Slide (land, mud, snow, rock)"
+2013-0341-CHN,Flood
+2013-0348-MEX,"Slide (land, mud, snow, rock)"
+2013-0354-USA,"Slide (land, mud, snow, rock)"
+2013-0357-PER,Cold wave
+2013-0357-PER,Snow/ice
+2013-0358-MEX,Flood
+2013-0358-MEX,"Slide (land, mud, snow, rock)"
+2013-0372-ECU,"Slide (land, mud, snow, rock)"
+2013-0373-PHL,Flood
+2013-0373-PHL,"Slide (land, mud, snow, rock)"
+2013-0396-JPN,Flood
+2013-0396-JPN,"Slide (land, mud, snow, rock)"
+2013-0401-IND,Flood
+2013-0401-IND,Surge
+2013-0406-MEX,Flood
+2013-0406-MEX,"Slide (land, mud, snow, rock)"
+2013-0408-PRY,Hail
+2013-0412-VNM,"Slide (land, mud, snow, rock)"
+2013-0415-JPN,Flood
+2013-0429-CHN,Flood
+2013-0429-CHN,Surge
+2013-0430-PHL,Flood
+2013-0433-PHL,Surge
+2013-0434-PHL,Lightening
+2013-0437-PHL,Flood
+2013-0438-SOM,Flood
+2013-0438-SOM,Surge
+2013-0439-USA,Hail
+2013-0456-NPL,"Slide (land, mud, snow, rock)"
+2013-0472-USA,Flood
+2013-0488-CMR,Broken Dam/Burst bank
+2013-0513-COL,"Slide (land, mud, snow, rock)"
+2013-0513-COL,Storm
+2013-0515-IND,Flood
+2013-0517-DEU,Flood
+2013-0517-DEU,Tsunami/Tidal wave
+2013-0517-GBR,Flood
+2013-0517-NLD,Flood
+2013-0521-BRA,"Slide (land, mud, snow, rock)"
+2013-0524-PSE,Flood
+2013-0530-ESP,Rain
+2013-0530-FRA,Flood
+2013-0530-FRA,Rain
+2013-0530-GBR,Flood
+2013-0530-GBR,Rain
+2013-0531-DOM,Rain
+2013-0531-DOM,"Slide (land, mud, snow, rock)"
+2013-0531-LCA,Flood
+2013-0531-LCA,"Slide (land, mud, snow, rock)"
+2013-0531-VCT,Rain
+2013-0531-VCT,"Slide (land, mud, snow, rock)"
+2013-0544-BOL,Rain
+2013-0544-BOL,"Slide (land, mud, snow, rock)"
+2013-0552-BRA,"Slide (land, mud, snow, rock)"
+2013-0578-PER,Broken Dam/Burst bank
+2013-0579-USA,Hail
+2013-0580-CAN,Flood
+2013-9146-NAM,Food shortage
+2013-9478-ZWE,Food shortage
+2013-9478-ZWE,Water shortage
+2014-0018-IDN,"Slide (land, mud, snow, rock)"
+2014-0019-COL,Broken Dam/Burst bank
+2014-0020-PHL,Flood
+2014-0020-PHL,"Slide (land, mud, snow, rock)"
+2014-0026-ITA,"Slide (land, mud, snow, rock)"
+2014-0038-IDN,"Slide (land, mud, snow, rock)"
+2014-0040-PER,"Slide (land, mud, snow, rock)"
+2014-0045-ITA,"Slide (land, mud, snow, rock)"
+2014-0047-IND,Fog
+2014-0048-USA,Cold wave
+2014-0055-PHL,Flood
+2014-0055-PHL,"Slide (land, mud, snow, rock)"
+2014-0057-IDN,"Slide (land, mud, snow, rock)"
+2014-0058-SYC,"Slide (land, mud, snow, rock)"
+2014-0062-AUS,Industrial accidents
+2014-0062-AUS,Pollution
+2014-0063-BDI,"Slide (land, mud, snow, rock)"
+2014-0066-ZWE,"Slide (land, mud, snow, rock)"
+2014-0067-GBR,Flood
+2014-0072-USA,Cold wave
+2014-0084-AFG,Cold wave
+2014-0085-CHN,Cold wave
+2014-0091-SLB,Broken Dam/Burst bank
+2014-0092-COM,Flood
+2014-0094-CHL,"Slide (land, mud, snow, rock)"
+2014-0096-VUT,Flood
+2014-0097-MHL,Surge
+2014-0099-ZAF,"Slide (land, mud, snow, rock)"
+2014-0106-IND,Rain
+2014-0106-IND,"Slide (land, mud, snow, rock)"
+2014-0110-CHN,Flood
+2014-0110-CHN,Hail
+2014-0122-TJK,"Slide (land, mud, snow, rock)"
+2014-0126-USA,Flood
+2014-0126-USA,Hail
+2014-0128-SRB,"Slide (land, mud, snow, rock)"
+2014-0133-CHN,Flood
+2014-0133-CHN,Hail
+2014-0134-AFG,"Slide (land, mud, snow, rock)"
+2014-0164-BIH,"Slide (land, mud, snow, rock)"
+2014-0164-SRB,"Slide (land, mud, snow, rock)"
+2014-0171-IRN,"Slide (land, mud, snow, rock)"
+2014-0181-LKA,Flood
+2014-0181-LKA,"Slide (land, mud, snow, rock)"
+2014-0183-GTM,Flood
+2014-0183-GTM,"Slide (land, mud, snow, rock)"
+2014-0183-MEX,Flood
+2014-0183-MEX,"Slide (land, mud, snow, rock)"
+2014-0185-AFG,"Slide (land, mud, snow, rock)"
+2014-0185-AFG,Storm
+2014-0192-USA,Hail
+2014-0210-BGR,Hail
+2014-0210-BGR,Storm
+2014-0213-CHN,Flood
+2014-0214-CHN,Flood
+2014-0214-CHN,"Slide (land, mud, snow, rock)"
+2014-0218-IND,"Slide (land, mud, snow, rock)"
+2014-0227-CHN,Flood
+2014-0227-CHN,"Slide (land, mud, snow, rock)"
+2014-0227-PHL,Flood
+2014-0227-PHL,"Slide (land, mud, snow, rock)"
+2014-0227-VNM,Flood
+2014-0227-VNM,"Slide (land, mud, snow, rock)"
+2014-0236-JPN,Flood
+2014-0236-JPN,"Slide (land, mud, snow, rock)"
+2014-0237-CIV,"Slide (land, mud, snow, rock)"
+2014-0240-PHL,Rain
+2014-0240-PHL,"Slide (land, mud, snow, rock)"
+2014-0240-TWN,Flood
+2014-0258-COM,"Slide (land, mud, snow, rock)"
+2014-0263-USA,Flood
+2014-0263-USA,Hail
+2014-0266-CHN,"Slide (land, mud, snow, rock)"
+2014-0267-CHN,Lightening
+2014-0267-CHN,"Slide (land, mud, snow, rock)"
+2014-0268-NPL,"Slide (land, mud, snow, rock)"
+2014-0269-CHN,Flood
+2014-0269-CHN,Hail
+2014-0272-NPL,Epidemic
+2014-0272-NPL,"Slide (land, mud, snow, rock)"
+2014-0278-PAN,"Slide (land, mud, snow, rock)"
+2014-0280-BGR,Broken Dam/Burst bank
+2014-0281-CHN,"Slide (land, mud, snow, rock)"
+2014-0289-NER,Epidemic
+2014-0290-BGD,Broken Dam/Burst bank
+2014-0292-CHN,Flood
+2014-0292-CHN,"Slide (land, mud, snow, rock)"
+2014-0314-JPN,Flood
+2014-0314-JPN,"Slide (land, mud, snow, rock)"
+2014-0318-USA,Fire
+2014-0319-CAN,Lightening
+2014-0321-CHN,"Slide (land, mud, snow, rock)"
+2014-0322-PAK,Flood
+2014-0323-CHN,Hail
+2014-0325-MEX,Flood
+2014-0329-SRB,"Slide (land, mud, snow, rock)"
+2014-0330-PHL,"Slide (land, mud, snow, rock)"
+2014-0330-PHL,Transport accident
+2014-0330-TWN,Flood
+2014-0333-MEX,Flood
+2014-0333-MEX,Rain
+2014-0343-IND,"Slide (land, mud, snow, rock)"
+2014-0359-SVN,"Slide (land, mud, snow, rock)"
+2014-0365-GEO,"Slide (land, mud, snow, rock)"
+2014-0385-MEX,Rain
+2014-0386-MEX,Flood
+2014-0388-FRA,Flood
+2014-0388-FRA,"Slide (land, mud, snow, rock)"
+2014-0389-CHN,"Slide (land, mud, snow, rock)"
+2014-0390-CHN,Flood
+2014-0390-PHL,Flood
+2014-0390-PHL,Transport accident
+2014-0391-IND,"Slide (land, mud, snow, rock)"
+2014-0392-IND,Surge
+2014-0397-JPN,Flood
+2014-0397-JPN,"Slide (land, mud, snow, rock)"
+2014-0406-CHN,"Slide (land, mud, snow, rock)"
+2014-0408-IND,"Slide (land, mud, snow, rock)"
+2014-0408-IND,Transport accident
+2014-0414-PHL,"Slide (land, mud, snow, rock)"
+2014-0416-NPL,"Avalanche (Snow, Debris)"
+2014-0416-NPL,Snow/ice
+2014-0417-MEX,Flood
+2014-0417-MEX,"Slide (land, mud, snow, rock)"
+2014-0419-GRC,Storm
+2014-0425-MOZ,Storm
+2014-0432-COD,Lightening
+2014-0432-COD,"Slide (land, mud, snow, rock)"
+2014-0444-USA,Hail
+2014-0444-USA,Lightening
+2014-0447-GTM,"Slide (land, mud, snow, rock)"
+2014-0447-HND,"Slide (land, mud, snow, rock)"
+2014-0447-NIC,"Slide (land, mud, snow, rock)"
+2014-0448-ITA,"Slide (land, mud, snow, rock)"
+2014-0453-HTI,"Slide (land, mud, snow, rock)"
+2014-0458-ITA,Flood
+2014-0458-ITA,"Slide (land, mud, snow, rock)"
+2014-0463-MAR,Flood
+2014-0474-PHL,Flood
+2014-0479-PHL,Flood
+2014-0479-PHL,"Slide (land, mud, snow, rock)"
+2014-0482-USA,Flood
+2014-0482-USA,"Slide (land, mud, snow, rock)"
+2014-0488-FRA,Lightening
+2014-0491-USA,"Slide (land, mud, snow, rock)"
+2014-0495-LKA,"Slide (land, mud, snow, rock)"
+2014-0497-PHL,"Slide (land, mud, snow, rock)"
+2014-0523-IND,Fog
+2014-0523-IND,Snow/ice
+2014-0532-BOL,Hail
+2014-0532-BOL,"Slide (land, mud, snow, rock)"
+2014-0536-CIV,"Slide (land, mud, snow, rock)"
+2014-0537-THA,Hail
+2014-0540-USA,Hail
+2014-0546-PAK,Drought
+2014-0551-IND,Flood
+2014-0551-IND,Hail
+2014-0552-CHN,Cold wave
+2014-0571-PHL,"Slide (land, mud, snow, rock)"
+2014-9102-HTI,Food shortage
+2014-9196-BFA,Food shortage
+2014-9231-SOM,Famine
+2014-9231-SOM,Food shortage
+2014-9332-HND,Food shortage
+2014-9469-JAM,Food shortage
+2014-9533-MDG,Famine
+2014-9573-SEN,Food shortage
+2015-0002-PSE,Flood
+2015-0002-SYR,Cold wave
+2015-0011-MWI,Crop failure
+2015-0011-MWI,Epidemic
+2015-0016-MDG,Flood
+2015-0016-MDG,"Slide (land, mud, snow, rock)"
+2015-0017-PHL,Flood
+2015-0017-PHL,"Slide (land, mud, snow, rock)"
+2015-0021-MYS,"Slide (land, mud, snow, rock)"
+2015-0023-ALB,"Slide (land, mud, snow, rock)"
+2015-0026-USA,Snow/ice
+2015-0030-MWI,Flood
+2015-0030-ZWE,Flood
+2015-0035-OMN,Flood
+2015-0038-TUR,Wildfire
+2015-0044-ARG,Flood
+2015-0046-USA,Cold wave
+2015-0054-AFG,Flood
+2015-0054-AFG,"Slide (land, mud, snow, rock)"
+2015-0069-TZA,Flood
+2015-0072-USA,Cold wave
+2015-0081-ITA,Flood
+2015-0081-ITA,Snow/ice
+2015-0086-COL,"Slide (land, mud, snow, rock)"
+2015-0090-AGO,"Slide (land, mud, snow, rock)"
+2015-0093-KIR,Flood
+2015-0093-SLB,Flood
+2015-0093-TUV,Surge
+2015-0093-VUT,Flood
+2015-0105-CHN,Flood
+2015-0106-CHL,"Slide (land, mud, snow, rock)"
+2015-0107-IND,"Slide (land, mud, snow, rock)"
+2015-0113-PSE,Cold wave
+2015-0114-ECU,"Slide (land, mud, snow, rock)"
+2015-0118-BGD,Hail
+2015-0118-BGD,Rain
+2015-0121-MEX,Flood
+2015-0121-MEX,Hail
+2015-0123-USA,Hail
+2015-0126-IND,Flood
+2015-0126-IND,"Slide (land, mud, snow, rock)"
+2015-0127-IRN,Lightening
+2015-0129-IDN,Broken Dam/Burst bank
+2015-0131-CHN,Flood
+2015-0131-CHN,Lightening
+2015-0132-CHN,Cold wave
+2015-0138-USA,Flood
+2015-0138-USA,Hail
+2015-0144-NPL,"Slide (land, mud, snow, rock)"
+2015-0145-PAK,Collapse
+2015-0145-PAK,Flood
+2015-0148-AUS,Flood
+2015-0148-AUS,Surge
+2015-0151-AFG,Flood
+2015-0153-RWA,"Slide (land, mud, snow, rock)"
+2015-0155-USA,Flood
+2015-0155-USA,Hail
+2015-0162-CHN,Hail
+2015-0163-CHN,Flood
+2015-0163-CHN,Hail
+2015-0164-IND,Hail
+2015-0168-CUB,Storm
+2015-0171-COL,Flood
+2015-0175-NPL,"Slide (land, mud, snow, rock)"
+2015-0180-USA,Flood
+2015-0180-USA,Hail
+2015-0185-CHN,"Slide (land, mud, snow, rock)"
+2015-0194-TJK,"Slide (land, mud, snow, rock)"
+2015-0211-USA,Flood
+2015-0211-USA,Hail
+2015-0212-USA,Lightening
+2015-0214-CHN,Hail
+2015-0214-CHN,Lightening
+2015-0216-MYS,"Slide (land, mud, snow, rock)"
+2015-0226-NPL,Flood
+2015-0226-NPL,"Slide (land, mud, snow, rock)"
+2015-0227-GEO,"Slide (land, mud, snow, rock)"
+2015-0231-CIV,"Slide (land, mud, snow, rock)"
+2015-0237-CRI,"Slide (land, mud, snow, rock)"
+2015-0244-JPN,Flood
+2015-0245-USA,Flood
+2015-0245-USA,Hail
+2015-0248-CHN,"Slide (land, mud, snow, rock)"
+2015-0248-CHN,Storm
+2015-0251-CHN,Hail
+2015-0251-CHN,Lightening
+2015-0252-CHN,Flood
+2015-0253-BGD,"Slide (land, mud, snow, rock)"
+2015-0253-IND,"Slide (land, mud, snow, rock)"
+2015-0253-MMR,"Slide (land, mud, snow, rock)"
+2015-0261-JPN,Flood
+2015-0261-JPN,"Slide (land, mud, snow, rock)"
+2015-0278-PHL,"Slide (land, mud, snow, rock)"
+2015-0279-PHL,Storm
+2015-0283-PHL,"Slide (land, mud, snow, rock)"
+2015-0285-BRA,Storm
+2015-0286-TJK,"Slide (land, mud, snow, rock)"
+2015-0292-VNM,"Slide (land, mud, snow, rock)"
+2015-0293-BGD,"Slide (land, mud, snow, rock)"
+2015-0308-MMR,"Slide (land, mud, snow, rock)"
+2015-0309-BGD,Flood
+2015-0317-IND,"Slide (land, mud, snow, rock)"
+2015-0318-MKD,"Slide (land, mud, snow, rock)"
+2015-0318-MKD,Storm
+2015-0326-USA,Flood
+2015-0326-USA,Lightening
+2015-0333-IND,"Slide (land, mud, snow, rock)"
+2015-0334-CHN,Lightening
+2015-0338-CHL,Flood
+2015-0338-CHL,"Slide (land, mud, snow, rock)"
+2015-0339-CHN,Flood
+2015-0339-TWN,Flood
+2015-0346-BFA,Storm
+2015-0352-CAF,Flood
+2015-0359-PHL,"Slide (land, mud, snow, rock)"
+2015-0371-PHL,Flood
+2015-0371-PHL,"Slide (land, mud, snow, rock)"
+2015-0375-DMA,Flood
+2015-0375-DMA,"Slide (land, mud, snow, rock)"
+2015-0375-HTI,Flood
+2015-0397-CHN,"Slide (land, mud, snow, rock)"
+2015-0400-USA,Hail
+2015-0401-USA,Pollution
+2015-0413-IND,"Slide (land, mud, snow, rock)"
+2015-0418-JPN,"Slide (land, mud, snow, rock)"
+2015-0435-CHL,Tsunami/Tidal wave
+2015-0456-JPN,Flood
+2015-0457-CHN,"Slide (land, mud, snow, rock)"
+2015-0457-CHN,Storm
+2015-0459-USA,Flood
+2015-0460-LAO,"Slide (land, mud, snow, rock)"
+2015-0462-PHL,Flood
+2015-0462-PHL,"Slide (land, mud, snow, rock)"
+2015-0465-ITA,"Slide (land, mud, snow, rock)"
+2015-0470-MEX,Flood
+2015-0479-BHS,Flood
+2015-0479-BHS,Surge
+2015-0488-USA,Flood
+2015-0488-USA,Hail
+2015-0494-SOM,Flood
+2015-0494-YEM,Flood
+2015-0522-PER,"Slide (land, mud, snow, rock)"
+2015-0525-GBR,Flood
+2015-0525-IRL,Flood
+2015-0529-MNG,Cold wave
+2015-0529-MNG,Snow/ice
+2015-0531-USA,Flood
+2015-0535-COD,"Slide (land, mud, snow, rock)"
+2015-0543-PHL,Flood
+2015-0543-PHL,"Slide (land, mud, snow, rock)"
+2015-0547-LKA,"Slide (land, mud, snow, rock)"
+2015-0558-USA,Flood
+2015-0565-USA,Storm
+2015-0606-EGY,Flood
+2015-0620-KHM,Flood
+2015-0620-THA,Flood
+2015-0620-VNM,Flood
+2015-9166-NER,Food shortage
+2015-9372-COL,Wildfire
+2015-9373-SDN,Food shortage
+2015-9410-PNG,Cold wave
+2015-9411-IDN,Cold wave
+2015-9411-IDN,Food shortage
+2015-9444-MWI,Food shortage
+2015-9500-ZAF,Heat wave
+2015-9505-NAM,Food shortage
+2015-9545-ETH,Famine
+2015-9575-GMB,Food shortage
+2015-9616-SOM,Food shortage
+2016-0010-USA,Snow/ice
+2016-0012-USA,Flood
+2016-0012-USA,"Slide (land, mud, snow, rock)"
+2016-0039-ECU,"Slide (land, mud, snow, rock)"
+2016-0040-IDN,"Slide (land, mud, snow, rock)"
+2016-0041-FJI,Flood
+2016-0041-FJI,Surge
+2016-0043-TWN,Collapse
+2016-0051-USA,Lightening
+2016-0053-HTI,Lightening
+2016-0054-PER,"Slide (land, mud, snow, rock)"
+2016-0061-MAR,Snow/ice
+2016-0061-MAR,Storm
+2016-0077-BRA,"Slide (land, mud, snow, rock)"
+2016-0085-USA,Flood
+2016-0086-USA,Hail
+2016-0087-USA,Hail
+2016-0092-IDN,"Slide (land, mud, snow, rock)"
+2016-0094-IDN,"Slide (land, mud, snow, rock)"
+2016-0095-CHN,Hail
+2016-0095-CHN,"Slide (land, mud, snow, rock)"
+2016-0101-ETH,"Slide (land, mud, snow, rock)"
+2016-0112-AFG,"Slide (land, mud, snow, rock)"
+2016-0112-PAK,"Slide (land, mud, snow, rock)"
+2016-0115-URY,Lightening
+2016-0115-URY,Storm
+2016-0117-ECU,"Slide (land, mud, snow, rock)"
+2016-0123-USA,Hail
+2016-0124-USA,Storm
+2016-0125-USA,Flood
+2016-0125-USA,Hail
+2016-0126-HTI,"Slide (land, mud, snow, rock)"
+2016-0137-CHN,"Slide (land, mud, snow, rock)"
+2016-0137-CHN,Storm
+2016-0138-MMR,Flood
+2016-0138-MMR,Hail
+2016-0139-IND,"Slide (land, mud, snow, rock)"
+2016-0140-CHN,Hail
+2016-0141-FJI,Flood
+2016-0149-RWA,"Slide (land, mud, snow, rock)"
+2016-0150-USA,Hail
+2016-0153-LKA,"Slide (land, mud, snow, rock)"
+2016-0154-BGD,Lightening
+2016-0161-KEN,Collapse
+2016-0162-CHN,Flood
+2016-0165-HTI,Transport accident
+2016-0172-CAN,Explosion
+2016-0175-BGD,Flood
+2016-0175-BGD,"Slide (land, mud, snow, rock)"
+2016-0179-FRA,Lightening
+2016-0179-POL,Lightening
+2016-0181-USA,Flood
+2016-0183-USA,Storm
+2016-0185-HTI,"Slide (land, mud, snow, rock)"
+2016-0186-ETH,"Slide (land, mud, snow, rock)"
+2016-0191-AFG,"Slide (land, mud, snow, rock)"
+2016-0191-TJK,"Slide (land, mud, snow, rock)"
+2016-0201-AUS,Flood
+2016-0203-USA,Flood
+2016-0203-USA,"Slide (land, mud, snow, rock)"
+2016-0211-BEL,Flood
+2016-0211-NLD,Flood
+2016-0211-NLD,Hail
+2016-0216-IDN,Flood
+2016-0221-JPN,"Slide (land, mud, snow, rock)"
+2016-0227-RUS,"Slide (land, mud, snow, rock)"
+2016-0227-RUS,Storm
+2016-0230-CHN,Hail
+2016-0241-CHN,"Slide (land, mud, snow, rock)"
+2016-0246-BOL,"Slide (land, mud, snow, rock)"
+2016-0256-CHN,Flood
+2016-0267-NPL,"Slide (land, mud, snow, rock)"
+2016-0270-PAK,Transport accident
+2016-0282-MKD,"Slide (land, mud, snow, rock)"
+2016-0282-MKD,Storm
+2016-0284-MEX,Flood
+2016-0284-MEX,"Slide (land, mud, snow, rock)"
+2016-0295-RUS,Lightening
+2016-0319-MEX,Flood
+2016-0322-USA,Flood
+2016-0322-USA,Surge
+2016-0324-JPN,Flood
+2016-0325-MEX,"Slide (land, mud, snow, rock)"
+2016-0331-USA,"Slide (land, mud, snow, rock)"
+2016-0336-NGA,Flood
+2016-0336-NGA,"Slide (land, mud, snow, rock)"
+2016-0340-CHN,Flood
+2016-0340-CHN,Hail
+2016-0342-CHN,Flood
+2016-0342-TWN,Flood
+2016-0345-IDN,"Slide (land, mud, snow, rock)"
+2016-0350-CHN,"Slide (land, mud, snow, rock)"
+2016-0350-TWN,"Slide (land, mud, snow, rock)"
+2016-0355-BHS,Flood
+2016-0355-LCA,Flood
+2016-0355-USA,Flood
+2016-0356-HND,"Slide (land, mud, snow, rock)"
+2016-0359-EGY,Flood
+2016-0361-KOR,Flood
+2016-0361-KOR,"Slide (land, mud, snow, rock)"
+2016-0362-VNM,Flood
+2016-0371-PHL,"Slide (land, mud, snow, rock)"
+2016-0371-VNM,Flood
+2016-0375-PAK,"Slide (land, mud, snow, rock)"
+2016-0379-VNM,Flood
+2016-0379-VNM,"Slide (land, mud, snow, rock)"
+2016-0382-JPN,"Slide (land, mud, snow, rock)"
+2016-0390-JPN,Flood
+2016-0395-NZL,"Slide (land, mud, snow, rock)"
+2016-0395-NZL,Tsunami/Tidal wave
+2016-0418-HTI,"Slide (land, mud, snow, rock)"
+2016-0423-DOM,"Slide (land, mud, snow, rock)"
+2016-0424-MEX,Hail
+2016-0424-MEX,Lightening
+2016-0425-IDN,"Slide (land, mud, snow, rock)"
+2016-0427-UKR,Storm
+2016-0433-CRI,Flood
+2016-0433-PAN,Flood
+2016-0433-PAN,"Slide (land, mud, snow, rock)"
+2016-0451-COD,Storm
+2016-0456-PHL,"Slide (land, mud, snow, rock)"
+2016-0461-HUN,Hail
+2016-0477-USA,Hail
+2016-0481-SAU,Flood
+2016-0483-SLB,Tsunami/Tidal wave
+2016-0485-IND,Flood
+2016-0490-PHL,Flood
+2016-0494-VCT,"Slide (land, mud, snow, rock)"
+2016-0519-ARG,Hail
+2016-0519-ARG,Storm
+2016-0521-USA,Cold wave
+2016-0522-BOL,"Slide (land, mud, snow, rock)"
+2016-0522-COL,"Slide (land, mud, snow, rock)"
+2016-0523-ZWE,Flood
+2016-0525-IDN,"Slide (land, mud, snow, rock)"
+2016-0527-IDN,"Slide (land, mud, snow, rock)"
+2016-0529-MOZ,"Slide (land, mud, snow, rock)"
+2016-0544-IRN,Flood
+2016-0546-MOZ,Hail
+2016-0553-PAK,"Slide (land, mud, snow, rock)"
+2016-0554-PAK,"Slide (land, mud, snow, rock)"
+2016-0573-VNM,"Slide (land, mud, snow, rock)"
+2016-9020-MDG,Food shortage
+2016-9050-LSO,Food shortage
+2016-9052-HTI,Food shortage
+2016-9065-SSD,Famine
+2016-9122-MOZ,Food shortage
+2016-9225-KHM,Water shortage
+2016-9369-CHN,Heat wave
+2016-9369-CHN,Water shortage
+2016-9435-BOL,Water shortage
+2016-9452-KEN,Food shortage
+2017-0002-CHL,Heat wave
+2017-0010-ALB,Snow/ice
+2017-0010-BLR,Snow/ice
+2017-0010-GRC,Snow/ice
+2017-0010-MKD,Snow/ice
+2017-0010-SRB,Snow/ice
+2017-0010-UKR,Cold wave
+2017-0010-UKR,Snow/ice
+2017-0015-ITA,"Avalanche (Snow, Debris)"
+2017-0025-PAK,Rain
+2017-0025-PAK,Snow/ice
+2017-0026-AFG,Snow/ice
+2017-0027-AFG,Snow/ice
+2017-0028-PHL,"Slide (land, mud, snow, rock)"
+2017-0033-DZA,Snow/ice
+2017-0036-PER,"Slide (land, mud, snow, rock)"
+2017-0038-AFG,"Avalanche (Snow, Debris)"
+2017-0038-AFG,Cold wave
+2017-0039-USA,Flood
+2017-0039-USA,"Slide (land, mud, snow, rock)"
+2017-0051-MOZ,Flood
+2017-0055-CHL,"Slide (land, mud, snow, rock)"
+2017-0062-USA,Flood
+2017-0062-USA,"Slide (land, mud, snow, rock)"
+2017-0068-IDN,"Slide (land, mud, snow, rock)"
+2017-0070-USA,Hail
+2017-0070-USA,Lightening
+2017-0071-AFG,"Slide (land, mud, snow, rock)"
+2017-0071-AFG,Snow/ice
+2017-0072-AUS,Heat wave
+2017-0075-MDG,Flood
+2017-0080-BDI,Flood
+2017-0084-PER,"Slide (land, mud, snow, rock)"
+2017-0091-ZWE,Flood
+2017-0091-ZWE,"Slide (land, mud, snow, rock)"
+2017-0096-IRN,"Slide (land, mud, snow, rock)"
+2017-0105-AUS,Flood
+2017-0111-IDN,"Slide (land, mud, snow, rock)"
+2017-0136-USA,Hail
+2017-0136-USA,Storm
+2017-0140-PHL,"Slide (land, mud, snow, rock)"
+2017-0145-PAK,Flood
+2017-0145-PAK,"Slide (land, mud, snow, rock)"
+2017-0151-RUS,Hail
+2017-0152-IND,Flood
+2017-0152-IND,"Slide (land, mud, snow, rock)"
+2017-0153-LKA,"Slide (land, mud, snow, rock)"
+2017-0168-MEX,Flood
+2017-0168-MEX,"Slide (land, mud, snow, rock)"
+2017-0169-CHN,"Slide (land, mud, snow, rock)"
+2017-0169-TWN,"Slide (land, mud, snow, rock)"
+2017-0174-BGD,"Slide (land, mud, snow, rock)"
+2017-0176-PRT,Drought
+2017-0176-PRT,Heat wave
+2017-0178-ZAF,Fire
+2017-0178-ZAF,Flood
+2017-0182-GRC,"Slide (land, mud, snow, rock)"
+2017-0184-CIV,"Slide (land, mud, snow, rock)"
+2017-0184-CIV,Storm
+2017-0185-CHL,"Slide (land, mud, snow, rock)"
+2017-0187-CHN,Hail
+2017-0187-CHN,Storm
+2017-0196-HND,"Slide (land, mud, snow, rock)"
+2017-0202-BRA,"Slide (land, mud, snow, rock)"
+2017-0203-USA,Hail
+2017-0206-IDN,"Slide (land, mud, snow, rock)"
+2017-0215-COL,"Slide (land, mud, snow, rock)"
+2017-0215-COL,Storm
+2017-0222-NZL,"Slide (land, mud, snow, rock)"
+2017-0228-ESP,Heat wave
+2017-0230-HUN,Flood
+2017-0234-USA,Flood
+2017-0234-USA,Hail
+2017-0243-PAK,"Slide (land, mud, snow, rock)"
+2017-0245-CHN,"Slide (land, mud, snow, rock)"
+2017-0246-JPN,"Slide (land, mud, snow, rock)"
+2017-0251-TJK,"Slide (land, mud, snow, rock)"
+2017-0251-TJK,Storm
+2017-0253-USA,Hail
+2017-0256-NPL,Flood
+2017-0259-VNM,"Slide (land, mud, snow, rock)"
+2017-0261-CHN,Hail
+2017-0261-CHN,Lightening
+2017-0264-CHN,"Slide (land, mud, snow, rock)"
+2017-0270-VNM,"Slide (land, mud, snow, rock)"
+2017-0271-CAN,Heat wave
+2017-0280-GRC,Tsunami/Tidal wave
+2017-0280-TUR,Tsunami/Tidal wave
+2017-0284-CHN,Hail
+2017-0286-CHN,Hail
+2017-0286-CHN,"Slide (land, mud, snow, rock)"
+2017-0311-MMR,"Slide (land, mud, snow, rock)"
+2017-0316-THA,"Slide (land, mud, snow, rock)"
+2017-0319-NZL,Flood
+2017-0319-NZL,Snow/ice
+2017-0321-NPL,"Slide (land, mud, snow, rock)"
+2017-0326-PHL,Flood
+2017-0326-PHL,"Slide (land, mud, snow, rock)"
+2017-0326-TWN,Flood
+2017-0328-AUT,Flood
+2017-0328-AUT,"Slide (land, mud, snow, rock)"
+2017-0328-ITA,Flood
+2017-0328-ITA,Hail
+2017-0329-TUN,Heat wave
+2017-0331-CHN,"Slide (land, mud, snow, rock)"
+2017-0334-MEX,Flood
+2017-0334-MEX,"Slide (land, mud, snow, rock)"
+2017-0336-USA,Flood
+2017-0336-USA,Hail
+2017-0337-VNM,"Slide (land, mud, snow, rock)"
+2017-0342-NPL,"Slide (land, mud, snow, rock)"
+2017-0343-SLE,"Slide (land, mud, snow, rock)"
+2017-0352-CHN,Flood
+2017-0352-HKG,Flood
+2017-0352-MAC,Flood
+2017-0360-DEU,Hail
+2017-0362-USA,Flood
+2017-0362-USA,Oil spill
+2017-0376-MEX,Flood
+2017-0380-MRT,Flood
+2017-0381-BLM,Flood
+2017-0381-CUB,Flood
+2017-0381-DOM,Flood
+2017-0381-HTI,Flood
+2017-0381-PRI,Flood
+2017-0381-TCA,Flood
+2017-0381-USA,Flood
+2017-0381-VIR,Flood
+2017-0382-MEX,"Slide (land, mud, snow, rock)"
+2017-0382-MEX,Tsunami/Tidal wave
+2017-0383-DMA,Flood
+2017-0383-DMA,"Slide (land, mud, snow, rock)"
+2017-0383-DOM,Flood
+2017-0383-DOM,"Slide (land, mud, snow, rock)"
+2017-0383-GLP,Flood
+2017-0383-HTI,Flood
+2017-0383-HTI,Lightening
+2017-0383-MTQ,"Slide (land, mud, snow, rock)"
+2017-0383-PRI,Broken Dam/Burst bank
+2017-0383-PRI,Flood
+2017-0383-VIR,Flood
+2017-0383-VIR,"Slide (land, mud, snow, rock)"
+2017-0387-MEX,Fire
+2017-0392-MEX,Flood
+2017-0392-MEX,"Slide (land, mud, snow, rock)"
+2017-0406-PHL,Flood
+2017-0406-PHL,"Slide (land, mud, snow, rock)"
+2017-0406-THA,Flood
+2017-0408-HRV,Flood
+2017-0408-ITA,Flood
+2017-0408-ITA,"Slide (land, mud, snow, rock)"
+2017-0410-COL,Flood
+2017-0410-CRI,Flood
+2017-0410-CRI,"Slide (land, mud, snow, rock)"
+2017-0410-GTM,Flood
+2017-0410-GTM,"Slide (land, mud, snow, rock)"
+2017-0410-HND,Flood
+2017-0410-HND,"Slide (land, mud, snow, rock)"
+2017-0410-PAN,"Slide (land, mud, snow, rock)"
+2017-0410-SLV,"Slide (land, mud, snow, rock)"
+2017-0415-RWA,Flood
+2017-0422-PHL,Flood
+2017-0422-PHL,"Slide (land, mud, snow, rock)"
+2017-0422-VNM,Flood
+2017-0428-VNM,"Slide (land, mud, snow, rock)"
+2017-0432-JPN,Flood
+2017-0432-JPN,"Slide (land, mud, snow, rock)"
+2017-0432-PHL,Flood
+2017-0432-PHL,Storm
+2017-0444-GRC,"Slide (land, mud, snow, rock)"
+2017-0449-HND,Broken Dam/Burst bank
+2017-0452-HTI,"Slide (land, mud, snow, rock)"
+2017-0462-ZAF,Flood
+2017-0463-CHN,Storm
+2017-0465-THA,Broken Dam/Burst bank
+2017-0468-JPN,Flood
+2017-0468-JPN,"Slide (land, mud, snow, rock)"
+2017-0478-COL,"Slide (land, mud, snow, rock)"
+2017-0481-TGO,Broken Dam/Burst bank
+2017-0485-MAC,Flood
+2017-0485-MAC,"Slide (land, mud, snow, rock)"
+2017-0494-IDN,"Slide (land, mud, snow, rock)"
+2017-0504-ALB,"Slide (land, mud, snow, rock)"
+2017-0508-IND,Flood
+2017-0508-LKA,Flood
+2017-0508-LKA,"Slide (land, mud, snow, rock)"
+2017-0512-USA,Hail
+2017-0515-IDN,Flood
+2017-0515-IDN,"Slide (land, mud, snow, rock)"
+2017-0524-PHL,Flood
+2017-0524-PHL,"Slide (land, mud, snow, rock)"
+2017-0525-MYS,Flood
+2017-0525-MYS,Surge
+2017-0525-PHL,Flood
+2017-0525-PHL,"Slide (land, mud, snow, rock)"
+2017-0529-CHL,Flood
+2017-0542-USA,Cold wave
+2017-0542-USA,Transport accident
+2017-0548-OMN,Lightening
+2017-0548-OMN,Transport accident
+2017-0563-USA,Hail
+2017-0564-USA,Flood
+2017-0564-USA,Hail
+2017-0566-TUR,Flood
+2017-0566-TUR,Hail
+2017-9088-ZWE,Famine
+2017-9207-AGO,Food shortage
+2017-9208-NER,Food shortage
+2017-9342-TCD,Food shortage
+2017-9343-MRT,Food shortage
+2017-9468-MDG,Food shortage
+2017-9580-CPV,Food shortage
+2018-0002-CHE,Transport accident
+2018-0002-ESP,Surge
+2018-0002-FRA,"Slide (land, mud, snow, rock)"
+2018-0002-FRA,Wildfire
+2018-0002-GBR,Surge
+2018-0002-IRL,Flood
+2018-0005-COD,Broken Dam/Burst bank
+2018-0005-COD,"Slide (land, mud, snow, rock)"
+2018-0008-MDG,Flood
+2018-0008-MDG,"Slide (land, mud, snow, rock)"
+2018-0010-USA,Flood
+2018-0025-DEU,Transport accident
+2018-0029-MUS,Flood
+2018-0029-REU,Flood
+2018-0030-MAR,Snow/ice
+2018-0040-BRA,Collapse
+2018-0040-BRA,Flood
+2018-0042-TON,Flood
+2018-0042-WSM,Flood
+2018-0044-PHL,Flood
+2018-0044-PHL,"Slide (land, mud, snow, rock)"
+2018-0045-USA,Cold wave
+2018-0049-IND,Fog
+2018-0053-CHN,Cold wave
+2018-0055-PNG,"Slide (land, mud, snow, rock)"
+2018-0056-IDN,Flood
+2018-0062-BOL,"Slide (land, mud, snow, rock)"
+2018-0082-ALB,Broken Dam/Burst bank
+2018-0082-ALB,"Slide (land, mud, snow, rock)"
+2018-0086-MDG,Flood
+2018-0087-HRV,"Slide (land, mud, snow, rock)"
+2018-0101-FJI,Flood
+2018-0104-RWA,"Slide (land, mud, snow, rock)"
+2018-0111-USA,Flood
+2018-0111-USA,Surge
+2018-0121-IDN,"Slide (land, mud, snow, rock)"
+2018-0129-USA,Hail
+2018-0130-USA,"Slide (land, mud, snow, rock)"
+2018-0131-COL,Storm
+2018-0135-RWA,"Slide (land, mud, snow, rock)"
+2018-0145-DJI,Flood
+2018-0145-SOM,Flood
+2018-0146-USA,Earthquake
+2018-0148-KEN,Broken Dam/Burst bank
+2018-0161-ARG,Flood
+2018-0165-ROU,"Slide (land, mud, snow, rock)"
+2018-0168-GTM,Rain
+2018-0170-CUB,Flood
+2018-0170-CUB,Oil spill
+2018-0177-OMN,Flood
+2018-0177-YEM,Flood
+2018-0190-JPN,"Slide (land, mud, snow, rock)"
+2018-0198-CHN,Storm
+2018-0199-IND,"Slide (land, mud, snow, rock)"
+2018-0201-VNM,Flood
+2018-0202-IND,Flood
+2018-0202-IND,"Slide (land, mud, snow, rock)"
+2018-0203-BGD,"Slide (land, mud, snow, rock)"
+2018-0203-MMR,"Slide (land, mud, snow, rock)"
+2018-0204-VNM,"Slide (land, mud, snow, rock)"
+2018-0208-RWA,"Slide (land, mud, snow, rock)"
+2018-0222-LAO,Broken Dam/Burst bank
+2018-0223-GRC,Heat wave
+2018-0224-LVA,Heat wave
+2018-0224-SWE,Heat wave
+2018-0227-LAO,Flood
+2018-0227-PHL,Flood
+2018-0227-VNM,Flood
+2018-0227-VNM,"Slide (land, mud, snow, rock)"
+2018-0246-SRB,Lightening
+2018-0256-PRK,Drought
+2018-0257-IDN,Tsunami/Tidal wave
+2018-0258-USA,Pollution
+2018-0259-PRT,Heat wave
+2018-0272-TUR,Transport accident
+2018-0278-LKA,"Slide (land, mud, snow, rock)"
+2018-0279-USA,Lightening
+2018-0280-PRI,Flood
+2018-0280-PRI,"Slide (land, mud, snow, rock)"
+2018-0282-CHN,Storm
+2018-0285-CHN,Flood
+2018-0295-IND,Broken Dam/Burst bank
+2018-0295-IND,"Slide (land, mud, snow, rock)"
+2018-0299-CAN,Pollution
+2018-0305-CHN,Flood
+2018-0305-LAO,Flood
+2018-0305-VNM,Flood
+2018-0305-VNM,"Slide (land, mud, snow, rock)"
+2018-0309-PRK,Flood
+2018-0313-TWN,Flood
+2018-0314-MMR,Broken Dam/Burst bank
+2018-0326-JPN,Flood
+2018-0330-JPN,"Slide (land, mud, snow, rock)"
+2018-0341-PHL,"Slide (land, mud, snow, rock)"
+2018-0342-USA,Flood
+2018-0344-USA,Hail
+2018-0347-CHN,Flood
+2018-0348-CHN,Flood
+2018-0352-IDN,Liquefaction
+2018-0352-IDN,Tsunami/Tidal wave
+2018-0353-JPN,Flood
+2018-0368-GHA,Broken Dam/Burst bank
+2018-0369-VNM,"Slide (land, mud, snow, rock)"
+2018-0372-IND,"Slide (land, mud, snow, rock)"
+2018-0373-USA,Surge
+2018-0374-CRI,"Slide (land, mud, snow, rock)"
+2018-0374-GTM,"Slide (land, mud, snow, rock)"
+2018-0374-HND,"Slide (land, mud, snow, rock)"
+2018-0374-NIC,"Slide (land, mud, snow, rock)"
+2018-0374-SLV,"Slide (land, mud, snow, rock)"
+2018-0383-IRN,"Slide (land, mud, snow, rock)"
+2018-0384-LKA,"Slide (land, mud, snow, rock)"
+2018-0385-IND,Flood
+2018-0385-IND,Surge
+2018-0394-OMN,Flood
+2018-0394-YEM,Flood
+2018-0395-TTO,"Slide (land, mud, snow, rock)"
+2018-0396-COL,"Slide (land, mud, snow, rock)"
+2018-0397-ITA,Flood
+2018-0397-ITA,"Slide (land, mud, snow, rock)"
+2018-0399-PHL,"Slide (land, mud, snow, rock)"
+2018-0407-RUS,Storm
+2018-0419-USA,Storm
+2018-0421-MEX,Flood
+2018-0423-UGA,Flood
+2018-0425-IDN,"Slide (land, mud, snow, rock)"
+2018-0439-ARG,Storm
+2018-0455-PHL,Flood
+2018-0455-PHL,"Slide (land, mud, snow, rock)"
+2018-0456-VUT,Earthquake
+2018-0457-USA,Flood
+2018-0458-IDN,Tsunami/Tidal wave
+2018-0461-ITA,Earthquake
+2018-0469-SLB,Flood
+2018-0471-IDN,"Slide (land, mud, snow, rock)"
+2018-0472-IDN,"Slide (land, mud, snow, rock)"
+2018-0483-IDN,"Slide (land, mud, snow, rock)"
+2018-9191-NAM,Food shortage
+2018-9277-SLV,Heat wave
+2018-9278-AFG,Food shortage
+2018-9491-SEN,Food shortage
+2019-0001-AUT,"Avalanche (Snow, Debris)"
+2019-0001-CHE,"Avalanche (Snow, Debris)"
+2019-0005-LBN,Flood
+2019-0005-LBN,Snow/ice
+2019-0007-USA,Snow/ice
+2019-0008-ARG,Storm
+2019-0008-BRA,Storm
+2019-0013-IDN,Flood
+2019-0015-ESP,"Slide (land, mud, snow, rock)"
+2019-0020-MDG,Collapse
+2019-0020-MDG,"Slide (land, mud, snow, rock)"
+2019-0022-IDN,"Slide (land, mud, snow, rock)"
+2019-0044-DZA,Snow/ice
+2019-0045-USA,Lightening
+2019-0045-USA,Snow/ice
+2019-0046-USA,Cold wave
+2019-0050-AFG,Industrial accidents
+2019-0050-AFG,"Slide (land, mud, snow, rock)"
+2019-0055-MDA,Cold wave
+2019-0056-MNG,Cold wave
+2019-0056-MNG,Snow/ice
+2019-0072-PER,"Slide (land, mud, snow, rock)"
+2019-0072-PER,Storm
+2019-0073-BOL,"Slide (land, mud, snow, rock)"
+2019-0073-BOL,Storm
+2019-0082-AFG,"Slide (land, mud, snow, rock)"
+2019-0082-PAK,"Slide (land, mud, snow, rock)"
+2019-0084-AUS,Heat wave
+2019-0086-USA,"Slide (land, mud, snow, rock)"
+2019-0086-USA,Storm
+2019-0089-USA,Flood
+2019-0089-USA,Hail
+2019-0090-USA,"Slide (land, mud, snow, rock)"
+2019-0093-PER,"Slide (land, mud, snow, rock)"
+2019-0098-PNG,"Slide (land, mud, snow, rock)"
+2019-0100-BRA,"Slide (land, mud, snow, rock)"
+2019-0106-ZAF,Storm
+2019-0107-IDN,"Slide (land, mud, snow, rock)"
+2019-0110-MOZ,"Slide (land, mud, snow, rock)"
+2019-0110-ZWE,Flood
+2019-0116-USA,Storm
+2019-0125-IRN,"Slide (land, mud, snow, rock)"
+2019-0141-IRQ,Storm
+2019-0146-BRA,"Slide (land, mud, snow, rock)"
+2019-0155-IND,Flood
+2019-0159-COL,"Slide (land, mud, snow, rock)"
+2019-0160-USA,Hail
+2019-0165-COM,Flood
+2019-0168-IDN,"Slide (land, mud, snow, rock)"
+2019-0171-CAN,Broken Dam/Burst bank
+2019-0176-ZAF,"Slide (land, mud, snow, rock)"
+2019-0184-USA,Flood
+2019-0186-ESP,Flood
+2019-0216-AFG,"Slide (land, mud, snow, rock)"
+2019-0216-TJK,"Slide (land, mud, snow, rock)"
+2019-0222-ROU,Hail
+2019-0222-ROU,Storm
+2019-0225-MEX,"Slide (land, mud, snow, rock)"
+2019-0225-MEX,Storm
+2019-0227-UGA,Flood
+2019-0227-UGA,Lightening
+2019-0233-SLV,"Slide (land, mud, snow, rock)"
+2019-0250-USA,Hail
+2019-0265-VNM,"Slide (land, mud, snow, rock)"
+2019-0283-ECU,Flood
+2019-0287-BIH,"Slide (land, mud, snow, rock)"
+2019-0288-IND,Broken Dam/Burst bank
+2019-0301-ESP,Storm
+2019-0321-IND,Flood
+2019-0321-IND,Hail
+2019-0322-JPN,"Slide (land, mud, snow, rock)"
+2019-0331-IND,"Slide (land, mud, snow, rock)"
+2019-0332-NPL,"Slide (land, mud, snow, rock)"
+2019-0334-IDN,Tsunami/Tidal wave
+2019-0337-BGD,Lightening
+2019-0337-BGD,"Slide (land, mud, snow, rock)"
+2019-0346-PAK,"Slide (land, mud, snow, rock)"
+2019-0357-TUR,"Slide (land, mud, snow, rock)"
+2019-0368-BRA,"Slide (land, mud, snow, rock)"
+2019-0369-MMR,Industrial accidents
+2019-0370-MAR,"Slide (land, mud, snow, rock)"
+2019-0370-MAR,Transport accident
+2019-0380-VNM,"Slide (land, mud, snow, rock)"
+2019-0382-SLE,"Slide (land, mud, snow, rock)"
+2019-0385-MMR,"Slide (land, mud, snow, rock)"
+2019-0386-PAK,"Slide (land, mud, snow, rock)"
+2019-0387-CHN,Flood
+2019-0387-CHN,"Slide (land, mud, snow, rock)"
+2019-0395-GTM,Flood
+2019-0395-GTM,Lightening
+2019-0396-POL,Lightening
+2019-0409-JPN,"Slide (land, mud, snow, rock)"
+2019-0412-USA,Flood
+2019-0413-ESP,Storm
+2019-0417-USA,Flood
+2019-0418-MEX,Flood
+2019-0426-MAR,Transport accident
+2019-0430-UGA,Flood
+2019-0452-LKA,"Slide (land, mud, snow, rock)"
+2019-0453-TCD,Collapse
+2019-0461-YEM,"Slide (land, mud, snow, rock)"
+2019-0464-PAK,"Slide (land, mud, snow, rock)"
+2019-0470-PAK,"Slide (land, mud, snow, rock)"
+2019-0482-VNM,"Slide (land, mud, snow, rock)"
+2019-0487-RUS,Broken Dam/Burst bank
+2019-0487-RUS,Collapse
+2019-0490-GTM,Flood
+2019-0490-GTM,"Slide (land, mud, snow, rock)"
+2019-0492-JPN,Flood
+2019-0497-ESP,"Slide (land, mud, snow, rock)"
+2019-0499-IND,"Slide (land, mud, snow, rock)"
+2019-0499-LKA,"Slide (land, mud, snow, rock)"
+2019-0500-KEN,"Slide (land, mud, snow, rock)"
+2019-0514-CIV,Storm
+2019-0516-JPN,"Slide (land, mud, snow, rock)"
+2019-0519-MEX,Flood
+2019-0532-CAN,Flood
+2019-0533-FRA,Flood
+2019-0533-FRA,"Slide (land, mud, snow, rock)"
+2019-0533-ITA,Flood
+2019-0533-ITA,"Slide (land, mud, snow, rock)"
+2019-0534-VNM,Flood
+2019-0534-VNM,"Slide (land, mud, snow, rock)"
+2019-0541-PHL,Flood
+2019-0541-PHL,"Slide (land, mud, snow, rock)"
+2019-0542-BRA,"Slide (land, mud, snow, rock)"
+2019-0543-ITA,Flood
+2019-0543-ITA,"Slide (land, mud, snow, rock)"
+2019-0545-AUS,Heat wave
+2019-0545-AUS,Pollution
+2019-0549-VNM,Flood
+2019-0557-KEN,Flood
+2019-0558-FRA,Flood
+2019-0558-ITA,"Slide (land, mud, snow, rock)"
+2019-0558-ITA,Surge
+2019-0576-FRA,"Slide (land, mud, snow, rock)"
+2019-0577-LKA,"Slide (land, mud, snow, rock)"
+2019-0579-DJI,"Slide (land, mud, snow, rock)"
+2019-0580-BRA,"Slide (land, mud, snow, rock)"
+2019-0593-USA,Cold wave
+2019-0599-UGA,"Slide (land, mud, snow, rock)"
+2019-0600-SOM,Flood
+2019-0600-SOM,"Slide (land, mud, snow, rock)"
+2019-0601-MDG,Broken Dam/Burst bank
+2019-0601-MDG,Flood
+2019-0611-CHN,"Slide (land, mud, snow, rock)"
+2019-0621-FRA,Flood
+2019-0624-USA,Hail
+2019-0625-UGA,"Slide (land, mud, snow, rock)"
+2019-0630-ETH,Food shortage
+2019-0630-KEN,Food shortage
+2019-0630-SDN,Food shortage
+2019-0630-SOM,Food shortage
+2019-0630-UGA,Food shortage
+2019-0632-IDN,"Slide (land, mud, snow, rock)"
+2019-0633-MOZ,Storm
+2019-0634-PHL,Flood
+2019-0634-PHL,"Slide (land, mud, snow, rock)"
+2019-0645-BDI,"Slide (land, mud, snow, rock)"
+2019-0646-IDN,Pollution
+2019-0647-PER,"Slide (land, mud, snow, rock)"
+2019-0657-IDN,"Slide (land, mud, snow, rock)"
+2019-9023-PAK,Food shortage
+2019-9076-PRK,Food shortage
+2019-9109-SOM,Food shortage
+2019-9145-KEN,Food shortage
+2019-9619-BWA,Food shortage
+2019-9667-ZMB,Food shortage
+2020-0001-ISR,Storm
+2020-0005-TUR,Snow/ice
+2020-0007-PRI,Tsunami/Tidal wave
+2020-0009-AFG,Cold wave
+2020-0009-AFG,Snow/ice
+2020-0010-PAK,"Slide (land, mud, snow, rock)"
+2020-0010-PAK,Snow/ice
+2020-0011-USA,Flood
+2020-0016-MDG,"Slide (land, mud, snow, rock)"
+2020-0018-IDN,Collapse
+2020-0019-AUS,Flood
+2020-0019-AUS,"Slide (land, mud, snow, rock)"
+2020-0022-BRA,"Slide (land, mud, snow, rock)"
+2020-0022-BRA,Storm
+2020-0030-MNG,Cold wave
+2020-0032-PER,"Slide (land, mud, snow, rock)"
+2020-0041-RWA,"Slide (land, mud, snow, rock)"
+2020-0045-PSE,Flood
+2020-0045-PSE,Storm
+2020-0053-AUS,Storm
+2020-0056-BRA,"Slide (land, mud, snow, rock)"
+2020-0057-IND,"Avalanche (Snow, Debris)"
+2020-0058-BOL,"Slide (land, mud, snow, rock)"
+2020-0059-IDN,"Slide (land, mud, snow, rock)"
+2020-0060-ARG,Flood
+2020-0070-PER,Flood
+2020-0071-COL,"Slide (land, mud, snow, rock)"
+2020-0075-HND,Storm
+2020-0077-BRA,"Slide (land, mud, snow, rock)"
+2020-0083-BRA,"Slide (land, mud, snow, rock)"
+2020-0088-VNM,Flood
+2020-0088-VNM,Lightening
+2020-0091-BOL,"Slide (land, mud, snow, rock)"
+2020-0094-PER,"Slide (land, mud, snow, rock)"
+2020-0095-PAK,Cold wave
+2020-0095-PAK,"Slide (land, mud, snow, rock)"
+2020-0098-RWA,Lightening
+2020-0102-EGY,Transport accident
+2020-0103-MDG,Flood
+2020-0108-YEM,Storm
+2020-0109-BDI,Flood
+2020-0111-PNG,"Slide (land, mud, snow, rock)"
+2020-0122-PER,"Slide (land, mud, snow, rock)"
+2020-0125-COG,Lightening
+2020-0132-SLB,Transport accident
+2020-0134-IDN,"Slide (land, mud, snow, rock)"
+2020-0148-USA,Flood
+2020-0157-KAZ,Broken Dam/Burst bank
+2020-0157-KAZ,Storm
+2020-0157-UZB,Broken Dam/Burst bank
+2020-0157-UZB,Storm
+2020-0158-PRI,"Slide (land, mud, snow, rock)"
+2020-0160-MYS,"Slide (land, mud, snow, rock)"
+2020-0161-IDN,"Slide (land, mud, snow, rock)"
+2020-0164-KEN,"Slide (land, mud, snow, rock)"
+2020-0165-VNM,Flood
+2020-0166-TZA,"Slide (land, mud, snow, rock)"
+2020-0167-USA,Flood
+2020-0171-RWA,"Slide (land, mud, snow, rock)"
+2020-0182-UGA,"Slide (land, mud, snow, rock)"
+2020-0183-GTM,"Slide (land, mud, snow, rock)"
+2020-0183-GTM,Storm
+2020-0185-IDN,"Slide (land, mud, snow, rock)"
+2020-0188-RWA,"Slide (land, mud, snow, rock)"
+2020-0190-USA,Hail
+2020-0206-IND,"Slide (land, mud, snow, rock)"
+2020-0207-CUB,Flood
+2020-0212-USA,Broken Dam/Burst bank
+2020-0213-UGA,"Slide (land, mud, snow, rock)"
+2020-0218-GTM,"Slide (land, mud, snow, rock)"
+2020-0218-HND,"Slide (land, mud, snow, rock)"
+2020-0218-SLV,Flood
+2020-0218-SLV,"Slide (land, mud, snow, rock)"
+2020-0219-MEX,"Slide (land, mud, snow, rock)"
+2020-0238-USA,Hail
+2020-0250-IDN,"Slide (land, mud, snow, rock)"
+2020-0257-NGA,Collapse
+2020-0259-CIV,"Slide (land, mud, snow, rock)"
+2020-0260-CHN,Flood
+2020-0264-GTM,"Slide (land, mud, snow, rock)"
+2020-0266-CAN,Hail
+2020-0269-MMR,Collapse
+2020-0270-BRA,Flood
+2020-0270-BRA,"Slide (land, mud, snow, rock)"
+2020-0280-URY,Flood
+2020-0285-BIH,"Slide (land, mud, snow, rock)"
+2020-0285-SRB,"Slide (land, mud, snow, rock)"
+2020-0296-JPN,"Slide (land, mud, snow, rock)"
+2020-0297-NPL,"Slide (land, mud, snow, rock)"
+2020-0301-URY,Storm
+2020-0304-IND,"Slide (land, mud, snow, rock)"
+2020-0305-SDN,Storm
+2020-0306-ARM,Flood
+2020-0307-THA,Flood
+2020-0307-THA,Surge
+2020-0308-KOR,"Slide (land, mud, snow, rock)"
+2020-0316-MEX,Flood
+2020-0316-USA,Flood
+2020-0323-BGD,"Slide (land, mud, snow, rock)"
+2020-0325-IDN,"Slide (land, mud, snow, rock)"
+2020-0328-VNM,"Slide (land, mud, snow, rock)"
+2020-0329-MMR,Broken Dam/Burst bank
+2020-0333-KOR,"Slide (land, mud, snow, rock)"
+2020-0353-MEX,"Slide (land, mud, snow, rock)"
+2020-0357-PAK,"Slide (land, mud, snow, rock)"
+2020-0376-USA,Industrial accidents
+2020-0384-THA,"Slide (land, mud, snow, rock)"
+2020-0388-UGA,Flood
+2020-0388-UGA,Lightening
+2020-0403-KOR,Flood
+2020-0406-ITA,Flood
+2020-0406-ITA,Hail
+2020-0411-KHM,Flood
+2020-0411-LAO,Flood
+2020-0411-VNM,Flood
+2020-0412-USA,Flood
+2020-0418-CHE,Flood
+2020-0418-CHE,"Slide (land, mud, snow, rock)"
+2020-0418-ITA,"Slide (land, mud, snow, rock)"
+2020-0425-CHN,Transport accident
+2020-0438-USA,Flood
+2020-0462-THA,Flood
+2020-0463-PHL,Flood
+2020-0463-PHL,"Slide (land, mud, snow, rock)"
+2020-0470-VNM,"Slide (land, mud, snow, rock)"
+2020-0474-GTM,Flood
+2020-0474-GTM,"Slide (land, mud, snow, rock)"
+2020-0474-NIC,Flood
+2020-0474-NIC,"Slide (land, mud, snow, rock)"
+2020-0474-USA,Flood
+2020-0474-USA,Surge
+2020-0477-COL,"Slide (land, mud, snow, rock)"
+2020-0483-USA,Surge
+2020-0486-IDN,"Slide (land, mud, snow, rock)"
+2020-0487-SOM,Flood
+2020-0487-SOM,Surge
+2020-0488-COL,Flood
+2020-0489-ZAF,Hail
+2020-0489-ZAF,Lightening
+2020-0495-COL,Flood
+2020-0495-COL,"Slide (land, mud, snow, rock)"
+2020-0496-CHN,Industrial accidents
+2020-0501-PHL,Flood
+2020-0501-PHL,"Slide (land, mud, snow, rock)"
+2020-0501-VNM,Flood
+2020-0506-MEX,"Slide (land, mud, snow, rock)"
+2020-0519-IRN,Snow/ice
+2020-0521-ITA,"Slide (land, mud, snow, rock)"
+2020-0522-UGA,"Slide (land, mud, snow, rock)"
+2020-0524-IND,Flood
+2020-0531-COD,"Slide (land, mud, snow, rock)"
+2020-0533-ITA,Snow/ice
+2020-0533-ITA,Storm
+2020-0538-USA,Flood
+2020-0538-USA,Hail
+2020-0542-VNM,Flood
+2020-0544-IDN,"Slide (land, mud, snow, rock)"
+2020-0554-FJI,Flood
+2020-0554-FJI,"Slide (land, mud, snow, rock)"
+2020-0555-JPN,Cold wave
+2020-0558-PHL,Flood
+2020-0560-BRA,"Slide (land, mud, snow, rock)"
+2020-0561-THA,"Slide (land, mud, snow, rock)"
+2020-0583-USA,Hail
+2020-0583-USA,Lightening
+2020-0604-ZMB,Broken Dam/Burst bank
+2020-0606-CPV,"Slide (land, mud, snow, rock)"
+2020-9206-AGO,Food shortage
+2020-9235-BFA,Food shortage
+2020-9396-LSO,Food shortage
+2020-9424-MDG,Famine
+2020-9424-MDG,Food shortage
+2020-9538-MRT,Food shortage
+2020-9569-MLI,Food shortage
+2020-9570-NER,Food shortage
+2020-9585-USA,Heat wave
+2020-9586-MOZ,Food shortage
+2020-9609-KEN,Food shortage
+2020-9609-SOM,Famine
+2021-0003-IDN,"Slide (land, mud, snow, rock)"
+2021-0005-IDN,"Slide (land, mud, snow, rock)"
+2021-0006-PHL,"Slide (land, mud, snow, rock)"
+2021-0011-USA,Flood
+2021-0011-USA,"Slide (land, mud, snow, rock)"
+2021-0016-ESP,Cold wave
+2021-0016-ESP,Flood
+2021-0017-TWN,Cold wave
+2021-0018-JPN,Cold wave
+2021-0026-LKA,Lightening
+2021-0026-LKA,Storm
+2021-0027-BOL,Hail
+2021-0028-MYS,Lightening
+2021-0036-MOZ,Flood
+2021-0036-ZAF,Flood
+2021-0036-ZWE,Flood
+2021-0037-USA,Flood
+2021-0037-USA,Snow/ice
+2021-0040-BRA,"Slide (land, mud, snow, rock)"
+2021-0043-USA,Flood
+2021-0043-USA,"Slide (land, mud, snow, rock)"
+2021-0067-PRY,"Slide (land, mud, snow, rock)"
+2021-0069-CHL,Flood
+2021-0069-CHL,"Slide (land, mud, snow, rock)"
+2021-0072-IND,Flood
+2021-0077-CHE,Snow/ice
+2021-0079-PHL,Flood
+2021-0087-BRA,"Slide (land, mud, snow, rock)"
+2021-0090-MDG,"Slide (land, mud, snow, rock)"
+2021-0092-ECU,"Slide (land, mud, snow, rock)"
+2021-0096-USA,Cold wave
+2021-0098-PER,"Slide (land, mud, snow, rock)"
+2021-0101-PER,"Slide (land, mud, snow, rock)"
+2021-0108-PHL,"Slide (land, mud, snow, rock)"
+2021-0117-USA,"Slide (land, mud, snow, rock)"
+2021-0125-AUS,Flood
+2021-0145-PER,"Slide (land, mud, snow, rock)"
+2021-0158-CHN,Snow/ice
+2021-0158-MNG,Snow/ice
+2021-0165-IDN,"Slide (land, mud, snow, rock)"
+2021-0171-THA,Lightening
+2021-0173-IDN,Flood
+2021-0173-TLS,Flood
+2021-0173-TLS,"Slide (land, mud, snow, rock)"
+2021-0178-USA,Flood
+2021-0182-COL,"Slide (land, mud, snow, rock)"
+2021-0185-IDN,"Slide (land, mud, snow, rock)"
+2021-0199-USA,Hail
+2021-0202-BRA,Storm
+2021-0205-PAK,Storm
+2021-0211-USA,Transport accident
+2021-0212-PER,"Slide (land, mud, snow, rock)"
+2021-0214-COL,"Slide (land, mud, snow, rock)"
+2021-0230-GTM,"Slide (land, mud, snow, rock)"
+2021-0234-IND,"Slide (land, mud, snow, rock)"
+2021-0235-PER,"Slide (land, mud, snow, rock)"
+2021-0236-PLW,Surge
+2021-0248-CHN,Lightening
+2021-0248-CHN,Transport accident
+2021-0250-USA,Hail
+2021-0251-USA,Flood
+2021-0251-USA,Hail
+2021-0253-LKA,"Slide (land, mud, snow, rock)"
+2021-0266-USA,Flood
+2021-0266-USA,Hail
+2021-0267-IDN,Flood
+2021-0272-TJK,"Slide (land, mud, snow, rock)"
+2021-0273-USA,Flood
+2021-0278-SVK,Broken Dam/Burst bank
+2021-0282-RWA,"Slide (land, mud, snow, rock)"
+2021-0282-RWA,Storm
+2021-0283-TZA,Flood
+2021-0284-COD,Earthquake
+2021-0284-RWA,Earthquake
+2021-0286-UGA,"Slide (land, mud, snow, rock)"
+2021-0295-IND,Surge
+2021-0305-USA,Flood
+2021-0305-USA,Transport accident
+2021-0308-BTN,"Slide (land, mud, snow, rock)"
+2021-0308-NPL,"Slide (land, mud, snow, rock)"
+2021-0318-FRA,Lightening
+2021-0320-UKR,Flood
+2021-0323-IDN,Tsunami/Tidal wave
+2021-0325-MEX,Lightening
+2021-0325-MEX,"Slide (land, mud, snow, rock)"
+2021-0327-LAO,Flood
+2021-0327-VNM,Flood
+2021-0328-PAN,"Slide (land, mud, snow, rock)"
+2021-0332-BRA,"Slide (land, mud, snow, rock)"
+2021-0339-PHL,Flood
+2021-0339-PHL,"Slide (land, mud, snow, rock)"
+2021-0340-COL,"Slide (land, mud, snow, rock)"
+2021-0342-PAK,Flood
+2021-0342-PAK,Lightening
+2021-0351-CZE,Hail
+2021-0351-CZE,Lightening
+2021-0355-POL,Hail
+2021-0359-MEX,Flood
+2021-0359-MEX,"Slide (land, mud, snow, rock)"
+2021-0363-CHE,Hail
+2021-0363-DEU,Flood
+2021-0367-CAN,Heat wave
+2021-0369-CAN,Wildfire
+2021-0370-CYP,Heat wave
+2021-0373-CUB,"Slide (land, mud, snow, rock)"
+2021-0373-USA,Flood
+2021-0379-IDN,"Slide (land, mud, snow, rock)"
+2021-0381-NPL,"Slide (land, mud, snow, rock)"
+2021-0392-CHL,"Slide (land, mud, snow, rock)"
+2021-0397-RUS,Storm
+2021-0405-JPN,"Slide (land, mud, snow, rock)"
+2021-0411-AUT,"Slide (land, mud, snow, rock)"
+2021-0411-CZE,Hail
+2021-0411-DEU,"Slide (land, mud, snow, rock)"
+2021-0411-FRA,"Slide (land, mud, snow, rock)"
+2021-0411-ITA,Hail
+2021-0411-ITA,Storm
+2021-0411-LUX,"Slide (land, mud, snow, rock)"
+2021-0411-POL,Storm
+2021-0416-GMB,Flood
+2021-0419-IND,Collapse
+2021-0419-IND,Rain
+2021-0423-OMN,Flood
+2021-0429-PAK,Flood
+2021-0429-PAK,Lightening
+2021-0430-IRN,Flood
+2021-0430-IRN,Lightening
+2021-0435-IND,"Slide (land, mud, snow, rock)"
+2021-0436-BEL,Lightening
+2021-0436-FRA,Flood
+2021-0436-FRA,"Slide (land, mud, snow, rock)"
+2021-0442-USA,"Slide (land, mud, snow, rock)"
+2021-0445-PAN,"Slide (land, mud, snow, rock)"
+2021-0454-TUR,Heat wave
+2021-0455-BGD,"Slide (land, mud, snow, rock)"
+2021-0459-GRC,Heat wave
+2021-0480-DZA,Heat wave
+2021-0487-USA,Flood
+2021-0487-USA,Hail
+2021-0488-USA,Storm
+2021-0499-NZL,"Slide (land, mud, snow, rock)"
+2021-0500-IND,Collapse
+2021-0501-TUR,"Slide (land, mud, snow, rock)"
+2021-0502-RUS,Drought
+2021-0505-BGR,Heat wave
+2021-0506-MKD,Heat wave
+2021-0507-CHN,"Slide (land, mud, snow, rock)"
+2021-0508-JPN,"Slide (land, mud, snow, rock)"
+2021-0521-NGA,Storm
+2021-0524-MYS,"Slide (land, mud, snow, rock)"
+2021-0528-MEX,Flood
+2021-0528-MEX,"Slide (land, mud, snow, rock)"
+2021-0530-IDN,"Slide (land, mud, snow, rock)"
+2021-0531-USA,Flood
+2021-0532-USA,Flood
+2021-0538-VEN,"Slide (land, mud, snow, rock)"
+2021-0551-USA,Flood
+2021-0552-MEX,Flood
+2021-0552-MEX,"Slide (land, mud, snow, rock)"
+2021-0561-ESP,Lightening
+2021-0566-USA,Lightening
+2021-0578-KOR,Flood
+2021-0583-USA,Flood
+2021-0584-IDN,"Slide (land, mud, snow, rock)"
+2021-0585-IND,Broken Dam/Burst bank
+2021-0586-FRA,Lightening
+2021-0588-GTM,"Slide (land, mud, snow, rock)"
+2021-0590-SLV,"Slide (land, mud, snow, rock)"
+2021-0591-MYS,"Slide (land, mud, snow, rock)"
+2021-0595-PHL,Flood
+2021-0595-PHL,"Slide (land, mud, snow, rock)"
+2021-0596-PAK,Lightening
+2021-0596-PAK,"Slide (land, mud, snow, rock)"
+2021-0602-MEX,Tsunami/Tidal wave
+2021-0605-NPL,Lightening
+2021-0605-NPL,"Slide (land, mud, snow, rock)"
+2021-0612-THA,"Slide (land, mud, snow, rock)"
+2021-0632-VNM,"Slide (land, mud, snow, rock)"
+2021-0637-UGA,Hail
+2021-0637-UGA,"Slide (land, mud, snow, rock)"
+2021-0638-COL,"Slide (land, mud, snow, rock)"
+2021-0645-OMN,Flood
+2021-0645-OMN,"Slide (land, mud, snow, rock)"
+2021-0654-PAK,"Slide (land, mud, snow, rock)"
+2021-0655-CHN,Storm
+2021-0664-PHL,Flood
+2021-0664-PHL,"Slide (land, mud, snow, rock)"
+2021-0670-PHL,"Slide (land, mud, snow, rock)"
+2021-0674-KHM,"Slide (land, mud, snow, rock)"
+2021-0674-THA,"Slide (land, mud, snow, rock)"
+2021-0675-GEO,"Slide (land, mud, snow, rock)"
+2021-0681-IND,"Slide (land, mud, snow, rock)"
+2021-0681-NPL,"Slide (land, mud, snow, rock)"
+2021-0682-PHL,Surge
+2021-0686-MYS,"Slide (land, mud, snow, rock)"
+2021-0693-COL,"Slide (land, mud, snow, rock)"
+2021-0698-VNM,Flood
+2021-0698-VNM,"Slide (land, mud, snow, rock)"
+2021-0700-DZA,Lightening
+2021-0700-TUN,Lightening
+2021-0701-BEN,Broken Dam/Burst bank
+2021-0702-MEX,Flood
+2021-0705-IRQ,Lightening
+2021-0705-IRQ,Storm
+2021-0714-LKA,Lightening
+2021-0722-LKA,"Slide (land, mud, snow, rock)"
+2021-0725-BIH,"Slide (land, mud, snow, rock)"
+2021-0737-EGY,Hail
+2021-0737-EGY,Insect infestation
+2021-0741-CAN,"Slide (land, mud, snow, rock)"
+2021-0748-IND,Broken Dam/Burst bank
+2021-0763-VNM,"Slide (land, mud, snow, rock)"
+2021-0766-ESP,"Slide (land, mud, snow, rock)"
+2021-0766-ESP,Snow/ice
+2021-0784-USA,Storm
+2021-0792-FRA,"Slide (land, mud, snow, rock)"
+2021-0809-MWI,Flood
+2021-0809-MWI,Lightening
+2021-0811-ZAF,Flood
+2021-0823-IDN,"Slide (land, mud, snow, rock)"
+2021-0845-STP,"Slide (land, mud, snow, rock)"
+2021-0845-STP,Storm
+2021-9116-AFG,Food shortage
+2021-9148-ZAF,Food shortage
+2021-9459-KAZ,Heat wave
+2021-9546-ETH,Food shortage
+2021-9548-IRQ,Heat wave
+2021-9548-SYR,Food shortage
+2021-9639-SSD,Food shortage
+2021-9786-ZWE,Food shortage
+2021-9787-ZMB,Food shortage
+2021-9848-TZA,Food shortage
+2022-0007-USA,Cold wave
+2022-0011-IDN,"Slide (land, mud, snow, rock)"
+2022-0013-FJI,Flood
+2022-0014-PAK,Cold wave
+2022-0014-PAK,Snow/ice
+2022-0020-BRA,"Slide (land, mud, snow, rock)"
+2022-0026-PER,Oil spill
+2022-0026-PER,Tsunami/Tidal wave
+2022-0026-TON,Tsunami/Tidal wave
+2022-0032-MDG,Lightening
+2022-0032-MDG,"Slide (land, mud, snow, rock)"
+2022-0034-SYR,Cold wave
+2022-0052-MOZ,Flood
+2022-0053-UGA,"Slide (land, mud, snow, rock)"
+2022-0055-RWA,Lightening
+2022-0055-RWA,Storm
+2022-0058-PER,"Slide (land, mud, snow, rock)"
+2022-0061-MDG,Flood
+2022-0065-BRA,"Slide (land, mud, snow, rock)"
+2022-0081-DNK,Surge
+2022-0089-BRA,"Slide (land, mud, snow, rock)"
+2022-0091-PRI,"Slide (land, mud, snow, rock)"
+2022-0097-DEU,Flood
+2022-0109-COL,"Slide (land, mud, snow, rock)"
+2022-0126-USA,Hail
+2022-0133-ECU,"Slide (land, mud, snow, rock)"
+2022-0136-IDN,"Slide (land, mud, snow, rock)"
+2022-0137-MOZ,Flood
+2022-0137-MWI,Flood
+2022-0149-BRA,"Slide (land, mud, snow, rock)"
+2022-0157-USA,Hail
+2022-0163-PER,Flood
+2022-0172-VNM,"Slide (land, mud, snow, rock)"
+2022-0178-ECU,"Slide (land, mud, snow, rock)"
+2022-0185-USA,Flood
+2022-0185-USA,Hail
+2022-0190-BRA,"Slide (land, mud, snow, rock)"
+2022-0192-COL,"Slide (land, mud, snow, rock)"
+2022-0195-PHL,Lightening
+2022-0195-PHL,Storm
+2022-0200-COL,"Slide (land, mud, snow, rock)"
+2022-0204-PHL,Flood
+2022-0204-PHL,"Slide (land, mud, snow, rock)"
+2022-0205-ZAF,"Slide (land, mud, snow, rock)"
+2022-0212-USA,Flood
+2022-0212-USA,Hail
+2022-0219-IND,Flood
+2022-0219-IND,Lightening
+2022-0227-USA,Hail
+2022-0229-COL,"Slide (land, mud, snow, rock)"
+2022-0230-UZB,"Slide (land, mud, snow, rock)"
+2022-0232-COD,"Slide (land, mud, snow, rock)"
+2022-0232-RWA,"Slide (land, mud, snow, rock)"
+2022-0233-COL,"Slide (land, mud, snow, rock)"
+2022-0244-CAN,Flood
+2022-0244-USA,Hail
+2022-0261-USA,Hail
+2022-0264-AFG,"Slide (land, mud, snow, rock)"
+2022-0271-THA,Flood
+2022-0284-USA,Flood
+2022-0284-USA,Hail
+2022-0292-VNM,Flood
+2022-0292-VNM,"Slide (land, mud, snow, rock)"
+2022-0293-IND,Lightening
+2022-0293-IND,"Slide (land, mud, snow, rock)"
+2022-0316-CHN,"Slide (land, mud, snow, rock)"
+2022-0317-GTM,"Slide (land, mud, snow, rock)"
+2022-0318-BRA,"Slide (land, mud, snow, rock)"
+2022-0320-VNM,"Slide (land, mud, snow, rock)"
+2022-0324-IDN,"Slide (land, mud, snow, rock)"
+2022-0328-COL,"Slide (land, mud, snow, rock)"
+2022-0332-SOM,Storm
+2022-0333-MEX,Flood
+2022-0333-MEX,"Slide (land, mud, snow, rock)"
+2022-0334-CHN,"Slide (land, mud, snow, rock)"
+2022-0343-RUS,Flood
+2022-0347-CIV,"Slide (land, mud, snow, rock)"
+2022-0353-NPL,Flood
+2022-0353-NPL,"Slide (land, mud, snow, rock)"
+2022-0358-TUR,"Slide (land, mud, snow, rock)"
+2022-0361-USA,"Slide (land, mud, snow, rock)"
+2022-0373-FRA,Hail
+2022-0373-FRA,Lightening
+2022-0397-CHN,Transport accident
+2022-0398-JPN,Flood
+2022-0398-JPN,"Slide (land, mud, snow, rock)"
+2022-0400-NIC,Flood
+2022-0400-SLV,Flood
+2022-0405-PAK,"Slide (land, mud, snow, rock)"
+2022-0405-PAK,Storm
+2022-0406-ECU,"Slide (land, mud, snow, rock)"
+2022-0417-PRT,Heat wave
+2022-0417-PRT,Transport accident
+2022-0418-IDN,"Slide (land, mud, snow, rock)"
+2022-0427-GEO,"Slide (land, mud, snow, rock)"
+2022-0427-GEO,Storm
+2022-0428-CHN,"Slide (land, mud, snow, rock)"
+2022-0442-AFG,"Slide (land, mud, snow, rock)"
+2022-0446-NER,"Slide (land, mud, snow, rock)"
+2022-0448-PHL,"Slide (land, mud, snow, rock)"
+2022-0449-CAF,Storm
+2022-0476-IRN,"Slide (land, mud, snow, rock)"
+2022-0486-USA,Heat wave
+2022-0488-NPL,Flood
+2022-0488-NPL,Storm
+2022-0492-GMB,Storm
+2022-0493-NPL,"Slide (land, mud, snow, rock)"
+2022-0515-LAO,"Slide (land, mud, snow, rock)"
+2022-0522-NZL,Flood
+2022-0522-NZL,"Slide (land, mud, snow, rock)"
+2022-0525-AUT,Lightening
+2022-0525-FRA,Lightening
+2022-0525-ITA,Hail
+2022-0525-ITA,Lightening
+2022-0530-CHN,"Slide (land, mud, snow, rock)"
+2022-0533-CMR,Flood
+2022-0539-IND,"Slide (land, mud, snow, rock)"
+2022-0560-SLE,"Slide (land, mud, snow, rock)"
+2022-0577-KOR,Flood
+2022-0590-NPL,"Slide (land, mud, snow, rock)"
+2022-0603-DOM,"Slide (land, mud, snow, rock)"
+2022-0603-GLP,Flood
+2022-0603-PRI,Flood
+2022-0603-PRI,"Slide (land, mud, snow, rock)"
+2022-0609-ITA,"Slide (land, mud, snow, rock)"
+2022-0609-ITA,Storm
+2022-0613-VNM,Flood
+2022-0614-USA,Flood
+2022-0623-MEX,Tsunami/Tidal wave
+2022-0627-JPN,"Slide (land, mud, snow, rock)"
+2022-0642-IDN,Collapse
+2022-0642-IDN,"Slide (land, mud, snow, rock)"
+2022-0647-CRI,Flood
+2022-0647-GTM,Flood
+2022-0647-GTM,"Slide (land, mud, snow, rock)"
+2022-0647-NIC,Flood
+2022-0647-SLV,Flood
+2022-0648-VEN,Flood
+2022-0667-VNM,"Slide (land, mud, snow, rock)"
+2022-0675-MEX,Flood
+2022-0675-MEX,"Slide (land, mud, snow, rock)"
+2022-0676-VNM,Flood
+2022-0676-VNM,"Slide (land, mud, snow, rock)"
+2022-0677-LKA,Lightening
+2022-0677-LKA,"Slide (land, mud, snow, rock)"
+2022-0680-PHL,Flood
+2022-0680-TWN,Flood
+2022-0680-TWN,"Slide (land, mud, snow, rock)"
+2022-0682-VEN,Flood
+2022-0684-COL,Broken Dam/Burst bank
+2022-0685-PHL,Flood
+2022-0685-PHL,Lightening
+2022-0694-IDN,"Slide (land, mud, snow, rock)"
+2022-0697-FRA,Hail
+2022-0697-FRA,Lightening
+2022-0698-MEX,Flood
+2022-0698-MEX,"Slide (land, mud, snow, rock)"
+2022-0699-COL,"Slide (land, mud, snow, rock)"
+2022-0705-VEN,Flood
+2022-0705-VEN,Lightening
+2022-0707-PHL,Flood
+2022-0707-PHL,"Slide (land, mud, snow, rock)"
+2022-0721-VEN,"Slide (land, mud, snow, rock)"
+2022-0735-USA,Flood
+2022-0736-IDN,"Slide (land, mud, snow, rock)"
+2022-0743-COL,"Slide (land, mud, snow, rock)"
+2022-0746-COD,"Slide (land, mud, snow, rock)"
+2022-0770-COD,"Slide (land, mud, snow, rock)"
+2022-0775-ITA,Flood
+2022-0782-IDN,Storm
+2022-0793-BRA,"Slide (land, mud, snow, rock)"
+2022-0795-VNM,"Slide (land, mud, snow, rock)"
+2022-0800-MNG,Snow/ice
+2022-0805-COD,"Slide (land, mud, snow, rock)"
+2022-0818-USA,Cold wave
+2022-0818-USA,Flood
+2022-0825-BIH,"Slide (land, mud, snow, rock)"
+2022-0832-PHL,"Slide (land, mud, snow, rock)"
+2022-0843-MWI,Lightening
+2022-0843-MWI,Storm
+2022-0845-IDN,"Slide (land, mud, snow, rock)"
+2022-0846-TTO,"Slide (land, mud, snow, rock)"
+2022-0847-IDN,"Slide (land, mud, snow, rock)"
+2022-0863-USA,Flood
+2022-0863-USA,"Slide (land, mud, snow, rock)"
+2022-9209-USA,Heat wave
+2022-9252-CPV,Food shortage
+2022-9254-NER,Food shortage
+2022-9335-TCD,Food shortage
+2022-9370-DJI,Food shortage
+2022-9405-PRT,Heat wave
+2022-9436-UGA,Famine
+2022-9524-CHN,Heat wave
+2023-0002-PHL,"Slide (land, mud, snow, rock)"
+2023-0002-PHL,Storm
+2023-0019-AFG,Intoxication
+2023-0020-MDG,Flood
+2023-0020-MDG,"Slide (land, mud, snow, rock)"
+2023-0028-BRA,"Slide (land, mud, snow, rock)"
+2023-0028-BRA,Storm
+2023-0041-IDN,"Slide (land, mud, snow, rock)"
+2023-0044-IDN,"Slide (land, mud, snow, rock)"
+2023-0050-CHL,Heat wave
+2023-0052-USA,Cold wave
+2023-0052-USA,Transport accident
+2023-0054-TUR,Fire
+2023-0056-ZMB,Lightening
+2023-0066-PER,Flood
+2023-0073-IDN,Collapse
+2023-0079-NZL,Flood
+2023-0079-NZL,"Slide (land, mud, snow, rock)"
+2023-0092-BRA,"Slide (land, mud, snow, rock)"
+2023-0094-PHL,"Slide (land, mud, snow, rock)"
+2023-0095-MWI,Flood
+2023-0095-MWI,"Slide (land, mud, snow, rock)"
+2023-0095-REU,"Slide (land, mud, snow, rock)"
+2023-0126-ECU,"Slide (land, mud, snow, rock)"
+2023-0135-USA,Flood
+2023-0135-USA,Snow/ice
+2023-0137-PER,"Slide (land, mud, snow, rock)"
+2023-0157-BRA,"Slide (land, mud, snow, rock)"
+2023-0161-IND,Hail
+2023-0161-IND,Lightening
+2023-0177-ECU,Flood
+2023-0179-BRA,"Slide (land, mud, snow, rock)"
+2023-0200-COL,"Slide (land, mud, snow, rock)"
+2023-0203-BRA,"Slide (land, mud, snow, rock)"
+2023-0204-BRA,"Slide (land, mud, snow, rock)"
+2023-0208-PAK,"Slide (land, mud, snow, rock)"
+2023-0214-NZL,Hail
+2023-0214-NZL,Lightening
+2023-0221-PER,"Slide (land, mud, snow, rock)"
+2023-0222-BDI,"Slide (land, mud, snow, rock)"
+2023-0229-IRN,Flood
+2023-0229-IRQ,Flood
+2023-0233-BRA,Hail
+2023-0233-BRA,Lightening
+2023-0239-USA,Hail
+2023-0240-KHM,Flood
+2023-0242-UKR,Storm
+2023-0246-PHL,Flood
+2023-0253-USA,Hail
+2023-0263-VNM,Hail
+2023-0263-VNM,Lightening
+2023-0267-RWA,"Slide (land, mud, snow, rock)"
+2023-0270-ITA,"Slide (land, mud, snow, rock)"
+2023-0272-CAN,Storm
+2023-0279-JPN,"Slide (land, mud, snow, rock)"
+2023-0280-CAN,Heat wave
+2023-0280-CAN,Pollution
+2023-0281-COD,"Slide (land, mud, snow, rock)"
+2023-0285-CHN,Broken Dam/Burst bank
+2023-0288-USA,Hail
+2023-0290-SLE,Flood
+2023-0290-SLE,"Slide (land, mud, snow, rock)"
+2023-0293-ITA,"Slide (land, mud, snow, rock)"
+2023-0294-MMR,Flood
+2023-0294-MMR,Surge
+2023-0297-MNG,Snow/ice
+2023-0300-GUM,Flood
+2023-0300-JPN,Flood
+2023-0324-USA,Hail
+2023-0324-USA,Lightening
+2023-0325-BRA,Storm
+2023-0326-NPL,"Slide (land, mud, snow, rock)"
+2023-0330-IND,"Slide (land, mud, snow, rock)"
+2023-0331-IND,Flood
+2023-0331-IND,"Slide (land, mud, snow, rock)"
+2023-0332-USA,Hail
+2023-0334-KAZ,Drought
+2023-0334-KAZ,Heat wave
+2023-0339-HTI,Lightening
+2023-0339-HTI,"Slide (land, mud, snow, rock)"
+2023-0341-CHN,"Slide (land, mud, snow, rock)"
+2023-0352-ZAF,Flood
+2023-0359-IND,"Slide (land, mud, snow, rock)"
+2023-0364-USA,Pollution
+2023-0366-IDN,Flood
+2023-0366-IDN,Lightening
+2023-0370-USA,Hail
+2023-0384-YEM,Lightening
+2023-0384-YEM,"Slide (land, mud, snow, rock)"
+2023-0389-DOM,"Slide (land, mud, snow, rock)"
+2023-0389-DOM,Storm
+2023-0391-VEN,Industrial accidents
+2023-0408-SRB,"Slide (land, mud, snow, rock)"
+2023-0409-ARM,Flood
+2023-0410-GEO,Hail
+2023-0410-GEO,"Slide (land, mud, snow, rock)"
+2023-0411-ARG,Storm
+2023-0412-GAB,Flood
+2023-0413-JPN,"Slide (land, mud, snow, rock)"
+2023-0417-CHN,"Slide (land, mud, snow, rock)"
+2023-0434-BRA,Collapse
+2023-0435-MNG,Broken Dam/Burst bank
+2023-0436-LKA,Lightening
+2023-0437-IDN,"Slide (land, mud, snow, rock)"
+2023-0440-KOR,"Slide (land, mud, snow, rock)"
+2023-0444-GRC,Heat wave
+2023-0451-COL,Collapse
+2023-0458-ITA,Flood
+2023-0460-BIH,Flood
+2023-0460-HRV,Flood
+2023-0460-SVN,Hail
+2023-0462-PAK,"Slide (land, mud, snow, rock)"
+2023-0464-CHN,Flood
+2023-0464-CHN,"Slide (land, mud, snow, rock)"
+2023-0464-PHL,Flood
+2023-0464-PHL,"Slide (land, mud, snow, rock)"
+2023-0466-ITA,Hail
+2023-0466-ITA,Lightening
+2023-0466-ROU,Lightening
+2023-0468-DZA,Heat wave
+2023-0477-CMR,"Slide (land, mud, snow, rock)"
+2023-0487-RUS,Flood
+2023-0487-RUS,Hail
+2023-0488-VNM,"Slide (land, mud, snow, rock)"
+2023-0488-VNM,Storm
+2023-0490-RUS,Flood
+2023-0497-SVN,"Slide (land, mud, snow, rock)"
+2023-0517-MMR,"Slide (land, mud, snow, rock)"
+2023-0518-VNM,"Slide (land, mud, snow, rock)"
+2023-0526-JPN,Flood
+2023-0526-JPN,"Slide (land, mud, snow, rock)"
+2023-0530-MMR,Industrial accidents
+2023-0539-CHL,"Slide (land, mud, snow, rock)"
+2023-0548-IND,Collapse
+2023-0551-CHN,"Slide (land, mud, snow, rock)"
+2023-0559-DOM,Flood
+2023-0565-CUB,Flood
+2023-0565-USA,Flood
+2023-0568-CHN,Flood
+2023-0568-CHN,"Slide (land, mud, snow, rock)"
+2023-0570-TJK,"Slide (land, mud, snow, rock)"
+2023-0582-GRC,Lightening
+2023-0582-GRC,"Slide (land, mud, snow, rock)"
+2023-0600-MAR,"Slide (land, mud, snow, rock)"
+2023-0603-ARG,Flood
+2023-0603-BRA,Flood
+2023-0603-BRA,Hail
+2023-0606-IND,Flood
+2023-0609-JPN,Flood
+2023-0609-JPN,"Slide (land, mud, snow, rock)"
+2023-0610-LBY,Flood
+2023-0610-LBY,"Slide (land, mud, snow, rock)"
+2023-0619-ZAF,Storm
+2023-0621-GRC,Flood
+2023-0621-GRC,Hail
+2023-0621-GRC,"Slide (land, mud, snow, rock)"
+2023-0622-IND,Flood
+2023-0634-CMR,Broken Dam/Burst bank
+2023-0634-CMR,Flood
+2023-0635-VNM,"Slide (land, mud, snow, rock)"
+2023-0651-USA,Storm
+2023-0653-NPL,"Slide (land, mud, snow, rock)"
+2023-0654-LKA,Lightening
+2023-0656-USA,Hail
+2023-0656-USA,Transport accident
+2023-0663-BRA,Flood
+2023-0663-BRA,"Slide (land, mud, snow, rock)"
+2023-0671-COD,Flood
+2023-0672-NGA,Storm
+2023-0675-MEX,Flood
+2023-0675-MEX,"Slide (land, mud, snow, rock)"
+2023-0680-VUT,Flood
+2023-0680-VUT,"Slide (land, mud, snow, rock)"
+2023-0685-YEM,Flood
+2023-0703-SLV,Flood
+2023-0724-ITA,Flood
+2023-0724-ITA,"Slide (land, mud, snow, rock)"
+2023-0728-ETH,"Slide (land, mud, snow, rock)"
+2023-0732-HND,Flood
+2023-0733-LKA,Flood
+2023-0733-LKA,"Slide (land, mud, snow, rock)"
+2023-0746-MNG,Cold wave
+2023-0746-MNG,Snow/ice
+2023-0747-BRA,Flood
+2023-0747-BRA,Lightening
+2023-0747-BRA,Surge
+2023-0749-ISL,Volcanic activity
+2023-0754-VNM,Flood
+2023-0754-VNM,"Slide (land, mud, snow, rock)"
+2023-0761-BGR,Flood
+2023-0761-FRA,Flood
+2023-0761-TUR,Flood
+2023-0761-TUR,Transport accident
+2023-0763-DOM,Collapse
+2023-0783-BOL,"Slide (land, mud, snow, rock)"
+2023-0784-LKA,Flood
+2023-0784-LKA,"Slide (land, mud, snow, rock)"
+2023-0792-IND,Flood
+2023-0797-TZA,Flood
+2023-0802-PHL,"Slide (land, mud, snow, rock)"
+2023-0803-IDN,Storm
+2023-0804-DEU,Snow/ice
+2023-0804-DEU,Transport accident
+2023-0804-RUS,Surge
+2023-0809-BDI,"Slide (land, mud, snow, rock)"
+2023-0811-FJI,Flood
+2023-0811-FJI,"Slide (land, mud, snow, rock)"
+2023-0812-IND,Flood
+2023-0812-IND,Hail
+2023-0812-IND,Lightening
+2023-0815-AUS,Lightening
+2023-0815-AUS,Storm
+2023-0824-JOR,Flood
+2023-0825-CAF,Flood
+2023-0825-CAF,Lightening
+2023-0826-USA,Flood
+2023-0826-USA,Lightening
+2023-0828-AUS,Flood
+2023-0831-ARG,Lightening
+2023-0831-URY,Lightening
+2023-0838-CHN,"Slide (land, mud, snow, rock)"
+2023-0843-USA,Flood
+2023-0847-ZAF,Flood
+2023-0855-ZAF,"Slide (land, mud, snow, rock)"
+2023-0856-AUS,Flood
+2023-0856-AUS,Lightening
+2023-0856-AUS,Transport accident
+2023-0857-COD,"Slide (land, mud, snow, rock)"
+2023-0858-COD,Flood
+2023-0866-FRA,Storm
+2023-0875-LSO,Flood
+2023-9234-ESP,Heat wave
+2023-9234-ESP,Water shortage
+2023-9234-ESP,Wildfire
+2023-9234-ITA,Fire
+2023-9234-ITA,Pollution
+2023-9390-LSO,Food shortage
+2023-9390-LSO,Water shortage
+2023-9706-BOL,Heat wave
+2023-9868-USA,Heat wave
+2023-9878-MOZ,Food shortage
+2024-0001-JPN,Fire
+2024-0001-JPN,"Slide (land, mud, snow, rock)"
+2024-0001-JPN,Tsunami/Tidal wave
+2024-0004-USA,Flood
+2024-0004-USA,Severe winter conditions
+2024-0005-USA,Cold wave
+2024-0005-USA,Flood
+2024-0005-USA,Snow/ice
+2024-0005-USA,Transport accident
+2024-0008-LKA,"Slide (land, mud, snow, rock)"
+2024-0009-MUS,Flood
+2024-0009-REU,Flood
+2024-0009-REU,Surge
+2024-0012-BRA,Lightening
+2024-0012-BRA,"Slide (land, mud, snow, rock)"
+2024-0012-BRA,Storm
+2024-0015-ZAF,Lightening
+2024-0020-PHL,"Slide (land, mud, snow, rock)"
+2024-0036-BRA,Flood
+2024-0036-BRA,Lightening
+2024-0036-BRA,"Slide (land, mud, snow, rock)"
+2024-0043-PHL,"Slide (land, mud, snow, rock)"
+2024-0057-PHL,Transport accident
+2024-0060-JPN,Snow/ice
+2024-0062-USA,Flood
+2024-0062-USA,"Slide (land, mud, snow, rock)"
+2024-0062-USA,Snow/ice
+2024-0062-USA,Storm
+2024-0064-ECU,"Slide (land, mud, snow, rock)"
+2024-0072-LBN,Flood
+2024-0072-LBN,Snow/ice
+2024-0073-MHL,Flood
+2024-0074-ZAF,Flood
+2024-0077-CYP,Storm
+2024-0077-GRC,Hail
+2024-0077-TUR,"Slide (land, mud, snow, rock)"
+2024-0079-USA,Flood
+2024-0079-USA,Snow/ice
+2024-0092-AFG,"Avalanche (Snow, Debris)"
+2024-0098-BRA,"Slide (land, mud, snow, rock)"
+2024-0101-IDN,"Slide (land, mud, snow, rock)"
+2024-0101-IDN,Storm
+2024-0104-BRA,Flood
+2024-0104-BRA,"Slide (land, mud, snow, rock)"
+2024-0105-BOL,Broken Dam/Burst bank
+2024-0105-BOL,"Slide (land, mud, snow, rock)"
+2024-0106-THA,Flood
+2024-0106-THA,Lightening
+2024-0120-AFG,Cold wave
+2024-0120-AFG,Flood
+2024-0120-IRN,Cold wave
+2024-0120-PAK,"Slide (land, mud, snow, rock)"
+2024-0120-PAK,Snow/ice
+2024-0123-BDI,Flood
+2024-0123-BDI,Hail
+2024-0129-FRA,"Avalanche (Snow, Debris)"
+2024-0129-FRA,Flood
+2024-0129-ITA,"Avalanche (Snow, Debris)"
+2024-0129-ITA,Flood
+2024-0129-ITA,"Slide (land, mud, snow, rock)"
+2024-0130-IDN,Flood
+2024-0137-URY,"Slide (land, mud, snow, rock)"
+2024-0140-PNG,Flood
+2024-0141-COD,Flood
+2024-0141-COD,Lightening
+2024-0141-COD,"Slide (land, mud, snow, rock)"
+2024-0142-ARG,Flood
+2024-0145-AFG,Cold wave
+2024-0145-AFG,Snow/ice
+2024-0149-IND,Flood
+2024-0149-IND,Lightening
+2024-0150-KEN,Broken Dam/Burst bank
+2024-0150-KEN,"Slide (land, mud, snow, rock)"
+2024-0152-BRA,"Slide (land, mud, snow, rock)"
+2024-0153-PNG,"Slide (land, mud, snow, rock)"
+2024-0156-CUB,Flood
+2024-0156-CUB,Hail
+2024-0162-PER,Flood
+2024-0164-MOZ,Lightening
+2024-0172-MDG,Flood
+2024-0173-USA,Hail
+2024-0183-FRA,Storm
+2024-0189-TWN,"Slide (land, mud, snow, rock)"
+2024-0189-TWN,Tsunami/Tidal wave
+2024-0190-PAK,Flood
+2024-0190-PAK,Hail
+2024-0190-PAK,"Slide (land, mud, snow, rock)"
+2024-0193-USA,"Avalanche (Snow, Debris)"
+2024-0193-USA,Flood
+2024-0198-RUS,Broken Dam/Burst bank
+2024-0199-AUS,"Slide (land, mud, snow, rock)"
+2024-0199-AUS,Storm
+2024-0203-TZA,"Slide (land, mud, snow, rock)"
+2024-0204-IDN,"Slide (land, mud, snow, rock)"
+2024-0205-USA,Storm
+2024-0210-KEN,"Slide (land, mud, snow, rock)"
+2024-0210-KEN,Storm
+2024-0219-ARE,Storm
+2024-0232-BDI,"Slide (land, mud, snow, rock)"
+2024-0234-CHN,"Slide (land, mud, snow, rock)"
+2024-0242-THA,Flood
+2024-0250-KGZ,"Slide (land, mud, snow, rock)"
+2024-0263-PAK,Flood
+2024-0265-CHN,Flood
+2024-0266-USA,Flood
+2024-0269-BRA,Broken Dam/Burst bank
+2024-0269-BRA,"Slide (land, mud, snow, rock)"
+2024-0270-CHN,Collapse
+2024-0271-RWA,"Slide (land, mud, snow, rock)"
+2024-0272-VNM,Flood
+2024-0272-VNM,Lightening
+2024-0277-IDN,Flood
+2024-0278-HTI,Flood
+2024-0280-IND,Flood
+2024-0284-KGZ,"Slide (land, mud, snow, rock)"
+2024-0284-TJK,"Slide (land, mud, snow, rock)"
+2024-0290-IND,Collapse
+2024-0291-VNM,Lightening
+2024-0291-VNM,"Slide (land, mud, snow, rock)"
+2024-0296-USA,Flood
+2024-0296-USA,Hail
+2024-0296-USA,Lightening
+2024-0298-LKA,Lightening
+2024-0298-LKA,"Slide (land, mud, snow, rock)"
+2024-0299-DEU,"Slide (land, mud, snow, rock)"
+2024-0302-ZAF,Storm
+2024-0307-USA,Flood
+2024-0320-BGD,Broken Dam/Burst bank
+2024-0320-BGD,Surge
+2024-0320-IND,Flood
+2024-0320-IND,Industrial accidents
+2024-0320-IND,"Slide (land, mud, snow, rock)"
+2024-0327-IDN,"Slide (land, mud, snow, rock)"
+2024-0340-USA,Flood
+2024-0340-USA,Hail
+2024-0340-USA,Lightening
+2024-0350-COL,Flood
+2024-0351-USA,Hail
+2024-0358-VNM,"Slide (land, mud, snow, rock)"
+2024-0362-CHL,Flood
+2024-0362-CHL,Lightening
+2024-0362-CHL,Storm
+2024-0385-CIV,"Slide (land, mud, snow, rock)"
+2024-0386-ECU,Flood
+2024-0386-ECU,"Slide (land, mud, snow, rock)"
+2024-0393-VNM,Flood
+2024-0393-VNM,Lightening
+2024-0395-SLV,Flood
+2024-0395-SLV,"Slide (land, mud, snow, rock)"
+2024-0398-CHL,Flood
+2024-0398-CHL,Lightening
+2024-0399-BGD,"Slide (land, mud, snow, rock)"
+2024-0402-GTM,Flood
+2024-0402-GTM,"Slide (land, mud, snow, rock)"
+2024-0402-MEX,Flood
+2024-0402-MEX,"Slide (land, mud, snow, rock)"
+2024-0422-BRB,Surge
+2024-0422-CAN,Flood
+2024-0422-USA,Flood
+2024-0422-VEN,Flood
+2024-0428-NPL,"Slide (land, mud, snow, rock)"
+2024-0459-NZL,Flood
+2024-0459-NZL,Surge
+2024-0465-KOR,"Slide (land, mud, snow, rock)"
+2024-0471-MEX,Flood
+2024-0471-MEX,"Slide (land, mud, snow, rock)"
+2024-0473-PER,"Slide (land, mud, snow, rock)"
+2024-0473-PER,Tsunami/Tidal wave
+2024-0481-IND,Lightening
+2024-0482-CHN,"Slide (land, mud, snow, rock)"
+2024-0486-AFG,Lightening
+2024-0486-AFG,Storm
+2024-0487-KGZ,"Slide (land, mud, snow, rock)"
+2024-0514-CHN,Collapse
+2024-0518-CAN,Flood
+2024-0518-USA,Flood
+2024-0522-PHL,Flood
+2024-0522-PHL,"Slide (land, mud, snow, rock)"
+2024-0522-TWN,Flood
+2024-0531-MAR,Drought
+2024-0537-JPN,"Slide (land, mud, snow, rock)"
+2024-0544-SDN,Broken Dam/Burst bank
+2024-0568-CHN,Collapse
+2024-0568-CHN,"Slide (land, mud, snow, rock)"
+2024-0573-CAN,Flood
+2024-0573-USA,Flood
+2024-0582-CAN,Flood
+2024-0596-NPL,Flood
+2024-0596-NPL,"Slide (land, mud, snow, rock)"
+2024-0628-THA,"Slide (land, mud, snow, rock)"
+2024-0647-IND,"Slide (land, mud, snow, rock)"
+2024-0647-IND,Storm
+2024-0650-JPN,Flood
+2024-0650-JPN,"Slide (land, mud, snow, rock)"
+2024-0653-AUT,Broken Dam/Burst bank
+2024-0653-CZE,Flood
+2024-0653-ITA,Flood
+2024-0653-ITA,"Slide (land, mud, snow, rock)"
+2024-0653-POL,Broken Dam/Burst bank
+2024-0653-ROU,Flood
+2024-0654-CHN,Earthquake
+2024-0654-CHN,Flood
+2024-0654-MMR,Flood
+2024-0654-MMR,"Slide (land, mud, snow, rock)"
+2024-0654-PHL,"Slide (land, mud, snow, rock)"
+2024-0654-VNM,Flood
+2024-0654-VNM,"Slide (land, mud, snow, rock)"
+2024-0657-NGA,Broken Dam/Burst bank
+2024-0666-PHL,Flood
+2024-0669-USA,Heat wave
+2024-0671-USA,Flood
+2024-0681-CHN,Flood
+2024-0681-JPN,Flood
+2024-0681-JPN,"Slide (land, mud, snow, rock)"
+2024-0681-KOR,Flood
+2024-0685-MEX,Flood
+2024-0685-MEX,"Slide (land, mud, snow, rock)"
+2024-0692-NPL,"Slide (land, mud, snow, rock)"
+2024-0693-CUB,Flood
+2024-0693-CUB,Surge
+2024-0693-MEX,Flood
+2024-0693-USA,Flood
+2024-0693-USA,Surge
+2024-0698-IDN,Industrial accidents
+2024-0711-PHL,Flood
+2024-0718-BIH,"Slide (land, mud, snow, rock)"
+2024-0719-IND,"Slide (land, mud, snow, rock)"
+2024-0722-MEX,Flood
+2024-0722-MEX,Surge
+2024-0722-USA,Flood
+2024-0722-USA,Surge
+2024-0733-LKA,Flood
+2024-0746-AUS,Flood
+2024-0746-AUS,Lightening
+2024-0777-PHL,Flood
+2024-0777-PHL,"Slide (land, mud, snow, rock)"
+2024-0777-VNM,Flood
+2024-0778-IND,Flood
+2024-0778-IND,Surge
+2024-0782-CUB,Flood
+2024-0782-CUB,"Slide (land, mud, snow, rock)"
+2024-0782-CUB,Surge
+2024-0796-ESP,Lightening
+2024-0796-ESP,Storm
+2024-0801-TWN,Flood
+2024-0801-TWN,"Slide (land, mud, snow, rock)"
+2024-0814-USA,Flood
+2024-0814-USA,Lightening
+2024-0816-PAN,Flood
+2024-0816-PAN,"Slide (land, mud, snow, rock)"
+2024-0825-PHL,Flood
+2024-0825-PHL,"Slide (land, mud, snow, rock)"
+2024-0825-PHL,Surge
+2024-0835-COL,Flood
+2024-0835-COL,"Slide (land, mud, snow, rock)"
+2024-0838-CAF,Storm
+2024-0848-CUB,"Slide (land, mud, snow, rock)"
+2024-0855-PHL,"Slide (land, mud, snow, rock)"
+2024-0857-GTM,Flood
+2024-0857-GTM,"Slide (land, mud, snow, rock)"
+2024-0857-SLV,Flood
+2024-0857-SLV,"Slide (land, mud, snow, rock)"
+2024-0865-IDN,"Slide (land, mud, snow, rock)"
+2024-0867-GBR,Flood
+2024-0867-IRL,Flood
+2024-0867-NLD,Lightening
+2024-0874-BOL,"Slide (land, mud, snow, rock)"
+2024-0881-IND,Flood
+2024-0881-IND,"Slide (land, mud, snow, rock)"
+2024-0881-IND,Surge
+2024-0881-LKA,Flood
+2024-0881-LKA,"Slide (land, mud, snow, rock)"
+2024-0883-UGA,Broken Dam/Burst bank
+2024-0883-UGA,Flood
+2024-0894-BRA,Flood
+2024-0894-BRA,Hail
+2024-0898-IDN,"Slide (land, mud, snow, rock)"
+2024-0901-HTI,"Slide (land, mud, snow, rock)"
+2024-0902-MWI,Lightening
+2024-0902-MWI,Storm
+2024-0911-VUT,"Slide (land, mud, snow, rock)"
+2024-0911-VUT,Tsunami/Tidal wave
+2024-9075-COL,Heat wave
+2024-9075-COL,Water shortage
+2024-9075-COL,Wildfire
+2024-9131-ZMB,Food shortage
+2024-9131-ZMB,Water shortage
+2024-9197-MWI,Food shortage
+2024-9197-MWI,Water shortage
+2024-9197-ZWE,Food shortage
+2024-9197-ZWE,Water shortage
+2024-9338-NAM,Food shortage
+2024-9338-NAM,Water shortage
+2024-9381-GRD,Water shortage
+2024-9592-AGO,Food shortage
+2025-0002-USA,Cold wave
+2025-0002-USA,Transport accident
+2025-0008-USA,Storm
+2025-0018-ETH,Volcanic activity
+2025-0048-FRA,Flood
+2025-0048-ITA,"Slide (land, mud, snow, rock)"
+2025-0053-BRA,Storm
+2025-0072-BRA,Flood
+2025-0072-BRA,Lightening
+2025-0084-BOL,"Slide (land, mud, snow, rock)"
+2025-0106-USA,Cold wave
+2025-0106-USA,Flood
+2025-0106-USA,"Slide (land, mud, snow, rock)"
+2025-0106-USA,Snow/ice
+2025-0132-ECU,Flood
+2025-0132-ECU,"Slide (land, mud, snow, rock)"
+2025-0138-PER,"Slide (land, mud, snow, rock)"
+2025-0142-GEO,Snow/ice
+2025-0144-REU,"Slide (land, mud, snow, rock)"
+2025-0150-IDN,"Slide (land, mud, snow, rock)"
+2025-0152-MDG,Flood
+2025-0157-ECU,Earthquake
+2025-0157-ECU,Flood
+2025-0157-ECU,"Slide (land, mud, snow, rock)"
+2025-0158-MOZ,Flood
+2025-0173-THA,Hail
+2025-0173-THA,Lightening
+2025-0182-USA,Fire
+2025-0183-ITA,"Slide (land, mud, snow, rock)"
+2025-0188-IDN,"Slide (land, mud, snow, rock)"
+2025-0217-IND,Flood
+2025-0217-IND,Hail
+2025-0217-IND,Lightening
+2025-0230-HRV,"Slide (land, mud, snow, rock)"
+2025-9122-SOM,Food shortage

@@ -1,0 +1,314 @@
+[
+    {
+        "antecedents": [
+            "Flood"
+        ],
+        "consequents": [
+            "Broken Dam/Burst bank"
+        ],
+        "support": 0.014570179698882952,
+        "confidence": 0.02910360884749709,
+        "lift": 1.9206516223396315
+    },
+    {
+        "antecedents": [
+            "Broken Dam/Burst bank"
+        ],
+        "consequents": [
+            "Flood"
+        ],
+        "support": 0.014570179698882952,
+        "confidence": 0.9615384615384615,
+        "lift": 1.9206516223396315
+    },
+    {
+        "antecedents": [
+            "Food shortage"
+        ],
+        "consequents": [
+            "Drought"
+        ],
+        "support": 0.013016027197668771,
+        "confidence": 0.9640287769784174,
+        "lift": 22.71092965444578
+    },
+    {
+        "antecedents": [
+            "Drought"
+        ],
+        "consequents": [
+            "Food shortage"
+        ],
+        "support": 0.013016027197668771,
+        "confidence": 0.3066361556064073,
+        "lift": 22.710929654445778
+    },
+    {
+        "antecedents": [
+            "Earthquake"
+        ],
+        "consequents": [
+            "None"
+        ],
+        "support": 0.05021855269548325,
+        "confidence": 0.7614138438880707,
+        "lift": 1.1316234333517665
+    },
+    {
+        "antecedents": [
+            "None"
+        ],
+        "consequents": [
+            "Earthquake"
+        ],
+        "support": 0.05021855269548325,
+        "confidence": 0.07463548433665368,
+        "lift": 1.1316234333517667
+    },
+    {
+        "antecedents": [
+            "Slide (land, mud, snow, rock)"
+        ],
+        "consequents": [
+            "Earthquake"
+        ],
+        "support": 0.010199125789218067,
+        "confidence": 0.06692160611854685,
+        "lift": 1.01466558908754
+    },
+    {
+        "antecedents": [
+            "Earthquake"
+        ],
+        "consequents": [
+            "Slide (land, mud, snow, rock)"
+        ],
+        "support": 0.010199125789218067,
+        "confidence": 0.15463917525773196,
+        "lift": 1.0146655890875402
+    },
+    {
+        "antecedents": [
+            "Epidemic"
+        ],
+        "consequents": [
+            "None"
+        ],
+        "support": 0.08499271491015056,
+        "confidence": 0.9965831435079727,
+        "lift": 1.481135190185445
+    },
+    {
+        "antecedents": [
+            "None"
+        ],
+        "consequents": [
+            "Epidemic"
+        ],
+        "support": 0.08499271491015056,
+        "confidence": 0.12631730908040997,
+        "lift": 1.481135190185445
+    },
+    {
+        "antecedents": [
+            "Extreme temperature"
+        ],
+        "consequents": [
+            "None"
+        ],
+        "support": 0.044001942690626517,
+        "confidence": 0.8467289719626168,
+        "lift": 1.258419917187114
+    },
+    {
+        "antecedents": [
+            "None"
+        ],
+        "consequents": [
+            "Extreme temperature"
+        ],
+        "support": 0.044001942690626517,
+        "confidence": 0.0653962754439151,
+        "lift": 1.258419917187114
+    },
+    {
+        "antecedents": [
+            "Rain"
+        ],
+        "consequents": [
+            "Flood"
+        ],
+        "support": 0.010004856726566294,
+        "confidence": 0.533678756476684,
+        "lift": 1.0660114082125458
+    },
+    {
+        "antecedents": [
+            "Flood"
+        ],
+        "consequents": [
+            "Rain"
+        ],
+        "support": 0.010004856726566294,
+        "confidence": 0.019984478075281333,
+        "lift": 1.0660114082125458
+    },
+    {
+        "antecedents": [
+            "Flood"
+        ],
+        "consequents": [
+            "Slide (land, mud, snow, rock)"
+        ],
+        "support": 0.13258863525983486,
+        "confidence": 0.2648428405122235,
+        "lift": 1.7377673952028942
+    },
+    {
+        "antecedents": [
+            "Slide (land, mud, snow, rock)"
+        ],
+        "consequents": [
+            "Flood"
+        ],
+        "support": 0.13258863525983486,
+        "confidence": 0.8699808795411089,
+        "lift": 1.737767395202894
+    },
+    {
+        "antecedents": [
+            "Hail"
+        ],
+        "consequents": [
+            "Storm"
+        ],
+        "support": 0.019232637202525497,
+        "confidence": 0.9383886255924171,
+        "lift": 3.4551898785672153
+    },
+    {
+        "antecedents": [
+            "Storm"
+        ],
+        "consequents": [
+            "Hail"
+        ],
+        "support": 0.019232637202525497,
+        "confidence": 0.07081545064377681,
+        "lift": 3.455189878567215
+    },
+    {
+        "antecedents": [
+            "Mass movement (wet)"
+        ],
+        "consequents": [
+            "None"
+        ],
+        "support": 0.03846527440505099,
+        "confidence": 0.825,
+        "lift": 1.2261260285838023
+    },
+    {
+        "antecedents": [
+            "None"
+        ],
+        "consequents": [
+            "Mass movement (wet)"
+        ],
+        "support": 0.03846527440505099,
+        "confidence": 0.057167605023819824,
+        "lift": 1.2261260285838023
+    },
+    {
+        "antecedents": [
+            "Volcanic activity"
+        ],
+        "consequents": [
+            "None"
+        ],
+        "support": 0.010587663914521612,
+        "confidence": 0.83206106870229,
+        "lift": 1.2366202832813735
+    },
+    {
+        "antecedents": [
+            "None"
+        ],
+        "consequents": [
+            "Volcanic activity"
+        ],
+        "support": 0.010587663914521612,
+        "confidence": 0.015735527645445356,
+        "lift": 1.2366202832813735
+    },
+    {
+        "antecedents": [
+            "Wildfire"
+        ],
+        "consequents": [
+            "None"
+        ],
+        "support": 0.02690626517727052,
+        "confidence": 0.8075801749271138,
+        "lift": 1.2002364516925994
+    },
+    {
+        "antecedents": [
+            "None"
+        ],
+        "consequents": [
+            "Wildfire"
+        ],
+        "support": 0.02690626517727052,
+        "confidence": 0.039988450988884074,
+        "lift": 1.2002364516925994
+    },
+    {
+        "antecedents": [
+            "Flood",
+            "Storm"
+        ],
+        "consequents": [
+            "Slide (land, mud, snow, rock)"
+        ],
+        "support": 0.03147158814958718,
+        "confidence": 0.30393996247654786,
+        "lift": 1.9943033229420397
+    },
+    {
+        "antecedents": [
+            "Slide (land, mud, snow, rock)",
+            "Storm"
+        ],
+        "consequents": [
+            "Flood"
+        ],
+        "support": 0.03147158814958718,
+        "confidence": 0.7883211678832116,
+        "lift": 1.574653943220346
+    },
+    {
+        "antecedents": [
+            "Flood"
+        ],
+        "consequents": [
+            "Slide (land, mud, snow, rock)",
+            "Storm"
+        ],
+        "support": 0.03147158814958718,
+        "confidence": 0.06286379511059371,
+        "lift": 1.5746539432203461
+    },
+    {
+        "antecedents": [
+            "Slide (land, mud, snow, rock)"
+        ],
+        "consequents": [
+            "Flood",
+            "Storm"
+        ],
+        "support": 0.03147158814958718,
+        "confidence": 0.20650095602294455,
+        "lift": 1.9943033229420395
+    }
+]
