@@ -1,244 +1,222 @@
-<p align="center">
-  <a href="https://github.com/mizhexiaoxiao/vue-fastapi-admin">
-    <img alt="Vue FastAPI Admin Logo" width="200" src="https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/logo.svg">
-  </a>
-</p>
+# 自然灾害频发地区情况数据分析及可视化系统
 
-<h1 align="center">vue-fastapi-admin</h1>
+本项目是山东科技大学本科毕业设计《自然灾害频发地区情况数据分析及可视化系统》的配套实现，面向自然灾害历史数据的检索、统计分析、空间可视化和次生灾害关联分析场景。
 
-[English](./README-en.md) | 简体中文
+系统采用前后端分离的 B/S 架构，后端基于 FastAPI 提供 RESTful API，前端基于 Vue3、Naive UI、ECharts 与 Leaflet 构建交互式数据分析页面。系统围绕灾害事件、国家/地区、人员影响、经济损失和灾害关联规则等数据，提供多维度查询、图表分析、地图展示、权限管理与审计日志能力。
 
-基于 FastAPI + Vue3 + Naive UI 的现代化前后端分离开发平台，融合了 RBAC 权限管理、动态路由和 JWT 鉴权，助力中小型应用快速搭建，也可用于学习参考。
+## 项目背景
 
-### 特性
-- **最流行技术栈**：基于 Python 3.11 和 FastAPI 高性能异步框架，结合 Vue3 和 Vite 等前沿技术进行开发，同时使用高效的 npm 包管理器 pnpm。
-- **代码规范**：项目内置丰富的规范插件，确保代码质量和一致性，有效提高团队协作效率。
-- **动态路由**：后端动态路由，结合 RBAC（Role-Based Access Control）权限模型，提供精细的菜单路由控制。
-- **JWT鉴权**：使用 JSON Web Token（JWT）进行身份验证和授权，增强应用的安全性。
-- **细粒度权限控制**：实现按钮和接口级别的权限控制，确保不同用户或角色在界面操作和接口访问时具有不同的权限限制。
+近年来，全球自然灾害呈现高频化、复合化趋势，灾害数据来源分散、结构复杂，传统统计方式难以及时支撑风险监测与应急决策。本系统通过整合自然灾害历史数据，对灾害发生频次、影响人数、伤亡情况、经济损失和不同灾害类型之间的关联关系进行分析，并以图表和地图方式进行展示，为灾害态势研判和次生灾害应对提供辅助参考。
 
-### 在线预览
-- http://vue-fastapi-admin.com
-- username: admin
-- password: 123456
+## 核心功能
 
-### 登录页
+- 首页概览：展示近年灾害总频次、受影响人数、经济损失和高发灾害类型/国家排行。
+- 数据检索：按灾害编号、国家、灾害类型和时间范围查询灾害记录，并结合地图标记展示灾害位置。
+- 灾害详情：整合灾害基础信息、地理信息、人员影响和经济损失数据。
+- 全球尺度分析：按时间范围统计全球灾害频次、人员影响和直接经济损失，并用柱状图、折线图和饼图展示。
+- 国家尺度分析：支持选择国家和统计年限，查看单个国家的灾害频次、影响人数、伤亡人数、经济损失及散点对比分析。
+- 态势分析：基于 Leaflet 与 GeoJSON 进行大洲级空间可视化，并提供各国 Top10 排行图。
+- 次生灾害分析：基于 Apriori 关联规则挖掘灾害类型之间的关联关系，展示支持度、置信度和提升度，并支持生成智能分析报告。
+- 系统管理：提供用户、角色、菜单、API、部门和审计日志管理，支持 JWT 登录认证与 RBAC 权限控制。
 
-![image](https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/login.jpg)
-### 工作台
+## 技术栈
 
-![image](https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/workbench.jpg)
+### 后端
 
-### 用户管理
-
-![image](https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/user.jpg)
-### 角色管理
-
-![image](https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/role.jpg)
-
-### 菜单管理
-
-![image](https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/menu.jpg)
-
-### API管理
-
-![image](https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/api.jpg)
-
-### 快速开始
-#### 方法一：dockerhub拉取镜像
-
-```sh
-docker pull mizhexiaoxiao/vue-fastapi-admin:latest 
-docker run -d --restart=always --name=vue-fastapi-admin -p 9999:80 mizhexiaoxiao/vue-fastapi-admin
-```
-
-#### 方法二：dockerfile构建镜像
-##### docker安装(版本17.05+)
-
-```sh
-yum install -y docker-ce
-systemctl start docker
-```
-
-##### 构建镜像
-
-```sh
-git clone https://github.com/mizhexiaoxiao/vue-fastapi-admin.git
-cd vue-fastapi-admin
-docker build --no-cache . -t vue-fastapi-admin
-```
-
-##### 启动容器
-
-```sh
-docker run -d --restart=always --name=vue-fastapi-admin -p 9999:80 vue-fastapi-admin
-```
-
-##### 访问
-
-http://localhost:9999
-
-username：admin
-
-password：123456
-
-### 本地启动
-#### 后端
-启动项目需要以下环境：
 - Python 3.11
+- FastAPI 0.111
+- Uvicorn
+- Tortoise-ORM
+- Aerich
+- MySQL
+- Pydantic
+- JWT / RBAC
+- pandas、mlxtend、scikit-learn
 
-#### 方法一（推荐）：使用 uv 安装依赖
-1. 安装 uv
-```sh
-pip install uv
+### 前端
+
+- Vue3
+- Vite
+- Naive UI
+- Pinia
+- Vue Router
+- Axios
+- ECharts
+- Leaflet
+- UnoCSS
+
+## 数据说明
+
+项目中的灾害数据文件位于 `app/data` 目录，主要包括：
+
+- `disasters.csv`：灾害基础信息。
+- `countries.csv`：国家/地区信息。
+- `human_impact.csv`：人员影响数据。
+- `economic_loss.csv`：经济损失数据。
+- `associated_types.csv`：灾害关联类型数据。
+- `emdat.csv`：用于生成灾害关联规则的原始数据。
+
+后端启动时会根据 `app/data/emdat.csv` 生成关联规则文件：
+
+```text
+app/api/v1/association/disaster_association_rules.json
 ```
 
-2. 创建并激活虚拟环境
-```sh
-uv venv
-source .venv/bin/activate  # Linux/Mac
-# 或
-.\.venv\Scripts\activate  # Windows
+## 目录结构
+
+```text
+.
+├── app                         # 后端应用
+│   ├── api                     # API 路由
+│   │   └── v1                  # v1 接口模块
+│   ├── controllers             # 业务控制层
+│   ├── core                    # 中间件、依赖、异常、初始化逻辑
+│   ├── data                    # 灾害数据 CSV 文件
+│   ├── log                     # 日志模块
+│   ├── models                  # Tortoise-ORM 数据模型
+│   ├── schemas                 # Pydantic 数据结构
+│   ├── settings                # 系统配置
+│   └── utils                   # 工具函数
+├── migrations                  # Aerich 数据库迁移文件
+├── web                         # 前端应用
+│   ├── public                  # 公共资源
+│   ├── settings                # 前端配置
+│   └── src
+│       ├── api                 # 前端接口封装
+│       ├── components          # 通用组件
+│       ├── geojson             # 地图边界数据
+│       ├── router              # 路由配置
+│       ├── store               # Pinia 状态管理
+│       ├── styles              # 全局样式
+│       ├── utils               # 前端工具函数
+│       └── views               # 页面视图
+├── init.sql                    # MySQL 初始化脚本
+├── requirements.txt            # Python 依赖
+├── pyproject.toml              # Python 项目配置
+└── run.py                      # 后端启动入口
 ```
 
-3. 安装依赖
+## 环境要求
+
+- Python 3.11+
+- Node.js 18+
+- pnpm 或 npm
+- MySQL 5.7+ / 8.x
+
+## 后端启动
+
+1. 创建并激活 Python 虚拟环境：
+
 ```sh
-uv add pyproject.toml
+python -m venv .venv
+.\.venv\Scripts\activate
 ```
 
-4. 启动服务
+Linux / macOS：
+
+```sh
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+2. 安装依赖：
+
+```sh
+pip install -r requirements.txt
+```
+
+3. 配置数据库连接：
+
+打开 `app/settings/config.py`，按本地 MySQL 环境修改 `host`、`port`、`user`、`password` 和 `database`。
+
+4. 初始化数据库：
+
+```sh
+mysql -u root -p --local-infile=1 mybase < init.sql
+```
+
+如果本地 MySQL 禁用了 `local_infile`，需要先开启该配置；同时请根据实际 CSV 存放路径调整 `init.sql` 中的 `LOAD DATA INFILE` 路径。
+
+5. 启动后端服务：
+
 ```sh
 python run.py
 ```
 
-#### 方法二：使用 Pip 安装依赖
-1. 创建虚拟环境
-```sh
-python3 -m venv venv
+后端默认运行在：
+
+```text
+http://localhost:9999
 ```
 
-2. 激活虚拟环境
-```sh
-source venv/bin/activate  # Linux/Mac
-# 或
-.\venv\Scripts\activate  # Windows
+API 文档地址：
+
+```text
+http://localhost:9999/docs
 ```
 
-3. 安装依赖
-```sh
-pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
-```
+## 前端启动
 
-4. 启动服务
-```sh
-python run.py
-```
+1. 进入前端目录：
 
-服务现在应该正在运行，访问 http://localhost:9999/docs 查看API文档
-
-#### 前端
-启动项目需要以下环境：
-- node v18.8.0+
-
-1. 进入前端目录
 ```sh
 cd web
 ```
 
-2. 安装依赖(建议使用pnpm: https://pnpm.io/zh/installation)
+2. 安装依赖：
+
 ```sh
-npm i -g pnpm # 已安装可忽略
-pnpm i # 或者 npm i
+pnpm install
 ```
 
-3. 启动
+如果没有安装 pnpm，也可以使用：
+
+```sh
+npm install
+```
+
+3. 启动开发服务：
+
 ```sh
 pnpm dev
 ```
 
-### 目录说明
+前端启动后根据终端提示访问本地地址。本项目 `web/.env` 中默认端口为 `3100`：
 
-```
-├── app                   // 应用程序目录
-│   ├── api               // API接口目录
-│   │   └── v1            // 版本1的API接口
-│   │       ├── apis      // API相关接口
-│   │       ├── base      // 基础信息接口
-│   │       ├── menus     // 菜单相关接口
-│   │       ├── roles     // 角色相关接口
-│   │       └── users     // 用户相关接口
-│   ├── controllers       // 控制器目录
-│   ├── core              // 核心功能模块
-│   ├── log               // 日志目录
-│   ├── models            // 数据模型目录
-│   ├── schemas           // 数据模式/结构定义
-│   ├── settings          // 配置设置目录
-│   └── utils             // 工具类目录
-├── deploy                // 部署相关目录
-│   └── sample-picture    // 示例图片目录
-└── web                   // 前端网页目录
-    ├── build             // 构建脚本和配置目录
-    │   ├── config        // 构建配置
-    │   ├── plugin        // 构建插件
-    │   └── script        // 构建脚本
-    ├── public            // 公共资源目录
-    │   └── resource      // 公共资源文件
-    ├── settings          // 前端项目配置
-    └── src               // 源代码目录
-        ├── api           // API接口定义
-        ├── assets        // 静态资源目录
-        │   ├── images    // 图片资源
-        │   ├── js        // JavaScript文件
-        │   └── svg       // SVG矢量图文件
-        ├── components    // 组件目录
-        │   ├── common    // 通用组件
-        │   ├── icon      // 图标组件
-        │   ├── page      // 页面组件
-        │   ├── query-bar // 查询栏组件
-        │   └── table     // 表格组件
-        ├── composables   // 可组合式功能块
-        ├── directives    // 指令目录
-        ├── layout        // 布局目录
-        │   └── components // 布局组件
-        ├── router        // 路由目录
-        │   ├── guard     // 路由守卫
-        │   └── routes    // 路由定义
-        ├── store         // 状态管理(pinia)
-        │   └── modules   // 状态模块
-        ├── styles        // 样式文件目录
-        ├── utils         // 工具类目录
-        │   ├── auth      // 认证相关工具
-        │   ├── common    // 通用工具
-        │   ├── http      // 封装axios
-        │   └── storage   // 封装localStorage和sessionStorage
-        └── views         // 视图/页面目录
-            ├── error-page // 错误页面
-            ├── login      // 登录页面
-            ├── profile    // 个人资料页面
-            ├── system     // 系统管理页面
-            └── workbench  // 工作台页面
+```text
+http://localhost:3100
 ```
 
-### 进群交流
-进群的条件是给项目一个star，小小的star是作者维护下去的动力。
+## 默认账号
 
-你可以在群里提出任何疑问，我会尽快回复答疑。
+系统初始化时会创建默认管理员账号：
 
-<img width="300" src="https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/group.jpg">
+```text
+用户名：admin
+密码：123456
+```
 
-## 打赏
-如果项目有帮助到你，可以请作者喝杯咖啡~
+## 主要接口模块
 
-<div style="display: flex">
-    <img src="https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/1.jpg" width="300">
-    <img src="https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/2.jpg" width="300">
-</div>
+后端接口统一以 `/api/v1` 为前缀，主要模块如下：
 
-## 定制开发
-如果有基于该项目的定制需求或其他合作，请添加下方微信，备注来意
+- `/base`：登录、用户信息、菜单和用户 API。
+- `/disaster`：灾害数据详情、列表、统计和关键字校验。
+- `/human_impact`：人员影响、伤亡人数和受影响人数统计。
+- `/economic_loss`：经济损失查询与统计。
+- `/country`：国家/地区数据管理。
+- `/association`：灾害关联规则查询。
+- `/user`、`/role`、`/menu`、`/api`、`/dept`、`/auditlog`：系统管理相关接口。
 
-<img width="300" src="https://github.com/mizhexiaoxiao/vue-fastapi-admin/blob/main/deploy/sample-picture/3.jpg">
+## 论文信息
 
-### Visitors Count
+- 论文题目：自然灾害频发地区情况数据分析及可视化系统
+- 英文题目：Data analysis and visualization system for areas with frequent natural disasters
+- 作者：姚和艺
+- 学校：山东科技大学
+- 专业：软件工程
+- 完成日期：2025 年 6 月 8 日
 
-<img align="left" src = "https://profile-counter.glitch.me/vue-fastapi-admin/count.svg" alt="Loading">
+## 说明
+
+本项目基于 `vue-fastapi-admin` 后台管理框架进行二次开发，保留了用户、角色、菜单、API 和审计日志等后台基础能力，并在此基础上扩展了自然灾害数据管理、统计分析、空间可视化和次生灾害关联分析等毕业设计业务功能。
